@@ -184,6 +184,7 @@ aus
 aus sein, ist aus, war aus, ist aus gewesen
 die Ausbildung, -en
 der Ausbildungsplatz, -̈e
+der Ausdruck, -̈e
 der Ausdruck, -e
 ausdrucken, druckt aus, druckte aus, hat ausgedruckt
 auseinander
@@ -245,6 +246,7 @@ der Balkon, -e
 der Ball, -̈e
 das Ballett, -e
 die Banane, -n
+die Bank, -̈e
 die Bank, -en
 die Bankleitzahl, -en
 die Bar, -s
@@ -749,6 +751,7 @@ das Ersatzteil, -e
 erschrecken, erschrickt, erschrak, ist erschrocken/ jdn. erschrecken, erschreckt, erschreckte, hat erschreckt
 erschöpft
 ersetzen, ersetzt, ersetzte, hat ersetzt
+erst
 erst-
 erstellen, erstellt, erstellte, hat erstellt
 erwachsen
@@ -779,6 +782,7 @@ die Fachleute (Pl.)
 der Fachmann, -̈er
 der Fachmann die Fachfrau, -en
 die Fahrbahn, -en
+fahren, fährt, fuhr, ist/hat gefahren
 (herunter-)fahren, fährt herunter, fuhr herunter, hat heruntergefahren
 der Fahrer, -
 die Fahrkarte, -n
@@ -1014,6 +1018,7 @@ gesamt-/Gesamt-
 geschehen, geschieht, geschah, ist geschehen
 das Geschenk, -e
 die Geschichte, -n
+geschieden
 geschieden
 geschieden sein, ist geschieden, war geschieden
 das Geschirr
@@ -1514,6 +1519,7 @@ leise
 leisten, leistet, leistete, hat geleistet
 die Leistung, -en
 leiten, leitet, leitete, hat geleitet
+der Leiter, - die Leiterin, -nen
 die Leiter, -n
 die Leitung, -en
 lernen, lernt, lernte, hat gelernt
@@ -1607,6 +1613,7 @@ die Mehrwertsteuer
 meinen, meint, meinte, hat gemeint
 meinetwegen
 die Meinung, -en
+meist-, die meisten
 meist(ens)
 meistens (meist)
 der Meister, -
@@ -1961,6 +1968,7 @@ rechnen, rechnet, rechnete, hat gerechnet
 der Rechner, -
 die Rechnung, -en
 das Recht, -e
+recht
 recht-
 rechtlich
 rechts
@@ -2422,6 +2430,7 @@ technisch
 die Technologie, -n
 der Tee
 Tee ziehen lassen
+das Teil, -e
 der Teil, -e
 teilen, teilt, teilte, hat geteilt
 die Teilnahme, -n
@@ -2481,6 +2490,7 @@ trainieren, trainiert, trainierte, hat trainiert
 das Training, -s
 der Transport, -e
 transportieren, transportiert, transportierte, hat transportiert
+der Traum, -̈e
 Traum-
 traurig
 die Trauung, -en
@@ -2513,6 +2523,7 @@ tödlich
 die Tür, -en
 die Tüte, -n
 die U-Bahn, -en
+die U-Bahn, -en
 das Ufer, -
 die Uhr, -en
 um
@@ -2533,6 +2544,7 @@ umtauschen, tauscht um, tauschte um, hat umgetauscht
 die Umwelt
 der Umweltschutz
 die Umweltver- schmutzung, -en
+umziehen, zieht um, zog um, ist umgezogen
 sich umziehen, zieht sich um, zog sich um, hat sich umgezogen
 der Umzug, -̈e
 un-
@@ -2549,6 +2561,7 @@ unheimlich
 die Uniform, -en
 die Universität, -en unten
 unten
+unter
 unter-
 unterbrechen, unterbricht, unterbrach, hat unterbrochen
 (sich) unterhalten, unter- hält, unterhielt, hat unterhalten
@@ -2732,6 +2745,7 @@ vorn, vorne
 der Vorname, -n
 sich vornehmen, nimmt sich vor, nahm sich vor, hat sich vorgenommen
 der Vorort, -e
+der Vorort, -e
 der Vorschlag, -̈e
 vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen
 die Vorschrift, -en
@@ -2857,6 +2871,7 @@ wohnen, wohnt, wohnte, hat gewohnt
 das Wohngeld, -er
 die Wohngemeinschaft, -en
 der Wohnort, -e
+der Wohnort, -e
 der Wohnsitz, -e
 die Wohnung, -en
 das Wohnungsamt, -̈er
@@ -2864,6 +2879,7 @@ das Wohnzimmer, -
 die Wolke, -n
 die Wolle
 wollen, will, wollte, hat gewollt (hat wollen als Modalverb)
+das Wort, -̈er
 das Wort, -e
 worum
 worüber
@@ -2949,12 +2965,14 @@ zunehmen, nimmt zu, nahm zu, hat zugenommen
 zunächst
 zurechtkommen, kommt zurecht, kam zurecht, ist zurechtgekommen
 zurzeit
+zurzeit
 zurück/zurück-
 zusagen, sagt zu, sagte zu, hat zugesagt
 zusammen/zusammen-
 die Zusammenarbeit
 zusammenfassen, fasst zusammen, fasste zusammen, hat zusammengefasst
 der Zusammenhang, -̈e
+zuschauen
 zuschauen, schaut zu, schaute zu, hat zugeschaut
 der Zuschauer, - die Zuschauerin, -nen
 der Zuschlag, -̈e
