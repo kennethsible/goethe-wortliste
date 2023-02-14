@@ -1,2866 +1,2078 @@
-1. der/das (Schlag-)Obers (A) → D: (Schlag-)Sahne; CH: (Schlag-)Rahm
-2. und
-3. in
-4. ein-
-5. haben, hat, hatte, hat gehabt
-6. werden, wird, wurde, ist geworden
-7. von
-8. nicht
-9. es
-10. mit
-11. auf
-12. für
-13. auch
-14. an
-15. dass
-16. zu
-17. als
-18. können, kann, konnte, hat gekonnt (hat können als Modalverb)
-19. dies-
-20. wie
-21. so
-22. bei
-23. sein, ist, war, ist gewesen
-24. aber
-25. man
-26. noch
-27. nach
-28. oder
-29. all-
-30. aus
-31. was
-32. nur
-33. sagen, sagt, sagte, hat gesagt
-34. dann
-35. wenn
-36. müssen, muss, musste, hat gemusst (hat müssen als Modalverb)
-37. um
-38. ja
-39. kein-
-40. über
-41. da
-42. geben, gibt, gab, hat gegeben
-43. vor
-44. durch
-45. viel/viele
-46. wollen, will, wollte, hat gewollt (hat wollen als Modalverb)
-47. machen, macht, machte, hat gemacht
-48. sollen, soll, sollte, hat gesollt (hat sollen als Modalverb)
-49. schon
-50. kommen, kommt, kam, ist gekommen
-51. immer
-52. gehen, geht, ging, ist gegangen
-53. groß
-54. hier/hier-
-55. ganz
-56. also
-57. jetzt
-58. doch
-59. wieder/wieder-
-60. gut
-61. bis
-62. wissen, weiß, wusste, hat gewusst
-63. sehen, sieht, sah, hat gesehen
-64. sehr
-65. das Mal, -e
-66. lassen, lässt, ließ, hat gelassen
-67. neu
-68. stehen, steht, stand, hat/ist gestanden
-69. weil
-70. unter
-71. unter-
-72. der Mensch, -en
-73. denn
-74. das Beispiel, -e
-75. die Zeit
-76. lang
-77. leben, lebt, lebte, hat gelebt
-78. die Frau, -en
-79. etwas
-80. selbst
-81. wenig/wenige
-82. finden, findet, fand, hat gefunden
-83. gegen
-84. zwischen
-85. liegen, liegt, lag, hat/ist gelegen
-86. wo
-87. nichts
-88. klein
-89. bleiben, bleibt, blieb, ist geblieben
-90. nun
-91. sondern
-92. hoch
-93. ohne
-94. der Mann, ¨-er
-95. tun, tut, tat, hat getan
-96. einmal
-97. heißen, heißt, hieß, hat geheißen
-98. ob
-99. denken, denkt, dachte, hat gedacht
-100. dabei
-101. seit
-102. einfach
-103. erst
-104. erst-
-105. das Kind, -er
-106. das Land, ¨-er
-107. stellen, stellt, stellte, hat gestellt
-108. zeigen, zeigt, zeigte, hat gezeigt
-109. natürlich
-110. alt
-111. dort
-112. gleich
-113. nehmen, nimmt, nahm, hat genommen
-114. dürfen, darf, durfte, hat gedurft (hat dürfen als Modalverb)
-115. wichtig
-116. vielleicht
-117. hören, hört, hörte, hat gehört
-118. das Haus, ¨-er
-119. nein
-120. wer
-121. eigentlich
-122. fragen, fragt, fragte, hat gefragt
-123. der Herr, -en
-124. halten, hält, hielt, hat gehalten
-125. glauben, glaubt, glaubte, hat geglaubt
-126. die Frage, -n
-127. gelten, gilt, galt, hat gegolten
-128. gerade
-129. folgen, folgt, folgte, ist gefolgt
-130. sprechen, spricht, sprach, hat gesprochen
-131. führen, führt, führte, hat geführt
-132. bringen, bringt, brachte, hat gebracht
-133. die Welt
-134. gar
-135. eigen-
-136. genau
-137. mögen, mag, mochte, hat gemocht
-138. spät
-139. bereits
-140. möglich
-141. während
-142. dafür
-143. kurz
-144. richtig
-145. stark
-146. brauchen, braucht, brauchte, hat gebraucht
-147. die Hand, ¨-e
-148. etwa
-149. das Ende
-150. schreiben, schreibt, schrieb, hat geschrieben
-151. solch-
-152. nie
-153. der Fall, ¨-e
-154. schön
-155. wirklich
-156. nennen, nennt, nannte, hat genannt
-157. warum
-158. ziehen, zieht, zog, hat/ist gezogen
-159. das Wort, ¨-er
-160. das Wort, -e
-161. eben
-162. die Seite, -n
-163. das Teil, -e
-164. der Teil, -e
-165. jung
-166. fast
-167. schnell
-168. die Stadt, ¨-e
-169. spielen, spielt, spielte, hat gespielt
-170. zwar
-171. die Arbeit, -en
-172. das Problem, -e
-173. (sich) verstehen, versteht, verstand, hat verstanden
-174. bekommen, bekommt, bekam, hat bekommen
-175. meinen, meint, meinte, hat gemeint
-176. fahren, fährt, fuhr, ist/hat gefahren
-177. kennen, kennt, kannte, hat gekannt
-178. die Mutter, ¨-
-179. der Weg, -e
-180. weiter/weiter-
-181. das Auge, -n
-182. oft/öfter
-183. die Leute (Pl.)
-184. allerdings
-185. sogar
-186. jedoch
-187. (sich) setzen, setzt, setzte, hat gesetzt
-188. deshalb
-189. weit
-190. sitzen, sitzt, saß, hat/ist gesessen
-191. der Vater, ¨-
-192. arbeiten, arbeitet, arbeitete, hat gearbeitet
-193. das Geld
-194. erklären, erklärt, erklärte, hat erklärt
-195. klar
-196. der Doktor, -en die Doktorin, -nen
-197. das Paar, -e
-198. das Recht, -e
-199. wegen
-200. das Wasser
-201. bestehen, besteht, bestand, hat bestanden
-202. versuchen, versucht, versuchte, hat versucht
-203. der Punkt, -e
-204. der Grund, ¨-e
-205. der Kopf, ¨-e
-206. beginnen, beginnt, begann, hat begonnen
-207. laufen, läuft, lief, ist gelaufen
-208. das Bild, -er
-209. verschieden
-210. der Name, -n
-211. die Aufgabe, -n
-212. schwer
-213. treffen, trifft, traf, hat getroffen
-214. die Art, -en
-215. wohl
-216. die Geschichte, -n
-217. erzählen, erzählt, erzählte, hat erzählt
-218. entstehen, entsteht, entstand, ist entstanden
-219. sicher
-220. neben
-221. allein
-222. die Abbildung, -en
-223. hinter/hinter-
-224. besonders
-225. tragen, trägt, trug, hat getragen
-226. kaum
-227. der Freund, -e
-228. scheinen, scheint, schien, hat geschienen
-229. die Stunde, -n
-230. aussehen, sieht aus, sah aus, hat ausgesehen
-231. gern/gerne
-232. überhaupt
-233. bestimmt
-234. der Professor, -en die Professorin, -nen
-235. schaffen, schafft, schaffte, hat geschafft
-236. damals
-237. erhalten, erhält, erhielt, hat erhalten
-238. lernen, lernt, lernte, hat gelernt
-239. frei
-240. der Wert, -e
-241. suchen, sucht, suchte, hat gesucht
-242. gemeinsam
-243. rund
-244. die Zahl, -en
-245. das Thema, Themen
-246. handeln, handelt, handelte, hat gehandelt
-247. das Buch, ¨-er
-248. deutlich
-249. anders
-250. politisch
-251. lesen, liest, las, hat gelesen
-252. der Blick, -e
-253. einzeln
-254. erreichen, erreicht, erreichte, hat erreicht
-255. leicht
-256. je
-257. verlieren, verliert, verlor, hat verloren
-258. die Lösung, -en
-259. die Sache, -n
-260. bekannt
-261. das Ziel, -e
-262. steigen, steigt, stieg, ist gestiegen
-263. eher
-264. essen, isst, aß, hat gegessen
-265. der Platz, ¨-e
-266. schlecht
-267. das Spiel, -e
-268. die Familie, -n
-269. jemand
-270. fallen, fällt, fiel, ist gefallen
-271. der Preis, -e
-272. sonst
-273. helfen, hilft, half, hat geholfen
-274. der Bereich, -e
-275. tatsächlich
-276. der Ort, -e
-277. einzig-
-278. die Stelle, -n
-279. unterschiedlich
-280. das Gesicht, -er
-281. die Entwicklung, -en
-282. die Uhr, -en
-283. mehrere
-284. schließen, schließt, schloss, hat geschlossen
-285. schließlich
-286. legen, legt, legte, hat gelegt
-287. direkt
-288. daher
-289. offen
-290. erkennen, erkennt, erkannte, hat erkannt
-291. die Person, -en
-292. der Moment, -e
-293. die Schule, -n
-294. das Auto, -s
-295. niemand
-296. die Gesellschaft, -en
-297. warten, wartet, wartete, hat gewartet
-298. (sich) vorstellen, stellt vor, stellte vor, hat vorgestellt
-299. früh
-300. treten, tritt, trat, hat/ist getreten
-301. reden, redet, redete, hat geredet
-302. die Gruppe, -n
-303. das Ding, -e
-304. gewinnen, gewinnt, gewann, hat gewonnen
-305. zunächst
-306. damit
-307. die Tür, -en
-308. der Schritt, -e
-309. entwickeln, entwickelt, entwickelte, hat entwickelt
-310. die Möglichkeit, -en
-311. der Sinn
-312. passieren, passiert, passierte, ist passiert
-313. manchmal
-314. der Vergleich, -e
-315. das System, -e
-316. die Rolle, -n
-317. das Ergebnis, -se
-318. vergleichen, vergleicht, verglich, hat verglichen
-319. voll
-320. erwarten, erwartet, erwartete, hat erwartet
-321. obwohl
-322. die Straße, -n
-323. die Angst, “-e
-324. allgemein
-325. fühlen, fühlt, fühlte, hat gefühlt
-326. erinnern, erinnert, erinnerte, hat erinnert
-327. bedeuten, bedeutet, bedeutete, hat bedeutet
-328. die Stimme, -n
-329. die Reaktion, -en
-330. wirken, wirkt, wirkte, hat gewirkt
-331. darstellen, stellt dar, stellte dar, hat dargestellt
-332. der Raum, ¨-e
-333. die Eltern (Pl.)
-334. häufig
-335. früher/früher-
-336. pro
-337. entscheiden, entscheidet, entschied, hat entschieden
-338. die Universität, -en unten
-339. oben
-340. die Richtung, -en
-341. fehlen, fehlt, fehlte, hat gefehlt
-342. die Sprache, -n
-343. das Produkt, -e
-344. die Situation, -en
-345. außerdem
-346. nämlich
-347. international
-348. der Anfang, ¨-e
-349. nutzen, nutzt, nutzte, hat genutzt
-350. sozial
-351. die Folge, -n
-352. der Satz, ¨-e
-353. die Verbindung, -en
-354. beschreiben, beschreibt, beschrieb, hat beschrieben
-355. das Licht, -er
-356. ähnlich
-357. die Regel, -n
-358. gegenüber
-359. der Kollege, -n die Kollegin, -nen
-360. bisher
-361. tief
-362. halb
-363. lachen, lacht, lachte, hat gelacht
-364. ebenfalls
-365. sofort
-366. die Grenze, -n
-367. ändern, ändert, änderte, hat geändert
-368. die Entscheidung, -en
-369. verlassen, verlässt, verließ, hat verlassen
-370. die Idee, -n
-371. verbinden, verbindet, verband, hat verbunden
-372. endlich
-373. die Energie, -n
-374. plötzlich
-375. danach
-376. die Kraft, ¨-e
-377. gehören, gehört, gehörte, hat gehört
-378. einsetzen, setzt ein, setzte ein, hat eingesetzt
-379. das Gefühl, -e
-380. trotzdem
-381. sich befinden, befindet sich, befand sich, hat sich befunden
-382. die Information, -en
-383. dagegen
-384. die Zukunft
-385. wachsen, wächst, wuchs, ist gewachsen
-386. bitte
-387. der Text, -e
-388. sterben, stirbt, starb, ist gestorben
-389. der Markt, ¨-e
-390. halt
-391. die Hilfe
-392. das Kapitel, -
-393. ausgehen, geht aus, ging aus, ist ausgegangen
-394. die Bedeutung, -en
-395. die Luft
-396. der Körper, -
-397. stimmen, stimmt, stimmte, hat gestimmt
-398. bitten, bittet, bat, hat gebeten
-399. wahrscheinlich
-400. öffentlich
-401. insgesamt
-402. anfangen, fängt an, fing an, hat angefangen
-403. genug
-404. (sich) verändern, verändert, veränderte, hat verändert
-405. die Wohnung, -en
-406. gelingen, gelingt, gelang, ist gelungen
-407. bald
-408. gering
-409. der Film, -e
-410. ansehen, sieht an, sah an, hat angesehen
-411. öffnen, öffnet, öffnete, hat geöffnet
-412. die Musik
-413. schauen, schaut, schaute, hat geschaut
-414. das Stück/-stück, -e
-415. tot
-416. der Gott, ¨-er
-417. völlig
-418. positiv
-419. das Gespräch, -e
-420. der Kunde, -n die Kundin, -nen
-421. die Menge, -n
-422. die Antwort, -en
-423. annehmen, nimmt an, nahm an, hat angenommen
-424. falsch
-425. der Zusammenhang, ¨-e
-426. langsam
-427. der Arm, -e
-428. nachdem
-429. der Tisch, -e
-430. rufen, ruft, rief, hat gerufen
-431. bieten, bietet, bot, hat geboten
-432. das Herz, -en
-433. zusammen/zusammen-
-434. inzwischen
-435. ebenso
-436. der Boden, ¨-
-437. bevor
-438. verwenden, verwendet, verwendete, hat verwen- det
-439. die Politik
-440. der Tod
-441. der Erfolg, -e
-442. die Bank, ¨-e
-443. die Bank, -en
-444. persönlich
-445. holen, holt, holte, hat geholt
-446. der Junge, -n (D) → A, CH: Bub
-447. sogenannt-
-448. die Polizei
-449. die Chance, -n
-450. innerhalb
-451. die Kunst, ¨-e
-452. die Lage
-453. der Schüler, - die Schülerin, -nen
-454. gesamt-/Gesamt-
-455. der Druck
-456. verschwinden, verschwindet, verschwand, ist verschwunden
-457. wohnen, wohnt, wohnte, hat gewohnt
-458. bewegen, bewegt, bewegte, hat bewegt
-459. enthalten, enthält, en- thielt, hat enthalten
-460. aufnehmen, nimmt auf, nahm auf, hat aufgenommen
-461. die Kosten (Pl.)
-462. merken, merkt, merkte, hat gemerkt
-463. fest
-464. aktuell
-465. erleben, erlebt, erlebte, hat erlebt
-466. relativ
-467. der Fuß, ¨-e
-468. der Krieg, -e
-469. der Gast, ¨-e
-470. das Gesetz, -e
-471. planen, plant, plante, hat geplant
-472. schwierig
-473. zusätzlich
-474. vergessen, vergisst, vergaß, hat vergessen
-475. der Gedanke, -n
-476. sich freuen, freut sich, freute sich, hat sich gefreut
-477. hängen, hängt, hing/hängte, hat gehangen/gehängt
-478. berichten, berichtet, berichtete, hat berichtet
-479. eng
-480. die Kultur, -en
-481. der Prozess, -e
-482. der Sohn, ¨-e
-483. der Dank
-484. trotz
-485. fordern, fordert, forderte, hat gefordert
-486. studieren, studiert, studierte, hat studiert
-487. gefallen, gefällt, gefiel, hat gefallen
-488. das Mädchen, -
-489. sich verhalten, verhält sich, verhielt sich, hat sich verhalten
-490. mindestens
-491. ziemlich
-492. das Interesse, -n
-493. unterscheiden, unter- scheidet, unterschied, hat unterschieden
-494. jeweils
-495. reichen, reicht, reichte, hat gereicht
-496. zumindest
-497. schlagen, schlägt, schlug, hat geschlagen
-498. das Tier, -e
-499. erhöhen, erhöht, erhöhte, hat erhöht
-500. sorgen, sorgt, sorgte, hat gesorgt
-501. die Erfahrung, -en
-502. der Patient, -en die Patientin, -nen
-503. der Arzt, ¨-e die Ärztin, -nen
-504. geschehen, geschieht, geschah, ist geschehen
-505. lösen, löst, löste, hat gelöst
-506. anbieten, bietet an, bot an, hat angeboten
-507. vorkommen, kommt vor, kam vor, ist vorgekommen
-508. (sich) wünschen, wünscht, wünschte, hat gewünscht
-509. interessieren, interessiert, interessierte, hat interessiert
-510. der Unterschied, -e
-511. das Foto, -s
-512. trinken, trinkt, trank, hat getrunken
-513. derselbe, dieselbe, dasselbe
-514. wählen, wählt, wählte, hat gewählt
-515. gleichzeitig
-516. knapp
-517. der Mitarbeiter, - die Mitarbeiterin, -nen
-518. übernehmen, übernimmt, übernahm, hat übernommen.
-519. das Glück
-520. normal
-521. leider
-522. die Leistung, -en
-523. die Beziehung, -en
-524. zunehmen, nimmt zu, nahm zu, hat zugenommen
-525. stattfinden, findet statt, fand statt, hat stattgefunden
-526. ankommen, kommt an, kam an, ist angekommen
-527. auftreten, tritt auf, trat auf, ist aufgetreten
-528. technisch
-529. wann
-530. los/los-
-531. das Bett, -en
-532. die Höhe
-533. zuletzt
-534. rein
-535. das Zimmer, -
-536. indem
-537. bauen, baut, baute, hat gebaut
-538. das Verhältnis, -se
-539. selten
-540. die Zeitung, -en
-541. die Bedingung, -en
-542. das Fenster, -
-543. der Zug, ¨-e
-544. funktionieren, funktion- iert, funktionierte, hat funktioniert
-545. statt
-546. das Werk, -e
-547. der Bürger, - die Bürgerin, -nen
-548. dienen, dient, diente, hat gedient
-549. echt
-550. die Firma, Firmen
-551. die Wirtschaft
-552. stecken, steckt, steckte, hat gesteckt
-553. hoffen, hofft, hoffte, hat gehofft
-554. erfahren, erfährt, erfuhr, hat erfahren
-555. das Mittel, -
-556. leisten, leistet, leistete, hat geleistet
-557. die Tochter, ¨-
-558. der Lehrer, - die Lehrerin, -nen
-559. passen, passt, passte, hat gepasst
-560. beobachten, beobachtet, beobachtete, hat beobachtet
-561. die Einführung, -en
-562. klingen, klingt, klang, hat geklungen
-563. lieben, liebt, liebte, hat geliebt
-564. die Dame, -n
-565. zählen, zählt, zählte, hat gezählt
-566. meist-, die meisten
-567. dunkel
-568. das Modell, -e
-569. die Bewegung, -en
-570. die Mitte
-571. beschäftigen, beschäftigt, beschäftigte, hat beschäftigt
-572. miteinander
-573. werfen, wirft, warf, hat geworfen
-574. das Angebot, -e
-575. das Projekt, -e
-576. verkaufen, verkauft, verkaufte, hat verkauft
-577. reagieren, reagiert, reagierte, hat reagiert
-578. der Autor, -en die Autorin, -nen
-579. kriegen, kriegt, kriegte, hat gekriegt
-580. die Größe, -n
-581. hart
-582. offenbar
-583. der Bruder, ¨-
-584. sich beteiligen, beteiligt sich, beteiligte sich, hat sich beteiligt
-585. angeben, gibt an, gab an, hat angegeben
-586. die Reise, -n
-587. erfolgreich
-588. der Zustand, ¨-e
-589. wahr
-590. die Reihe, -n
-591. die Natur
-592. rechnen, rechnet, rechnete, hat gerechnet
-593. bloß
-594. notwendig
-595. entdecken, entdeckt, entdeckte, hat entdeckt
-596. dauern, dauert, dauerte, hat gedauert
-597. privat
-598. modern
-599. das Haar, -e
-600. deswegen
-601. spüren, spürt, spürte, hat gespürt
-602. übrigens
-603. überall
-604. feststellen, stellt fest, stellte fest, hat festgestellt
-605. der Stoff, -e
-606. die Rede, -n
-607. unterstützen, unterstützt, unterstützte, hat unterstützt
-608. schlimm
-609. irgendwann
-610. das Geschäft, -e
-611. die Angabe,-n
-612. außer
-613. das Hotel, -s
-614. laut
-615. das Alter
-616. die Sicherheit, -en
-617. niedrig
-618. ständig
-619. liefern, liefert, lieferte, hat geliefert
-620. die Erde
-621. die Studie, -n
-622. die Meinung, -en
-623. drehen, dreht, drehte, hat gedreht
-624. der Künstler, - die Künstlerin, -nen
-625. aktiv
-626. der Versuch, -e
-627. bezahlen, bezahlt, bezahlte, hat bezahlt
-628. längst
-629. die Methode, -n
-630. die Ordnung
-631. die Wahl, -en
-632. erfüllen, erfüllt, erfüllte, hat erfüllt
-633. die Region, -en
-634. die Nummer, -n
-635. lächeln, lächelt, lächelte, hat gelächelt
-636. genauso
-637. (sich) überzeugen, überzeugt, überzeugte, hat überzeugt die Überzeugung, -en
-638. interessant
-639. menschlich
-640. die Freiheit
-641. speziell
-642. negativ
-643. zentral
-644. besuchen, besucht, besuchte, hat besucht
-645. gestern
-646. der Spieler, - die Spielerin, -nen
-647. absolut
-648. fliegen, fliegt, flog, ist geflogen
-649. antworten, antwortet, antwortete, hat geant- wortet
-650. die Wand, ¨-e
-651. rechts
-652. zahlen, zahlt, zahlte, hat gezahlt
-653. das Feld, -er
-654. verdienen, verdient, verdiente, hat verdient
-655. der Brief, -e
-656. das Mitglied, -er
-657. praktisch
-658. die Gefahr, -en
-659. weltweit
-660. die Liebe
-661. der Beginn
-662. breit
-663. draußen
-664. die Wirkung, -en
-665. das Blut
-666. das Meer, -e
-667. die Anzahl, -en
-668. der Mund, ¨-er
-669. berechnen, berechnet, berechnete, hat berechnet
-670. fremd
-671. die Untersuchung, -en
-672. der Fehler, -
-673. mittlerweile
-674. die Sonne
-675. vorher
-676. der Kampf, ¨-e
-677. feiern, feiert, feierte, hat gefeiert
-678. das Programm, -e
-679. der Einfluss, ¨-e
-680. die Temperatur, -en
-681. leer
-682. mitteilen, teilt mit, teilte mit, hat mitgeteilt
-683. danke
-684. verlangen, verlangt, verlangte, hat verlangt
-685. zuerst
-686. das Bein, -e
-687. untersuchen, untersucht, untersuchte, hat untersucht
-688. kalt
-689. die Sorge, -n
-690. der Himmel
-691. national/national-
-692. die Kirche, -n
-693. links
-694. messen, misst, maß, hat gemessen
-695. lieb
-696. unbedingt
-697. der Verein, -e
-698. historisch
-699. sinken, sinkt, sank, ist gesunken
-700. kosten, kostet, kostete, hat gekostet
-701. kosten, kostet, kostete, hat gekostet (A) → D, CH: probieren
-702. die Vorstellung, -en
-703. teilen, teilt, teilte, hat geteilt
-704. der Typ, -en
-705. stammen, stammt, stammte, hat gestammt
-706. wieso
-707. der Faktor, -en
-708. die Literatur
-709. überraschen, überrascht, überraschte, hat überrascht
-710. bestätigen, bestätigt, bestätigte, hat bestätigt
-711. der Abschnitt, -e
-712. die Nähe
-713. zahlreich
-714. übrig
-715. die Produktion
-716. drücken, drückt, drückte, hat gedrückt
-717. die Linie, -n
-718. das Gas
-719. schicken, schickt, schickte, hat geschickt
-720. die Hälfte, -n
-721. der Kontakt, -e
-722. das Interview, -s
-723. egal
-724. reisen, reist, reiste, ist gereist
-725. der Berg, -e
-726. (sich) trennen, trennt, trennte, hat getrennt
-727. benötigen, benötigt, benötigte, hat benötigt
-728. die Erinnerung, -en
-729. verhindern, verhindert, verhinderte, hat verhindert
-730. leiden, leidet, litt, hat gelitten
-731. der Anspruch, ¨-e
-732. der Sport
-733. die Nachfrage, -n
-734. teuer
-735. die Medien (Pl.)
-736. das Institut, -e
-737. der Plan, ¨-e
-738. das Tor, -e
-739. der Betrieb, -e
-740. das Dorf, ¨-er
-741. die Klasse, -n
-742. erlauben, erlaubt, erlaubte, hat erlaubt
-743. treiben, treibt, trieb, hat getrieben
-744. weg/weg-
-745. aufstehen, steht auf, stand auf, ist aufgestanden
-746. unterwegs
-747. der Vertrag, ¨-e
-748. der Ausdruck, ¨-e
-749. der Ausdruck, -e
-750. toll
-751. schweigen, schweigt, schwieg, hat geschwiegen
-752. die Schwester, -n
-753. der Chef, -s die Chefin, -nen
-754. greifen, greift, griff, hat gegriffen
-755. das Risiko, Risiken
-756. schwach
-757. die Tabelle, -n
-758. der Vorteil, -e
-759. der Gewinn, -e
-760. wiederholen, wiederholt, wiederholte, hat wiederholt
-761. die Ruhe
-762. die Darstellung, -en
-763. ruhig
-764. der Traum, ¨-e
-765. Traum-
-766. behandeln, behandelt, behandelte, hat behandelt
-767. aufhören, hört auf, hörte auf, hat aufgehört
-768. schützen, schützt, schützte, hat geschützt
-769. diskutieren, diskutiert, diskutierte, hat diskutiert
-770. produzieren, produziert, produzierte, hat produziert
-771. die Kritik, -en
-772. der Trainer, - die Trainerin, -nen
-773. melden, meldet, meldete, hat gemeldet
-774. das Opfer, -
-775. der Titel, -
-776. der Eindruck, ¨-e
-777. der Baum, ¨-e
-778. die Diskussion, -en
-779. der Student, -en die Studentin, -nen
-780. die Bevölkerung
-781. der Finger, -
-782. total
-783. die Schulter, -n
-784. der Wald, ¨-er
-785. die Insel, -n
-786. der Schluss
-787. kulturell
-788. der Beruf, -e
-789. nötig
-790. der Sieg, -e
-791. die Küche, -n
-792. verantwortlich
-793. der Spaß
-794. herstellen, stellt her, stellte her, hat hergestellt
-795. ernst
-796. der Roman, -e
-797. kämpfen, kämpft, kämpfte, hat gekämpft
-798. versprechen, verspricht, versprach, hat versprochen
-799. heben, hebt, hob, hat gehoben
-800. der Rücken, -
-801. singen, singt, sang, hat gesungen
-802. die Theorie, -n
-803. der Inhalt, -e
-804. das Ereignis, -se
-805. glücklich
-806. der Rest, -e
-807. der Wunsch, ¨-e
-808. beschließen, beschließt, beschloss, hat beschlossen
-809. dick
-810. riesig
-811. heutig-
-812. hallo
-813. das Museum, Museen
-814. die Farbe, -n
-815. per
-816. regelmäßig
-817. her/her-
-818. wechseln, wechselt, wechselte, hat gewechselt
-819. einstellen, stellt ein, stellte ein, hat eingestellt
-820. das Theater, -
-821. der König, -e
-822. das Ohr, -en
-823. fördern, fördert, förderte, hat gefördert
-824. elektrisch
-825. der Beitrag, ¨-e
-826. einfallen, fällt ein, fiel ein, ist eingefallen
-827. (sich) verletzen, verletzt, verletzte, hat verletzt
-828. die Kontrolle, -n
-829. die Mannschaft, -en
-830. behaupten, behauptet, behauptete, hat behauptet
-831. die Hoffnung, -en
-832. die Verantwortung
-833. schreien, schreit, schrie, hat geschrien
-834. andererseits
-835. der Besuch, -e
-836. typisch
-837. das Gebiet, -e
-838. die Behörde, -n
-839. die Organisation, -en
-840. die Summe, -n
-841. ausreichen, reicht aus, re- ichte aus, hat ausgereicht
-842. benutzen, benutzt, benutzte, hat benutzt
-843. vertrauen, vertraut, vertraute, hat vertraut
-844. der Wind, -e
-845. extrem
-846. theoretisch
-847. die Krankheit, -en
-848. die Voraussetzung, -en
-849. der Zeitpunkt, - e
-850. wenigstens
-851. der Gang, ¨-e
-852. der Politiker, - die Politikerin, -nen
-853. die Unterstützung, -en
-854. brechen, bricht, brach, hat gebrochen
-855. fassen, fasst, fasste, hat gefasst
-856. das Zentrum, Zentren
-857. anrufen, ruft an, rief an, hat angerufen
-858. entfernen, entfernt, entfernte, hat entfernt
-859. die Haut
-860. der Schutz
-861. die Generation, -en
-862. das Zeichen, -
-863. die Wahrheit, -en
-864. der Haushalt, -e
-865. der Garten, ¨-
-866. hinten
-867. auffallen, fällt auf, fiel auf, ist aufgefallen
-868. der Gegensatz, ¨-e
-869. verteilen, verteilt, verteilte, hat verteilt
-870. das Papier, -e
-871. leise
-872. vermutlich
-873. eindeutig
-874. heraus-, raus- (heraus-) finden, findet heraus, fand heraus, hat herausgefunden
-875. falls
-876. der Partner, - die Partnerin, -nen
-877. nachdenken, denkt nach, dachte nach, hat nachgedacht
-878. die Ausbildung, -en
-879. der Wagen, -
-880. das Schiff, -e
-881. die Tat, -en
-882. der Stein, -e
-883. sich kümmern, kümmert sich, kümmerte sich, hat sich gekümmert
-884. die Erklärung, -en
-885. stören, stört, störte, hat gestört
-886. die Spur, -en
-887. die Herausforderung, -en
-888. starten, startet, startete, ist gestartet
-889. (sich) verbessern, verbessert, verbesserte, hat verbessert
-890. heiß
-891. die Vergangenheit
-892. abgeben, gibt ab, gab ab, hat abgegeben
-893. der Bericht, -e
-894. die Qualität, -en
-895. der Rand, ¨-er
-896. gefährlich
-897. (sich) zwingen, zwingt, zwang, hat gezwungen
-898. das Bier
-899. ansprechen, spricht an, sprach an, hat angesprochen
-900. komplett
-901. die Forderung, -en
-902. die Nachricht, -en
-903. sammeln, sammelt, sammelte, hat gesammelt
-904. ablehnen, lehnt ab, lehnte ab, hat abgelehnt
-905. (sich) stoßen, stößt, stieß, hat gestoßen
-906. umgehen, geht um, ging um, ist umgegangen
-907. sich verlaufen, verläuft sich, verlief sich, hat sich verlaufen
-908. böse
-909. abhängen, hängt ab, hing ab, hat abgehangen (von)
-910. die Geschwindigkeit, -en
-911. ideal
-912. der Augenblick, -e
-913. reduzieren, reduziert, reduzierte, hat reduziert
-914. die Maschine, -n
-915. ausmachen, macht aus, machte aus, hat ausgemacht
-916. eintreten, tritt ein, trat ein, ist eingetreten
-917. kritisch
-918. die Saison, -s
-919. gründen, gründet, gründete, hat gegründet
-920. genügen, genügt, genügte, hat genügt
-921. schieben, schiebt, schob, hat geschoben
-922. abnehmen, nimmt ab, nahm ab, hat abgenommen
-923. zeichnen, zeichnet, zeichnete, hat gezeichnet
-924. frisch
-925. die Nase, -n
-926. vertreten, vertritt, vertrat, hat vertreten
-927. dicht
-928. bereit
-929. die Technik, -en
-930. das Blatt, ¨-er
-931. gesund
-932. danken, dankt, dankte, hat gedankt
-933. der Fußball, ¨-e
-934. einladen, lädt ein, lud ein, hat eingeladen
-935. warm
-936. die Integration, -en
-937. der Nachbar, -n die Nachbarin, nen
-938. maximal
-939. die Figur, -en
-940. die Freude
-941. offiziell
-942. außen
-943. der Kreis, -e
-944. digital
-945. das Gericht, -e
-946. schätzen, schätzt, schätzte, hat geschätzt
-947. organisieren, organisiert, organisierte, hat organisiert
-948. verzichten, verzichtet, verzichtete, hat verzichtet
-949. bemerken, bemerkt, bemerkte, hat bemerkt
-950. der Kaffee
-951. still
-952. leiten, leitet, leitete, hat geleitet
-953. der Vertreter, - die Vertreterin, -nen
-954. die Statistik, -en
-955. die Heimat
-956. der Gegenstand, ¨-e
-957. die Zusammenarbeit
-958. enden, endet, endete, hat geendet
-959. sich konzentrieren, konzentriert sich, konzentrierte sich, hat sich konzentriert
-960. landen, landet, landete, ist gelandet
-961. der See, -n
-962. der Tourist, -en die Touristin, -nen
-963. verbieten, verbietet, verbot, hat verboten
-964. krank
-965. die Fähigkeit, -en
-966. finanziell
-967. der Jugendliche, -n die Jugendliche, -nen
-968. das Netz, -e
-969. die Änderung, -en
-970. selbstverständlich
-971. die Ursache, -n
-972. ursprünglich
-973. die Forschung, -en
-974. schießen, schießt, schoss, hat geschossen
-975. warnen, warnt, warnte, hat gewarnt
-976. eröffnen, eröffnet, eröffnete, hat eröffnet
-977. die Ahnung
-978. ankündigen, kündigt an, kündigte an, hat angekündigt
-979. individuell
-980. intensiv
-981. die Szene, -n
-982. ausschließen, schließt aus, schloss aus, hat ausgeschlossen
-983. sinnvoll
-984. retten, rettet, rettete, hat gerettet
-985. die Gewalt, -en
-986. gucken, guckt, guckte, hat geguckt
-987. beeinflussen, beeinflusst, beeinflusste, hat beeinflusst
-988. riechen, riecht, roch, hat gerochen
-989. außerhalb
-990. begleiten, begleitet, begleitete, hat begleitet
-991. das Publikum
-992. aufgeben, gibt auf, gab auf, hat aufgegeben
-993. stolz
-994. der Verlust, -e
-995. begründen, begründet, begründete, hat begründet
-996. streng
-997. die Ecke, -n (D, CH) → A: Eck
-998. der Artikel, -
-999. berühmt
-1000. ersetzen, ersetzt, ersetzte, hat ersetzt
-1001. das Ausland
-1002. diesmal
-1003. das Gebäude, -
-1004. das Material
-1005. verbringen, verbringt, verbrachte, hat verbracht
-1006. der Strom
-1007. das Amt, ¨-er
-1008. kritisieren, kritisiert, kritisierte, hat kritisiert
-1009. die Wirklichkeit
-1010. das Studium, Studien
-1011. festhalten, hält fest, hielt fest, hat festgehalten
-1012. präsentieren
-1013. die Aufnahme, -n
-1014. die Ausnahme, -n
-1015. beenden, beendet, beendete, hat beendet
-1016. die Lust
-1017. prüfen, prüft, prüfte, hat geprüft
-1018. der Zuschauer, - die Zuschauerin, -nen
-1019. hell
-1020. mitten
-1021. der Konflikt, -e
-1022. die Bahn, -en
-1023. das Einkommen, -
-1024. empfehlen, empfiehlt, empfahl, hat empfohlen
-1025. (sich) fürchten, fürchtet, fürchtete, hat gefürchtet
-1026. (sich) vorbereiten, bereitet vor, bereitete vor, hat vorbereitet
-1027. die Aktivität, -en
-1028. der Auftrag, ¨-e
-1029. froh
-1030. zuständig
-1031. springen, springt, sprang, ist gesprungen
-1032. der Hof, ¨-e
-1033. der Polizist, -en die Polizistin, -nen
-1034. die Übung, -en
-1035. (sich) anziehen, zieht an, zog an, hat angezogen
-1036. der Experte, -n
-1037. die Pause, -n
-1038. scharf
-1039. schütteln, schüttelt, schüttelte, hat geschüttelt
-1040. das Fernsehen
-1041. die Bühne, -n
-1042. der Schaden, ¨-
-1043. umgekehrt
-1044. veröffentlichen, veröf- fentlicht, veröffentlichte, hat veröffentlicht
-1045. abhängig
-1046. die Strecke, -n
-1047. die Praxis
-1048. die Praxis, Praxen → A: Ordination
-1049. ungefähr
-1050. üblich
-1051. die Wissenschaft, -en
-1052. die Umgebung, -en
-1053. die Öffentlichkeit
-1054. der Spiegel, -
-1055. besetzen, besetzt, besetzte, hat besetzt
-1056. das Gegenteil, -e
-1057. vorbei/vorbei-
-1058. die Karte, -n
-1059. arm
-1060. die Krise, -n
-1061. der Journalist, -en die Journalistin, -nen
-1062. kochen, kocht, kochte, hat gekocht
-1063. der Schmerz, -en
-1064. ausschließlich
-1065. die Runde, -n
-1066. einführen, führt ein, führte ein, hat eingeführt
-1067. der Wettbewerb, -e
-1068. woher
-1069. der Zweifel, -
-1070. tanzen, tanzt, tanzte, hat getanzt
-1071. die Kamera, -s
-1072. der Schatten, -
-1073. begegnen, begegnet, begegnete, ist begegnet
-1074. der Zugang, ¨-e
-1075. doppelt
-1076. festlegen, legt fest, legte fest, hat festgelegt
-1077. sodass
-1078. die Tatsache, -n
-1079. der Alkohol
-1080. informieren, informiert, informierte, hat informiert
-1081. vermuten, vermutet, vermutete, hat vermutet
-1082. zufrieden
-1083. dahin
-1084. solange
-1085. der Wissenschaftler, - die Wissenschaftlerin, -nen
-1086. die Kommunikation
-1087. die Steuer, -n
-1088. günstig
-1089. der Flughafen, ¨-
-1090. das Krankenhaus, ¨-er
-1091. wenden, wendet, wendete, hat gewendet
-1092. der Gegner, -
-1093. der Leser, - die Leserin, -nen
-1094. der Handel
-1095. sichtbar
-1096. die Schwierigkeit, -en
-1097. hinweisen, weist hin, wies hin, hat hingewiesen
-1098. kontrollieren, kontrolliert, kontrollierte, hat kontrolliert
-1099. sowieso
-1100. der Bauer, -n
-1101. der Service
-1102. der Fahrer, -
-1103. traditionell
-1104. weinen, weint, weinte, hat geweint
-1105. genießen, genießt, genoss, hat genossen
-1106. der Dienst
-1107. das Lager, -
-1108. der Bus, -se
-1109. nett
-1110. freundlich
-1111. perfekt
-1112. reich
-1113. der Urlaub, -e (D, A) → CH: Ferien
-1114. das Instrument, -e
-1115. die Gegend, -en
-1116. (sich) verstecken, versteckt, versteckte, hat versteckt
-1117. das Feuer
-1118. sich bemühen, bemüht, bemühte, hat bemüht
-1119. das Verständnis
-1120. tauchen, taucht, tauchte, ist/hat getaucht
-1121. die Schuld
-1122. die Mehrheit, -en
-1123. anhaben, hat an, hatte an, hat angehabt
-1124. vermeiden, vermeidet, vermied, hat vermieden
-1125. ehrlich
-1126. beachten, beachtet, beachtete, hat beachtet
-1127. statistisch
-1128. der Hals, ¨-e
-1129. das Telefon, -e der Teller, -
-1130. die Ausstellung, -en
-1131. der Bau, Bauten
-1132. der Keller, -
-1133. entlang
-1134. die Flasche, -n
-1135. wunderbar
-1136. der Zweck, -e
-1137. die Fläche, -n
-1138. behalten, behält, behielt, hat behalten
-1139. beweisen, beweist, bewies, hat bewiesen
-1140. überprüfen, überprüft, überprüfte, hat überprüft
-1141. schenken, schenkt, schenkte, hat geschenkt
-1142. der Vorschlag, ¨-e
-1143. der Leiter, - die Leiterin, -nen
-1144. die Leiter, -n
-1145. stürzen, stürzt, stürzte, ist gestürzt
-1146. zerstören, zerstört, zerstörte, hat zerstört
-1147. zuhören, hört zu, hörte zu, hat zugehört
-1148. ausfallen, fällt aus, fiel aus, ist ausgefallen
-1149. einerseits
-1150. der Fortschritt, -e
-1151. das Bad, ¨-er
-1152. packen, packt, packte, hat gepackt
-1153. vorsichtig
-1154. anwenden, wendet an, wandte an, hat ange- wandt/angewendet
-1155. wild
-1156. das Gerät, -e
-1157. die Tradition, -en
-1158. brennen, brennt, brannte, hat gebrannt
-1159. freiwillig
-1160. umso
-1161. der Antrag, ¨-e
-1162. bestellen, bestellt, bestellte, hat bestellt
-1163. die Gelegenheit, -en
-1164. die Mauer, -n
-1165. der Stuhl, ¨-e
-1166. das Büro, -s
-1167. die Umwelt
-1168. rauchen, raucht, rauchte, hat geraucht
-1169. die Beschreibung, -en
-1170. die Pflanze, -n
-1171. die Tätigkeit, -en
-1172. die Landschaft, -en
-1173. der Arbeitsplatz, ¨-e
-1174. der Laden, ¨-
-1175. der Stern, -e
-1176. der Schuh, -e
-1177. das Knie, -
-1178. unglaublich
-1179. zurück/zurück-
-1180. die Realität, -en
-1181. sobald
-1182. der Fluss, ¨-e
-1183. die Alternative, -n
-1184. begrüßen, begrüßt, begrüßte, hat begrüßt
-1185. die Führung, -en
-1186. das Handy, -s
-1187. der Verlag, -e (A: ¨-e)
-1188. beschränken
-1189. der Schauspieler, - die Schauspielerin, -nen
-1190. vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen
-1191. beinahe
-1192. die Botschaft, -en
-1193. der Alltag
-1194. teilnehmen, nimmt teil, nahm teil, hat teilgenommen
-1195. das Fahrzeug, -e
-1196. fließen, fließt, floss, ist geflossen
-1197. der Vorwurf, ¨-e
-1198. erforderlich
-1199. der Schriftsteller, - die Schriftstellerin, -nen
-1200. die Stimmung, -en
-1201. zufällig
-1202. das Fach, ¨-er
-1203. das Lied, -er
-1204. der Wein, -e
-1205. billig
-1206. dünn
-1207. achten, achtet, achtete, hat geachtet (auf)
-1208. der Anbieter, -
-1209. die Industrie, -n
-1210. ab
-1211. ausgeben, gibt aus, gab aus, hat ausgegeben
-1212. der Meister, -
-1213. (sich) umdrehen, dreht um, drehte um, hat umgedreht
-1214. traurig
-1215. die Stufe, -n
-1216. das Urteil, -e
-1217. der Schnee
-1218. übersetzen, übersetzt, übersetzte, hat übersetzt
-1219. dringend
-1220. verursachen, verursacht, verursachte, hat verursacht
-1221. die Konkurrenz
-1222. der Muskel, -n
-1223. der Test, -s
-1224. super
-1225. die Erzählung, -en
-1226. das Flugzeug, -e
-1227. die Flüssigkeit, -en
-1228. der Geburtstag, -e
-1229. das Kleid, -er
-1230. der Ball, ¨-e
-1231. die Brust
-1232. elektronisch
-1233. (sich) verabschieden, verabschiedet, verabschiedete, hat verabschiedet
-1234. das Detail, -s
-1235. das Fleisch
-1236. körperlich
-1237. die Liste, -n
-1238. träumen, träumt, träumte, hat geträumt
-1239. akzeptieren, akzeptiert, akzeptierte, hat akzeptiert
-1240. endgültig
-1241. ewig
-1242. das Restaurant, -s
-1243. wandern, wandert, wanderte, ist gewandert
-1244. die Tasche, -n
-1245. der Beamte, -n die Beamtin, -nen
-1246. schmal
-1247. der Streit
-1248. spannend
-1249. wohin
-1250. das Dach, ¨-er
-1251. die Karriere, -n
-1252. regeln, regelt, regelte, hat geregelt
-1253. die Zigarette, -n
-1254. bunt
-1255. weshalb
-1256. der Unterricht
-1257. die Tante, -n
-1258. die Prüfung, -en
-1259. seltsam
-1260. der Onkel, -
-1261. die Störung, -en
-1262. die Aktion, -en
-1263. künstlich
-1264. pflegen, pflegt, pflegte, hat gepflegt
-1265. die Ausgabe, -n
-1266. die Anlage, -n
-1267. die Gesundheit
-1268. aufführen, führt auf, führte auf, hat aufgeführt
-1269. der Kandidat, -en
-1270. die Rechnung, -en
-1271. zusammenfassen, fasst zusammen, fasste zusammen, hat zusammengefasst
-1272. einnehmen, nimmt ein, nahm ein, hat eingenommen
-1273. das Loch, ¨-er
-1274. schwimmen, schwimmt, schwamm, ist geschwommen
-1275. beantworten, beant- wortet, beantwortete, hat beantwortet
-1276. der Beweis, -e
-1277. kompliziert
-1278. der Zahn, ¨-e
-1279. aussprechen, spricht aus, sprach aus, hat ausgesprochen
-1280. beliebt
-1281. komisch
-1282. die Länge
-1283. das Wetter
-1284. ergänzen, ergänzt, ergänzte, hat ergänzt
-1285. voneinander
-1286. auswählen, wählt aus, wählte aus, hat ausgewählt
-1287. der Anwalt, ¨-e die Anwältin, -nen
-1288. das Gedicht, -e
-1289. (sich) unterhalten, unter- hält, unterhielt, hat unterhalten
-1290. erschrecken, erschrickt, erschrak, ist erschrocken/ jdn. erschrecken, erschreckt, erschreckte, hat erschreckt
-1291. parallel
-1292. das Schloss, ¨-er
-1293. das Wunder, -
-1294. der Abschluss, ¨-e
-1295. korrekt
-1296. verraten, verrät, verriet, hat verraten
-1297. automatisch
-1298. der Teilnehmer, - die Teilnehmerin, -nen
-1299. die Veranstaltung, -en
-1300. vorhaben, hat vor, hatte vor, hat vorgehabt
-1301. malen, malt, malte, hat gemalt
-1302. die Post
-1303. üben
-1304. der Knochen, -
-1305. die Brücke, -n
-1306. daneben
-1307. das Gewicht, -e
-1308. beruhigen, beruhigt, beruhigte, hat beruhigt
-1309. verrückt
-1310. der Start, -s
-1311. weiblich
-1312. seitdem
-1313. die Treppe, -n (D, CH) → A: Stiege
-1314. die Decke, -n
-1315. heiraten, heiratet, heiratete, hat geheiratet
-1316. der Unfall, ¨-e
-1317. der Regen
-1318. entschuldigen, entschuldigt, entschuldigte, hat entschuldigt
-1319. die Medizin
-1320. das Video, -s
-1321. zugehen, geht zu, ging zu, ist zugegangen
-1322. durchschnittlich
-1323. der Strand, ¨-e
-1324. lustig
-1325. die Religion, -en
-1326. die Ware, -n
-1327. beruflich
-1328. auflösen, löst auf, löste auf, hat aufgelöst
-1329. aufregen, regt auf, regte auf, hat aufgeregt
-1330. die Einrichtung, -en
-1331. vereinbaren, vereinbart, vereinbarte, hat vereinbart
-1332. verschieben, verschiebt, verschob, hat verschoben
-1333. erleichtern, erleichtert, erleichterte, hat erleichtert
-1334. rechtlich
-1335. das Viertel, - (D, A) → CH: Quartier
-1336. das Ei, -er
-1337. müde
-1338. sparen, spart, sparte, hat gespart
-1339. die Flucht
-1340. regional
-1341. fortsetzen, setzt fort, set- zte fort, hat fortgesetzt
-1342. die Übersetzung, -en
-1343. das Kino, -s
-1344. die Dauer
-1345. klappen, klappt, klappte, hat geklappt
-1346. klären, klärt, klärte, hat geklärt
-1347. sauber
-1348. der Bahnhof, ¨-e
-1349. die Lippe, -n
-1350. die Lehre
-1351. aufpassen, passt auf, passte auf, hat aufgepasst
-1352. die Verletzung, -en
-1353. der Direktor, -en die Direktorin, -nen
-1354. enttäuschen, enttäuscht, enttäuschte, hat ent- täuscht
-1355. fangen, fängt, fing, hat gefangen
-1356. die Träne, -n transportieren, trans- portiert, transportierte, hat transportiert
-1357. die Pflicht, -en
-1358. realisieren, realisiert, realisierte, hat realisiert
-1359. einrichten, richtet ein, richtete ein, hat eingerichtet
-1360. der Käufer, - die Käuferin, -nen
-1361. der Täter, - die Täterin, -nen
-1362. ordnen, ordnet, ordnete, hat geordnet
-1363. der Hersteller, -
-1364. normalerweise
-1365. die Auswahl, -en
-1366. markieren, markiert, markierte, hat markiert
-1367. rennen, rennt, rannte, ist gerannt
-1368. die Schrift, -en
-1369. die Kurve, -n
-1370. der Auftritt, -e
-1371. integrieren, integriert, in- tegrierte, hat integriert
-1372. anmelden, meldet an, meldete an, hat angemeldet
-1373. gerecht
-1374. die Erhöhung, -en
-1375. ungewöhnlich
-1376. das Fest, -e
-1377. männlich
-1378. das Training, -s
-1379. die Arbeitslosigkeit
-1380. das Brot, -e
-1381. die Geburt, -en
-1382. der Hunger
-1383. sich lohnen, lohnt sich, lohnte sich, hat sich gelohnt
-1384. die Mühe
-1385. unterbrechen, unterbricht, unterbrach, hat unterbrochen
-1386. das Boot, -e
-1387. klopfen, klopft, klopfte, hat geklopft
-1388. die Wolke, -n
-1389. die Jugend
-1390. sich wundern, wundert sich, wunderte sich, hat sich gewundert
-1391. aufheben, hebt auf, hob auf, hat aufgehoben
-1392. erfinden, erfindet, erfand, hat erfunden
-1393. erfordern, erfordert, erforderte, hat erfordert
-1394. der Verkehr
-1395. aufhalten, hält auf, hielt auf, hat aufgehalten
-1396. (sich) schneiden, schneidet, schnitt, hat geschnitten
-1397. der Kauf
-1398. das Öl, -e
-1399. der Betrag, ¨-e
-1400. das Fahrrad, ¨-er → D, A: Rad; CH: Velo
-1401. der Park, -s
-1402. schmecken, schmeckt, schmeckte, hat geschmeckt
-1403. der Bauch, ¨-e
-1404. die Vorbereitung, -en
-1405. ausrichten, richtet aus, richtete aus, hat ausgerichtet
-1406. die Hose, -n
-1407. lügen, lügt, log, hat gelogen
-1408. mischen, mischt, mischte, hat gemischt
-1409. innen
-1410. das Metall, -e
-1411. das Netzwerk, -e
-1412. die Technologie, -n
-1413. die Trennung, -en
-1414. die Oma, -s
-1415. die Umfrage, -n
-1416. die Operation, -en
-1417. bedienen, bedient, bediente, hat bedient
-1418. der Mut
-1419. die Marke, -n
-1420. finanzieren, finanziert, finanzierte, hat finanziert
-1421. der Schlüssel, -
-1422. glatt
-1423. schrecklich
-1424. weich
-1425. die Klinik, -en
-1426. besprechen, bespricht, besprach, hat besprochen
-1427. der Zufall, ¨-e
-1428. kräftig
-1429. der Nerv, -en
-1430. der Termin, -e
-1431. angenehm
-1432. der Konsum
-1433. die Vorschrift, -en
-1434. der Flug, ¨-e
-1435. das Holz
-1436. die Förderung, -en
-1437. die Planung, -en
-1438. der Verdacht
-1439. der Witz, -e
-1440. aufmerksam
-1441. der Mangel, ¨-
-1442. die Halle, -n
-1443. der Lohn, ¨-e
-1444. die Verwaltung, -en
-1445. ordentlich
-1446. stoppen, stoppt, stoppte, hat gestoppt
-1447. der Rat
-1448. der Bewohner, - die Bewohnerin, -nen
-1449. gewöhnlich
-1450. trainieren, trainiert, trainierte, hat trainiert
-1451. das Medikament, -e
-1452. der Ring, -e
-1453. verurteilen, verurteilt, verurteilte, hat verurteilt
-1454. dumm
-1455. atmen, atmet, atmete, hat geatmet
-1456. die Milch
-1457. unternehmen, untern- immt, unternahm, hat unternommen
-1458. die Reform, -en
-1459. der Richter, - die Richterin, -nen
-1460. (sich) streiten, streitet, stritt, hat gestritten
-1461. hinterlassen, hinterlässt, hinterließ, hat hinterlassen
-1462. analysieren, analysiert, analysierte, hat analysiert
-1463. der Nachteil, -e
-1464. sportlich
-1465. die Wärme
-1466. eventuell
-1467. die Gemeinschaft, -en
-1468. kennenlernen, lernt kennen, lernte kennen, hat kennengelernt
-1469. der Unternehmer, - die Unternehmerin, -nen
-1470. schriftlich
-1471. der Einwohner, - die Einwohnerin, -nen
-1472. testen, testet, testete, hat getestet
-1473. (sich) waschen, wäscht, wusch, hat gewaschen
-1474. die Lebensmittel (Pl.)
-1475. die Zeile, -n
-1476. die Ehe, -n
-1477. der Passagier, -e die Passagierin, -nen
-1478. die Kindheit
-1479. die Entschuldigung, -en
-1480. zukünftig
-1481. erledigen, erledigt, erledigte, hat erledigt
-1482. der Sitz, -e
-1483. die Serie, -n
-1484. die Entfernung, -en
-1485. der Schlaf
-1486. die Kette, -n
-1487. die Strafe, -n
-1488. das Konzert, -e
-1489. der Transport, -e
-1490. das Kreuz, -e
-1491. der Motor, -en
-1492. die Sendung, -en
-1493. höchstens
-1494. trocken
-1495. die Bibliothek, -en
-1496. hoffentlich
-1497. der Erwachsene, -n
-1498. der Verkäufer, - die Verkäuferin, -nen
-1499. vernünftig
-1500. abholen, holt ab, holte ab, hat abgeholt
-1501. wahnsinnig
-1502. der Koffer, -
-1503. erstellen, erstellt, erstellte, hat erstellt
-1504. das Rad, ¨-er
-1505. das Rad, ¨-er (D, A) → Fahrrad; CH: Velo
-1506. anzeigen, zeigt an, zeigte an, hat angezeigt
-1507. der Arbeiter, - die Arbeiterin, -nen
-1508. kürzlich
-1509. raten, rät, riet, hat geraten
-1510. wertvoll
-1511. das Gold
-1512. der Stil, -e
-1513. die Beschäftigung
-1514. ausziehen, zieht aus, zog aus, hat/ist ausgezogen
-1515. die Gewerkschaft, -en
-1516. der Tourismus
-1517. flach
-1518. sauer
-1519. vermissen, vermisst, vermisste, hat vermisst
-1520. das Geschlecht, -er
-1521. die Aussicht, -en
-1522. der Held, -en die Heldin, -nen
-1523. das Geheimnis, -se
-1524. spätestens
-1525. sich entschließen, entschließt sich, entschloss sich, hat sich entschlossen
-1526. gewöhnen, gewöhnt, gewöhnte, hat gewöhnt/ist gewöhnt
-1527. der Dialog, -e
-1528. das Seminar, -e
-1529. die Werbung, -en
-1530. die Blume, -n
-1531. sich verlieben, verliebt sich, verliebte sich, hat sich verliebt
-1532. winken, winkt, winkte, hat gewinkt
-1533. fliehen, flieht, floh, ist geflohen
-1534. anerkennen, erkennt an, erkannte an, hat anerkannt
-1535. illegal
-1536. der Sand
-1537. einsam
-1538. die Landwirtschaft
-1539. die Therapie, -n
-1540. der Angehörige, -n die Angehörige, -n
-1541. das Café, -s
-1542. garantieren, garantiert, garantierte, hat garantiert
-1543. der Respekt
-1544. der Eingang, ¨-e
-1545. zustimmen, stimmt zu, stimmte zu, hat zugestimmt
-1546. der Kanal, ¨-e
-1547. willkommen
-1548. das Gefängnis, -se
-1549. die Überraschung,-en
-1550. klug
-1551. das Personal
-1552. selbstständig
-1553. der Pass, ¨-e
-1554. der Bedarf
-1555. ernsthaft
-1556. der Kredit, -e
-1557. das Wohnzimmer, -
-1558. die Leitung, -en
-1559. der Zucker
-1560. die Station, -en
-1561. der Sportler, - die Sportlerin, -nen
-1562. das Symbol, -e
-1563. das Radio, -s
-1564. der Musiker, - die Musikerin, nen
-1565. wecken, weckt, weckte, hat geweckt
-1566. die Rückkehr
-1567. die Bar, -s
-1568. der Star, -s
-1569. wütend
-1570. nochmals
-1571. die Freizeit
-1572. das Geschenk, -e
-1573. hübsch
-1574. dorthin
-1575. das Frühstück
-1576. klettern, klettert, kletterte, ist geklettert
-1577. der Magen, ¨-
-1578. das Salz, -e
-1579. versichern, versichert, versicherte, hat versichert
-1580. klingeln, klingelt, klingelte, hat geklingelt
-1581. speichern, speichert, speicherte, hat gespeichert
-1582. der Tee
-1583. der Zeuge, -n die Zeugin, -nen
-1584. das Tal, ¨-er
-1585. empfangen, empfängt, empfing, hat empfangen
-1586. die Ernährung
-1587. die Küste, -n
-1588. anschließen, schließt an, schloss an, hat angeschlossen
-1589. anstellen, stellt an, stellte an, hat angestellt
-1590. der Protest, -e
-1591. küssen, küsst, küsste, hat geküsst
-1592. der Angestellte, -n die Angestellte, -n
-1593. dankbar
-1594. der Flur, -e → Gang; D, CH: Korridor
-1595. das Hemd, -en
-1596. die Begründung, -en
-1597. kreativ
-1598. einziehen, zieht ein, zog ein, ist eingezogen das Eis
-1599. (sich) verbrennen, verbrennt, verbrannte, hat verbrannt
-1600. der Atem
-1601. die Distanz, -en
-1602. der Händler, - die Händlerin, -nen
-1603. hassen, hasst, hasste, hat gehasst
-1604. blind
-1605. der Ärger
-1606. das Vitamin, -e
-1607. der Abschied, -e
-1608. der Hafen, ¨-
-1609. das Messer, -
-1610. die Herkunft
-1611. die Katastrophe, -n
-1612. beraten, berät, beriet, hat beraten
-1613. das Erlebnis, -se
-1614. nachher
-1615. quer
-1616. der Ausländer, - die Ausländerin, -nen ausländisch
-1617. sich nähern, nähert sich, näherte sich, hat sich genähert
-1618. das Ufer, -
-1619. der Virus, Viren
-1620. hierher
-1621. kühl
-1622. der Maler, - die Malerin, -nen
-1623. der Saal, Säle
-1624. loben, lobt, lobte, hat gelobt
-1625. die Zustimmung, -en
-1626. die Absicht, -en
-1627. die Adresse, -n
-1628. verlängern, verlängert, verlängerte, hat verlängert
-1629. der Stress
-1630. steil
-1631. interkulturell
-1632. der Bildschirm, -e
-1633. unheimlich
-1634. der Hut, ¨-e
-1635. die Abteilung, -en
-1636. alternativ
-1637. jemals
-1638. der Opa, -s
-1639. arbeitslos
-1640. das Gras
-1641. klagen, klagt, klagte, hat geklagt
-1642. schade
-1643. die Scheibe, -n
-1644. nervös
-1645. süß
-1646. entlassen, entlässt, entließ, hat entlassen
-1647. die Presse
-1648. abstimmen, stimmt ab, stimmte ab, hat abgestimmt
-1649. fair
-1650. die Party, -s
-1651. die Kleidung
-1652. der Fernseher, -
-1653. einsteigen, steigt ein, stieg ein, ist eingestiegen
-1654. widersprechen, widerspricht, widersprach, hat widersprochen
-1655. (sich) ärgern, ärgert, ärgerte, hat geärgert
-1656. der Verwandte, -n die Verwandte, -n
-1657. aufwachen, wacht auf, wachte auf, ist aufgewacht
-1658. die Kasse, -n
-1659. die Schulden (Pl.)
-1660. das Zuhause
-1661. einheitlich
-1662. die Einladung, -en
-1663. die Einnahme, -n
-1664. einkaufen, kauft ein, kaufte ein, hat eingekauft
-1665. eintragen, trägt ein, trug ein, hat eingetragen
-1666. der Vortrag, ¨-e
-1667. das Zelt, -e
-1668. sich bedanken, bedankt, bedankte, hat bedankt
-1669. die Brille, -n
-1670. die Intelligenz
-1671. senkrecht
-1672. der Migrant, -en die Migrantin, -nen
-1673. probieren, probiert, probierte, hat probiert
-1674. probieren, probiert, probierte, hat probiert (D, CH) → A: kosten
-1675. flexibel
-1676. mobil/mobil-
-1677. der Übersetzer, - die Übersetzerin, -nen
-1678. zusagen, sagt zu, sagte zu, hat zugesagt
-1679. der Buchstabe, -n
-1680. verständlich
-1681. der Sturm, ¨-e
-1682. das Gehalt, ¨-er
-1683. der Sender, -
-1684. das Talent, -e
-1685. extra
-1686. der Fleck, -en
-1687. fressen, frisst, fraß, hat gefressen
-1688. anfangs
-1689. die Beratung
-1690. merkwürdig
-1691. drüben
-1692. peinlich
-1693. kaputt
-1694. die Note, -n
-1695. die Wiese, -n
-1696. die Autobahn, -en
-1697. der Anschluss, ¨-e
-1698. sich einigen, einigt sich, einigte sich, hat sich geeinigt
-1699. die Freundschaft, -en
-1700. die Hütte, -n
-1701. der Mantel, ¨-
-1702. locker
-1703. bitter
-1704. der Geschmack
-1705. die Rente, -n (D, CH) → A, CH: Pension
-1706. vorhin
-1707. der Mond, -e
-1708. das Semester, -
-1709. zugänglich
-1710. zurzeit
-1711. zurzeit
-1712. langweilig
-1713. schief
-1714. korrigieren, korrigiert, ko- rrigierte, hat korrigiert
-1715. der Sänger, - die Sängerin, -nen
-1716. einig-
-1717. mündlich
-1718. neugierig
-1719. das Fett
-1720. kleben, klebt, klebte, hat geklebt
-1721. virtuell
-1722. der Vorname, -n
-1723. die Zeitschrift, -en
-1724. das Zeug/-zeug
-1725. verheiratet
-1726. erwachsen
-1727. der Tipp, -s
-1728. auffordern, fordert auf, forderte auf, hat aufgefordert
-1729. der Hügel, -
-1730. das Tempo
-1731. wunderschön
-1732. grüßen, grüßt, grüßte, hat gegrüßt
-1733. geheim
-1734. rechtzeitig
-1735. anwesend
-1736. nass
-1737. der Turm, ¨-e
-1738. das Gewissen
-1739. intelligent
-1740. stehlen, stiehlt, stahl, hat gestohlen
-1741. betreuen, betreut, betreute, hat betreut
-1742. der Export, -e
-1743. die Phantasie/Fantasie, -n
-1744. das Stadion, Stadien
-1745. der Durchschnitt, -e
-1746. das Klima
-1747. vergrößern, vergrößert, vergrößerte, hat vergrößert
-1748. die Grafik, -en
-1749. wach
-1750. telefonieren, telefoniert, telefonierte, hat telefoniert
-1751. das Grundstück, -e
-1752. jederzeit
-1753. feucht
-1754. furchtbar
-1755. der Architekt, -en die Architektin, -nen
-1756. das Regal, -e
-1757. der Rucksack, ¨-e
-1758. unterrichten, unterrichtet, unterrichtete, hat unterrichtet
-1759. das Datum, die Daten
-1760. der Kellner, - die Kellnerin, -nen → D, A: Ober; CH: Serviceangestellter
-1761. die Kiste, -n (A, D) → D: Kasten
-1762. fröhlich
-1763. heimlich
-1764. der Pilz, -e → A: Schwammerl
-1765. der Supermarkt, ¨-e
-1766. der Ausgang, ¨-e
-1767. das Dokument, -e
-1768. zuschauen
-1769. zuschauen, schaut zu, schaute zu, hat zugeschaut
-1770. senden, sendet, sendete/sandte, hat gesendet/gesandt
-1771. der Schrank, ¨-e (D, CH) → A, CH: Kasten
-1772. der Bescheid, -e
-1773. wiegen, wiegt, wog, hat gewogen
-1774. die Rose, -n
-1775. schaden, schadet, schadete, hat geschadet
-1776. stumm
-1777. der Empfänger, -
-1778. die Hochzeit, -en
-1779. der Zettel, -
-1780. die Jacke, -n
-1781. die Droge, -n
-1782. fett
-1783. verbrauchen, verbraucht, verbrauchte, hat verbraucht
-1784. die Reihenfolge, -n
-1785. die Zahlung, -en
-1786. beißen, beißt, biss, hat gebissen
-1787. die Kneipe, -n (D)
-1788. absagen, sagt ab, sagte ab, hat abgesagt
-1789. die Frucht, ¨-e
-1790. einschalten, schaltet ein, schaltete ein, hat eingeschaltet
-1791. buchen, bucht, buchte, hat gebucht
-1792. kündigen, kündigt, kündigte, hat gekündigt
-1793. die Anzeige, -n
-1794. realistisch
-1795. tödlich
-1796. unterschreiben, unter- schreibt, unterschrieb, hat unterschrieben
-1797. verhaften, verhaftet, verhaftete, hat verhaftet
-1798. die Hitze
-1799. notieren
-1800. das Konto, Konten
-1801. der Lärm
-1802. der Rechner, -
-1803. das Schild, -er
-1804. bequem
-1805. der Kindergarten, ¨-
-1806. das Rätsel, -
-1807. soviel
-1808. der Anzug, ¨-e
-1809. nützlich
-1810. der Schein, -e
-1811. das Verbot, -e
-1812. gespannt
-1813. die Vermittlung, -en
-1814. inklusive
-1815. der Humor
-1816. treu
-1817. die Erziehung
-1818. die Meldung, -en
-1819. die Zeichnung, -en
-1820. löschen, löscht, löschte, hat gelöscht
-1821. die Mahlzeit, -en
-1822. die Wiederholung, -en
-1823. das Praktikum, Praktika
-1824. die Vorsicht
-1825. die Auskunft, ¨-e
-1826. der Bogen, -/¨-
-1827. die Messe, -n
-1828. herunter-, runter- (herunter-)laden, lädt herunter, lud herunter, hat heruntergeladen
-1829. hinterher
-1830. kostenlos
-1831. reiten, reitet, ritt, ist geritten
-1832. die Werkstatt, ¨-en
-1833. die Kälte
-1834. die Laune, -n
-1835. die Toilette, -n
-1836. das Unglück, -e
-1837. die Eröffnung, -en
-1838. die Miete, -n
-1839. der Apfel, ¨-
-1840. blond
-1841. anstrengend
-1842. der Anruf, -e
-1843. feststehen, steht fest, stand fest, ist festgestanden
-1844. der Sieger, - die Siegerin, -nen
-1845. die Unterkunft, ¨-e
-1846. der Kompromiss, -e
-1847. die Tasse, -n
-1848. der Profi, -s
-1849. der Nebel, -
-1850. hässlich
-1851. der Rock, ¨-e
-1852. regnen, es regnet, es regnete, es hat geregnet
-1853. musikalisch
-1854. das Sofa, -s
-1855. die Ankunft
-1856. das Paket, -e
-1857. putzen, putzt, putzte, hat geputzt
-1858. die Frist, -en
-1859. die Qualifikation, -en
-1860. die Schlange, -n
-1861. das Hobby, -s
-1862. das Möbel, -
-1863. die Zone, -n
-1864. die Biologie
-1865. vorläufig
-1866. das Abenteuer, -
-1867. der Teppich, -e
-1868. tauschen, tauscht, tauschte, hat getauscht
-1869. das Gemüse
-1870. gültig
-1871. blühen, blüht, blühte, hat geblüht
-1872. der Aufenthalt, -e
-1873. vergeblich
-1874. der Hörer, -; die Hörerin, -nen der Zuhörer
-1875. schuldig
-1876. nebenbei
-1877. das Werkzeug, -e
-1878. bremsen, bremst, bremste, hat gebremst
-1879. das Getränk, -e
-1880. vorlesen, liest vor, las vor, hat vorgelesen
-1881. die Lüge, -n
-1882. städtisch
-1883. der Wirt, -e die Wirtin, -nen
-1884. die Geduld
-1885. siegen, siegt, siegte, hat gesiegt
-1886. trocknen, trocknet, trocknete, hat/ist getrocknet
-1887. dauernd
-1888. elegant
-1889. die Wunde, -n
-1890. der Reporter, - die Reporterin, -nen
-1891. aufschreiben
-1892. der Ersatz
-1893. passiv
-1894. stinken, stinkt, stank, hat gestunken
-1895. die Fremdsprache, -n
-1896. das Gepäck
-1897. sich bewerben, bewirbt sich, bewarb sich, hat sich beworben
-1898. die Feuerwehr, -en
-1899. das Heim, -e
-1900. der Koch, ¨-e die Köchin, -nen
-1901. gründlich
-1902. nirgendwo
-1903. umarmen, umarmt, umarmte, hat umarmt
-1904. der Kühlschrank, ¨-e
-1905. der Empfang, ¨-e
-1906. minimal
-1907. die Unterschrift, -en
-1908. beantragen, beantragt, beantragte, hat beantragt
-1909. die Kartoffel, -n → A: Er- dapfel
-1910. bestrafen, bestraft, bestrafte, hat bestraft
-1911. die Fabrik, -en
-1912. mutig
-1913. sympathisch
-1914. die Tafel, -n
-1915. die Uniform, -en
-1916. sich weigern, weigert sich, weigerte sich, hat sich geweigert
-1917. fotografieren, fotografiert, fotografierte, hat fotografiert
-1918. das Heft, -e
-1919. die Mode, -n
-1920. schmutzig
-1921. gemütlich
-1922. blass
-1923. die Teilnahme, -n
-1924. zumachen, macht zu, machte zu, hat zugemacht
-1925. ausstellen, stellt aus, stellte aus, hat ausgestellt
-1926. die Münze, -n
-1927. die Oper, -n
-1928. satt
-1929. die Kerze, -n
-1930. die Konferenz, -en
-1931. die Versicherung, -en
-1932. die Wurst, ¨-e
-1933. die Geschwister (Pl.)
-1934. der Staub
-1935. der Tanz, ¨-e
-1936. tippen, tippt, tippte, hat getippt
-1937. das Rathaus, ¨-er
-1938. sich erholen, erholt sich, erholte sich, hat sich erholt
-1939. das Lokal, -e
-1940. verwandt
-1941. die Erfindung, -en
-1942. der Sessel, - (D, CH) → A, CH: Fauteuil
-1943. der Sessel, - (A) → D, CH: Stuhl
-1944. der Ingenieur, -e
-1945. der Ausflug, ¨-e
-1946. die Baustelle, -n
-1947. der Kasten, ¨- (D) → Kiste (A, D) der Kasten, ¨- (A, CH) → D, CH: Schrank
-1948. schimpfen, schimpft, schimpfte, hat geschimpft
-1949. worum
-1950. der Balkon, -e
-1951. bar
-1952. das Tuch, ¨-er
-1953. der Ozean, -e
-1954. umsonst
-1955. verdächtig
-1956. zuverlässig
-1957. abheben, hebt ab, hob ab, hat abgehoben
-1958. alltäglich
-1959. die Fortsetzung, -en
-1960. die Infektion, -en
-1961. der Käse
-1962. protestieren, protestiert, protestierte, hat protestiert
-1963. der Eintritt
-1964. neulich
-1965. das Orchester, -
-1966. einschließlich
-1967. die Migration
-1968. die Bitte, -n
-1969. der Topf, ¨-e (D, A) → CH: Pfanne
-1970. die Enttäuschung, -en
-1971. ernähren, ernährt, ernährte, hat ernährt
-1972. die Lampe, -n
-1973. zweifeln, zweifelt, zweifelte, hat gezweifelt
-1974. einverstanden
-1975. das Märchen, -
-1976. die Unterhaltung, -en
-1977. besorgen, besorgt, besorgte, hat besorgt
-1978. das Kraftwerk, -e
-1979. das Rezept, -e
-1980. der Sack, ¨-e
-1981. sinnlos
-1982. drucken, druckt, druckte, hat gedruckt
-1983. populär
-1984. das Plakat, -e
-1985. die Terrasse, -n
-1986. die Tropfen (Pl.)
-1987. die Burg, -en
-1988. das Magazin, -e
-1989. der Zuhörer, - die Zuhörerin, -nen
-1990. sich beschweren, beschwert sich, beschwerte sich, hat sich beschwert
-1991. entgegenkommen
-1992. mild
-1993. die Minderheit, -en
-1994. das Bargeld
-1995. sich erkundigen, erkundigt sich, erkundigte sich, hat sich erkundigt
-1996. das Original, -e
-1997. sich irren, irrt sich, irrte sich, hat sich geirrt
-1998. die Breite, -n
-1999. die Lieferung, -en
-2000. schlank
-2001. der Dreck
-2002. eilen, eilt, eilte, hat/ist geeilt
-2003. die Fotografie, -n
-2004. die Galerie, -n
-2005. die Präsentation, -en
-2006. das Klavier, -e
-2007. unterstreichen, unterstre- icht, unterstrich, hat unterstrichen
-2008. das Gift, -e
-2009. der Knopf, ¨-e
-2010. voraussichtlich
-2011. der Abfall, ¨-e
-2012. überlegen, überlegt, überlegte, hat überlegt
-2013. ausfüllen, füllt aus, füllte aus, hat ausgefüllt
-2014. die Betreuung
-2015. der Kuchen, -
-2016. der Nachwuchs
-2017. der Halt
-2018. der Rentner, - die Rentnerin, -nen (D, CH) → A: Pensionist
-2019. die Sportart, -en
-2020. die Abfahrt, -en
-2021. die Wanderung, -en
-2022. das Zeugnis, -se
-2023. losfahren, fährt los, fuhr los, ist losgefahren
-2024. schalten, schaltet, schaltete, hat geschaltet
-2025. beleidigen, beleidigt, beleidigte, hat beleidigt
-2026. reif
-2027. überholen, überholt, überholte, hat überholt
-2028. die Schwangerschaft, -en
-2029. der Müll
-2030. das Vergnügen, -
-2031. fließend
-2032. konsumieren, konsumiert, konsumierte, hat konsumiert
-2033. die Notiz, -en
-2034. der Rasen, -
-2035. die Kabine, -n
-2036. die Schokolade
-2037. der Sekretär, -e die Sekretärin, -nen
-2038. übernachten, übernachtet, übernachtete, hat übernachtet
-2039. überqueren, überquert, überquerte, hat überquert
-2040. operieren, operiert, operierte, hat operiert
-2041. stechen, sticht, stach, hat gestochen
-2042. verwechseln, verwechselt, verwechselte, hat verwechselt
-2043. beschädigen, beschädigt, beschädigte, hat beschädigt
-2044. giftig
-2045. nebenan
-2046. die Dusche, -n
-2047. die Etage, -n (D, CH) → Stock
-2048. der Fotograf, -en
-2049. nirgends
-2050. (sich) verabreden, verabredet, verabredete, hat verabredet
-2051. füttern, füttert, fütterte, hat gefüttert
-2052. das Studio, -s
-2053. die Pension, -en
-2054. die Pension, -en (A, CH) → D, CH: Rente
-2055. die Rücksicht, -en
-2056. der Enkel, - die Enkelin, -nen
-2057. die Recherche, -n
-2058. backen, bäckt/backt, backte, hat gebacken
-2059. das Ehepaar, -e
-2060. das Motorrad, ¨-er
-2061. pünktlich
-2062. der Dialekt, -e
-2063. der Beleg, -e
-2064. die Rezeption/Reception, - en
-2065. das Tennis
-2066. die Puppe, -n
-2067. der Spaziergang, ¨-e
-2068. optimistisch
-2069. der Rekord, -e
-2070. der Einbruch, ¨-e
-2071. worüber
-2072. der Gruß, ¨-e
-2073. die Ehefrau, -en/der Ehemann, ¨-er
-2074. höflich
-2075. das Forum, Foren (Internetforum)
-2076. der Spezialist, -en die Spezialistin, -nen
-2077. der Apparat, -e
-2078. spitz
-2079. das Ticket, -s
-2080. das Fieber
-2081. gießen, gießt, goss, gegossen
-2082. das Denkmal, ¨-er
-2083. die Einzelheit, -en
-2084. der Import, -e
-2085. die Dose, -n → D, CH: Büchse
-2086. der Cousin, -s die Cousine, -n
-2087. das Asyl
-2088. faul
-2089. verzeihen, verzeiht, verzieh, hat verziehen
-2090. der Einkauf, ¨-e
-2091. das Nahrungsmittel, -
-2092. das Quartier, -e (CH) → D, A: Viertel
-2093. behindern, behindert, behinderte, hat behindert behindert
-2094. die Metropole, -n
-2095. ausgezeichnet
-2096. das Kissen, -
-2097. die Kündigung, -en
-2098. sich langweilen, langweilt, langweilte, hat gelangweilt
-2099. das Stockwerk, -e
-2100. die Jeans (Pl.)
-2101. die Kopie, -n
-2102. der Umzug, ¨-e
-2103. die Butter
-2104. die Kreuzung, -en
-2105. die Tablette, -n
-(2106). im Freien
-(2107). der Wohnsitz, -e
-(2108). die Portion, -en
-(2109). das Trottoir, -s (CH) → Gehsteig (D, A)
-(2110). Groß-
-(2111). die Chipkarte, -n
-(2112). die Feier, -n
-(2113). auseinander
-(2114). ängstlich
-(2115). was für ein-
-(2116). das Konsulat, -e
-(2117). Bescheid sagen
-(2118). die Buchhandlung, -en
-(2119). umtauschen, tauscht um, tauschte um, hat umgetauscht
-(2120). der Zoo, -s
-(2121). der Radfahrer, - die Radfahrerin, -nen
-(2122). die Klingel, -n
-(2123). verschmutzen, verschmutzt, verschmutzte, hat verschmutzt
-(2124). hupen, hupt, hupte, hat gehupt
-(2125). der Wohnort, -e
-(2126). das Rüebli, - (CH) → Karotte; D: Möhre
-(2127). der Handwerker, - die Handwerkerin, -nen
-(2128). abmachen, macht ab, machte ab, hat abgemacht
-(2129). das Abonnement, -s/-e
-(2130). das (Back-)Rohr, -e (A) → D, CH: (Back-)Ofen
-(2131). die Jugendherberge, -n
-(2132). die Mahnung, -en
-(2133). die Badewanne, -n
-(2134). der Klick, - s
-(2135). je … desto …
-(2136). irgend- irgendein
-(2137). die Reparatur, -en
-(2138). die Gebühr, -en
-(2139). die/das Glace/Glacé, -n (CH) → D, A: Eis das Glas, ¨-er
-(2140). Kriminal- die Kriminalpolizei
-(2141). der Fasching, - (D, A) → D: Karneval; CH: Fasnacht
-(2142). verpflichtet
-(2143). der Intensivkurs, -e
-(2144). das Reisebüro, -s
-(2145). die Geschwindigkeits- beschränkung, -en
-(2146). einpacken, packt ein, packte ein, hat eingepackt
-(2147). die Karotte, -n → D: Möhre; CH: Rüebli
-(2148). der Fahrplan, ¨-e
-(2149). einbrechen, bricht ein, brach ein, ist eingebrochen
-(2150). die Diät
-(2151). das Lexikon, -Lexika
-(2152). der Vermieter, - die Vermieterin, -nen
-(2153). die Langeweile
-(2154). (ein) paar
-(2155). pflanzen, pflanzt, pflanzte, hat gepflanzt
-(2156). einzahlen, zahlt ein, zahlte ein, hat eingezahlt
-(2157). der Kopierer, -
-(2158). der Anrufbeantworter, -
-(2159). die Bankomat-Karte, -n (A) → ec-Karte/EC-Karte
-(2160). die Reportage, -n
-(2161). selb-
-(2162). der Mechaniker, - die Mechanikerin, -nen
-(2163). eilig
-(2164). frühstücken, frühstückt, frühstückte, hat gefrühstückt
-(2165). die Sucht, ¨-e
-(2166). in Rente gehen/sein (D) → D, A: in Pension gehen/sein; CH, D: pen- sioniert werden/sein
-(2167). der Kuli, -s
-(2168). inner-
-(2169). das Suchtmittel, -
-(2170). Einzel-
-(2171). der Schmutz
-(2172). die Pfanne, -n (CH) → D, A: Topf
-(2173). unentschieden
-(2174). befriedigend
-(2175). zurechtkommen, kommt zurecht, kam zurecht, ist zurechtgekommen
-(2176). die Garantie
-(2177). das Trinkgeld, -er
-(2178). die Rufnummer, -n
-(2179). das Quiz
-(2180). das Obst (D, A) → CH: Früchte
-(2181). die Bremse, -n
-(2182). umsteigen, steigt um, stieg um, ist umgestiegen
-(2183). die Durchsage, -n
-(2184). versäumen, versäumt, versäumte, hat versäumt
-(2185). unterlassen, unterlässt, unterließ, hat unterlassen
-(2186). der Fauteuil, -s (A, CH) → D, CH: Sessel
-(2187). das Taschentuch, ¨-er
-(2188). buchstabieren, buchsta- biert, buchstabierte, hat buchstabiert
-(2189). schneien, es schneit, es schneite, es hat geschneit
-(2190). der Gehsteig (D, A) → CH: Trottoir
-(2191). bluten, blutet, blutete, hat geblutet
-(2192). abwärts
-(2193). letzt-
-(2194). ander-
-(2195). der Kranke, -n die Kranke, -n
-(2196). der Notruf
-(2197). der Feiertag, -e
-(2198). wehtun, tut weh, tat weh, hat wehgetan
-(2199). preiswert
-(2200). der Pensionist, -en / die Pensionistin, -nen (A) → D, CH: Rentner
-(2201). der Katalog, -e
-(2202). Speise-/-speise, -n
-(2203). entschlossen
-(2204). sich vergnügen, vergnügt sich, vergnügte sich, hat sich vergnügt
-(2205). der Vorort, -e
-(2206). das Pflaster, -
-(2207). der Betreuer, - die Betreuerin, -nen
-(2208). der (Schlag-)Rahm (CH) → D: (Schlag-)Sahne, A: (Schlag-)Obers
-(2209). die U-Bahn, -en
-(2210). die Gratulation, -en
-(2211). rück- die Rückfahrt, -en
-(2212). der Reis
-(2213). das Diplom, -e
-(2214). der Steward, -s die Stewardess, -en
-(2215). das/der Zvieri/Znüni, -s (CH) → D: Imbiss; A: Jause
-(2216). die Eisenbahn, -en
-(2217). die Haltestelle, -n
-(2218). die Schachtel, -n
-(2219). sich etwas gefallen lassen, lässt sich etwas gefallen, ließ sich etwas gefallen, hat sich etwas gefallen lassen
-(2220). die Zweitsprache, -n
-(2221). der (Back-)Ofen, ¨- (D, CH) → A: (Back-)Rohr
-(2222). die Konfitüre, -n (CH)
-(2223). die Daten (Plural)
-(2224). Lieblings-
-(2225). um … zu
-(2226). die Gewohnheit, -en
-(2227). der Kakao, -s
-(2228). der Hammer, ¨-
-(2229). begeistert
-(2230). das Hähnchen/Hühnchen, - (D) → A: Hend(e)l; Poulet, -s (CH)
-(2231). herzlich heute
-(2232). das Dessert, -s → D, A: Nachspeise
-(2233). der Schinken, -
-(2234). installieren, installiert, installierte, hat installiert
-(2235). der Geldautomat, -en (D) → A, CH: Bancomat/Bankomat
-(2236). heizen, heizt, heizte, hat geheizt
-(2237). die Möhre, -n (D) → Karotte; CH: Rüebli
-(2238). die Schere, -n
-(2239). Achtung!
-(2240). die Bedienungsanleitung, -en
-(2241). die Straßenbahn, -en (D, A) → CH: Tram
-(2242). (sich) duschen, duscht, duschte, hat geduscht
-(2243). der Fotoapparat, -e
-(2244). (sich) ausruhen, ruht aus, ruhte aus, hat ausgeruht
-(2245). die Arbeitsstelle, -n
-(2246). übermorgen
-(2247). Elektro-
-(2248). Früchte (CH) → D, A: Obst
-(2249). S-Bahn, -en
-(2250). pauschal
-(2251). die Fortbildung, -en
-(2252). der Paradeiser, - (A) → To- mate
-(2253). die Ernte, -n
-(2254). entsorgen, entsorgt, entsorgte, hat entsorgt
-(2255). der Basketball, ¨-e
-(2256). die Mensa, -s/-en
-(2257). besonder-
-(2258). der Perron, -s (CH) → D, A: Bahnsteig
-(2259). der Erdapfel, ¨- (A) → Kartoffel
-(2260). das Couvert, -s (CH) → Briefumschlag; A: Kuvert
-(2261). die Reinigung, -en
-(2262). salzig
-(2263). taub
-(2264). die Mobilbox, -en
-(2265). 5. Sieh mal! Es schneit. 6. Ich komme gleich wieder, ich muss mal schnell nach dem Essen sehen. 7. Was machst du im Urlaub? – Ich weiß noch nicht. Mal sehen. 9. Du siehst deiner Mutter sehr ähnlich.
-(2266). pensioniert werden/sein (D, CH) → D, A: in Pension gehen/sein; D: in Rente gehen/sein
-(2267). entspannend
-(2268). original
-(2269). die Müllabfuhr
-(2270). interessiert
-(2271). nah(e)
-(2272). voraus
-(2273). lange, lang
-(2274). Doppel-
-(2275). der Abfalleimer, -
-(2276). das Referat, -e
-(2277). die Zahncreme/-pasta
-(2278). die Wolle
-(2279). die Margarine
-(2280). die Briefmarke, -n
-(2281). die Bankleitzahl, -en
-(2282). die Geldbörse, -n (A) → Brieftasche; D, CH: Porte- monnaie/Portmonee
-(2283). die Jause, -n (A) → D: Im- biss; CH: Znüni/Zvieri
-(2284). Schwieger-
-(2285). der Raucher, - die Raucherin, -nen
-(2286). das Inserat, -e
-(2287). verschreiben, verschreibt, verschrieb, hat verschrieben
-(2288). das Altersheim, -e → Altenheim
-(2289). durstig
-(2290). Öko- (ökologisch)
-(2291). der Mieter, - die Mieterin, -nen
-(2292). geeignet
-(2293). die Couch, -s
-(2294). das Altenheim, -e → Altersheim
-(2295). der Ober, - (D, A) → Kellner; CH: Serviceangestellter
-(2296). fertig
-(2297). spazieren gehen, geht spazieren, ging spazieren, ist spazieren gegangen
-(2298). sich beeilen, beeilt sich, beeilte sich, hat sich beeilt
-(2299). das Schaufenster, -
-(2300). der Briefumschlag, ¨-e → A: Kuvert; CH: Couvert
-(2301). geschieden
-(2302). die Pflaume, -n
-(2303). recht
-(2304). duzen, duzt, duzte, hat geduzt
-(2305). das Rind, -er
-(2306). das Vorstellungsgespräch, -e
-(2307). die Steckdose, -n
-(2308). neblig
-(2309). die ec-Karte/EC-Karte → A: Bankomat-Karte
-(2310). abwaschen, wäscht ab, wusch ab, hat abgewaschen
-(2311). die Frisur, -en
-(2312). die Reklame, -n
-(2313). das Buffet, -s
-(2314). der Kunststoff, -e der Kurs, -e
-(2315). die Mehrwertsteuer
-(2316). der Knödel, - (D, A) → D: Kloß
-(2317). das Gewitter, -
-(2318). ausdrucken, druckt aus, druckte aus, hat ausgedruckt
-(2319). verreisen, verreist, verreiste, ist verreist
-(2320). sich umziehen, zieht sich um, zog sich um, hat sich umgezogen
-(2321). die Muttersprache, -n
-(2322). das Kaffeehaus, ¨-er (A)
-(2323). vermieten, vermietet, ver- mietete, hat vermietet
-(2324). recht-
-(2325). geschieden
-(2326). abfahren, fährt ab, fuhr ab, ist abgefahren
-(2327). das Souvenir, -s
-(2328). das Mehl
-(2329). die Rundfahrt, -en
-(2330). Not- die Notaufnahme, -n
-(2331). die Ordination, -en (A) → Sprechstunde
-(2332). wie viel(e)
-(2333). die Anleitung, -en
-(2334). der Grill
-(2335). befreit
-(2336). meinetwegen
-(2337). der Salat, -e
-(2338). die Halbpension
-(2339). das Eck, -en (A) → D, CH: Ecke
-(2340). die Vorfahrt
-(2341). die Ausfahrt, -en
-(2342). die Landung, -en
-(2343). die Ansage, -n
-(2344). basteln, bastelt, bastelte, hat gebastelt
-(2345). der Zoll, ¨-e
-(2346). die Postleitzahl, -en
-(2347). der Umweltschutz
-(2348). die Gitarre, -n
-(2349). das Schwimmbad, ¨-er
-(2350). der Sozialarbeiter, - die Sozialarbeiterin, -nen
-(2351). rauf/rauf-
-(2352). der Vorort, -e
-(2353). die Besserung
-(2354). die Erlaubnis
-(2355). festnehmen nimmt fest, nahm fest, hat festgenommen.
-(2356). mittler-
-(2357). der Salon, -s
-(2358). die Suppe, -n
-(2359). der Monitor, -e
-(2360). leid tun, tut leid, tat leid, hat leidgetan
-(2361). aufräumen, räumt auf, räumte auf, hat aufgeräumt
-(2362). das Benzin
-(2363). haltbar
-(2364). staubsaugen, staubsaugt, staubsaugte, hat gestaubsaugt
-(2365). überfahren, überfährt, überfuhr, hat überfahren
-(2366). kopieren
-(2367). die Limonade, -n
-(2368). die Teilzeit
-(2369). zu sein, ist zu, war zu, ist zu gewesen
-(2370). der Verlierer, - die Verliererin, -nen
-(2371). die Vorwahl, -en
-(2372). die Hausaufgabe, -n
-(2373). die Vollzeit
-(2374). das Kuvert, -s (A) → der Briefumschlag; CH: Cou- vert
-(2375). wetten, wettet, wettete, hat gewettet
-(2376). der Bauernhof, ¨-e
-(2377). der Drucker, -
-(2378). die Fahrbahn, -en
-(2379). der Schreck(en)
-(2380). das Gewürz, -e
-(2381). sonnig
-(2382). ledig
-(2383). das Velo, -s (CH) → Fahrrad; D, A: Rad
-(2384). tolerant
-(2385). das Schreiben, -
-(2386). die Zange, -n
-(2387). raus/raus-
-(2388). der Streik, -s
-(2389). das Schmerzmittel, -
-(2390). das Portemonnaie/Port- monee, -s (D, CH) → Brief- tasche; A: Geldbörse
-(2391). das Kabel, -
-(2392). das Brötchen, - (D) → A: Semmel; CH: Brötli
-(2393). der Serviceangestellte, -n / die Serviceangestellte, - n (CH) → Kellner; D, A: Ober
-(2394). vorgestern
-(2395). die Quittung, -en
-(2396). die Ampel, -n
-(2397). die Fähre, -n
-(2398). der Laster, -
-(2399). die Klassenarbeit, -en (D) → A: Schularbeit
-(2400). schminken, schminkt, schminkte, hat geschminkt
-(2401). das Wissen
-(2402). der Speisewagen, - Spezial-
-(2403). das Kostüm, -e
-(2404). die Tastatur, -en
-(2405). mieten, mietet, mietete, hat gemietet
-(2406). abschreiben, schreibt ab, schrieb ab, hat abgeschrieben
-(2407). erziehen, erzieht, erzog, hat erzogen
-(2408). der Treffpunkt, -e
-(2409). das Zertifikat, -e
-(2410). berufstätig
-(2411). der Briefkasten, ¨-
-(2412). die Nachspeise, -n (D, A) → Dessert nächst-
-(2413). vorwärts
-(2414). die Zwiebel, -n
-(2415). das Visum, Visa
-(2416). die Einbahnstraße, -n
-(2417). fällig
-(2418). kaputtmachen
-(2419). das Kraftfahrzeug, -e
-(2420). das Kennzeichen, -
-(2421). das Hackfleisch (D, CH) → A: Faschierte
-(2422). jedes Mal
-(2423). die Erkältung, -en
-(2424). chic/schick
-(2425). die Aushilfe, -n
-(2426). betrunken
-(2427). das Leder
-(2428). donnern, donnert, donnerte, hat gedonnert
-(2429). das Plastik
-(2430). die Zitrone, -n
-(2431). lecker
-(2432). tanken, tankt, tankte, hat getankt
-(2433). der Flohmarkt, ¨-e
-(2434). der Zivilstand (CH) → Per- sonenstand; D, A: Fami- lienstand
-(2435). streiken, streikt, streikte, hat gestreikt
-(2436). das Billett, -e/-s → D, A: Fahrkarte
-(2437). der Praktikant, -en die Praktikantin, -nen
-(2438). -weise
-(2439). Sonder- das Sonderangebot, -e
-(2440). ärgerlich
-(2441). roh
-(2442). das Zündholz, ¨-er → Stre- ichholz; A: Zünder
-(2443). der Automat, -en
-(2444). der Familienname, -n
-(2445). vegetarisch
-(2446). erschöpft
-(2447). die Spritze, -n
-(2448). husten, hustet, hustete, hat gehustet
-(2449). die Lehrstelle, -n
-(2450). die Birne, -n
-(2451). Bescheid geben
-(2452). reservieren, reserviert, reservierte, hat reserviert
-(2453). die Visitenkarte, -n
-(2454). hageln, hagelt, hagelte, hat gehagelt
-(2455). die Annonce, -n
-(2456). die Nichte, -n
-(2457). die Heizung, -en
-(2458). abbiegen, biegt ab, bog ab, ist abgebogen
-(2459). strafbar
-(2460). die Gabel, -n
-(2461). das Verhalten
-(2462). die Übernachtung, -en
-(2463). Prost
-(2464). die Personalien (Pl.)
-(2465). der Stecker, -
-(2466). die Kassette, -n
-(2467). link-
-(2468). überweisen, überweist, überwies, hat überwiesen
-(2469). der Stau, -s
-(2470). der Imbiss, -e (D) → A: Jause, CH: Znüni/Zvieri
-(2471). der Aufzug, ¨-e (D, A) → Lift
-(2472). verpflegen, verpflegt, verpflegte, hat verpflegt
-(2473). die Bürste, -n
-(2474). die Torte, -n
-(2475). der Bekannte, -n die Bekannte, -n
-(2476). klicken, klickt, klickte, hat geklickt
-(2477). die Urkunde, -n
-(2478). sowohl … als auch
-(2479). bekannt geben, gibt bekannt, gab bekannt, hat bekannt gegeben
-(2480). die Mappe, -n
-(2481). miss-
-(2482). die Zahnbürste, -n
-(2483). klasse
-(2484). die Fußgängerzone, -n
-(2485). der Tote, -n die Tote, -n
-(2486). Golf, das Golfspiel
-(2487). mal
-(2488). der Kugelschreiber, -
-(2489). das Ballett, -e
-(2490). gebrauchen, gebraucht, gebrauchte, hat gebraucht
-(2491). der Saft, ¨-e
-(2492). die Gebrauchsanweisung, -en
-(2493). die Verspätung, -en
-(2494). ausreichend
-(2495). vergnügt
-(2496). getrennt leben
-(2497). vor allem
-(2498). die Mülltonne, -n
-(2499). süchtig
-(2500). anschnallen, schnallt an, schnallte an, hat angeschnallt
-(2501). das Gasthaus, ¨-er (A)
-(2502). der Honig
-(2503). heim
-(2504). der Prospekt, -e
-(2505). das Faschierte (A) → D, CH: Hackfleisch
-(2506). die Besprechung, -en
-(2507). frech
-(2508). rückwärts
-(2509). der Pullover, -
-(2510). das Gleis, -e
-(2511). das/der (Schlag-)Obers (A) → D: (Schlag-)Sahne; CH: (Schlag-)Rahm
-(2512). die Straßenbahn, -en
-(2513). mehr (siehe auch viel)
-(2514). verboten
-(2515). die Sprechstunde, -n → A: Ordination
-(2516). noch mal
-(2517). sich amüsieren, amüsiert sich, amüsierte sich, hat sich amüsiert
-(2518). die Umweltver- schmutzung, -en
-(2519). die Sehenswürdigkeit, -en
-(2520). der Studierende, -n die Studierende, -n
-(2521). das Laufwerk, -e
-(2522). die Seife, -n
-(2523). die U-Bahn, -en
-(2524). der Bart, ¨-e
-(2525). das Menü, -s
-(2526). prima
-(2527). die Erholung, -en
-(2528). die Fachleute (Pl.)
-(2529). der Spielplatz, ¨-e
-(2530). wertlos
-(2531). der Appetit
-(2532). dekorieren, dekoriert, dekorierte, hat dekoriert
-(2533). Verzeihung
-(2534). un-
-(2535). die Nachhilfe, -n
-(2536). die Pizza, -s/Pizzen
-(2537). die Nudel, -n
-(2538). die Tüte, -n
-(2539). der Stiefel, -
-(2540). die Anmeldung, -en
-(2541). die Vertretung, -en
-(2542). die Pommes frites (Pl.)
-(2543). betrügen, betrügt, betrog, hat betrogen
-(2544). die Einfahrt, -en
-(2545). hochladen, lädt hoch, lud hoch, hat hochgeladen
-(2546). der Tagesablauf, ¨-e
-(2547). der Alarm, -e
-(2548). der Lerner, - die Lernerin, -nen
-(2549). die Zünder (A) (Pl.) → Streichholz; Zündholz
-(2550). die Bluse, -n
-(2551). die Versammlung, -en
-(2552). der Fachmann die Fachfrau, -en
-(2553). der Standpunkt, -e
-(2554). herein-, rein-
-(2555). welcher, welche, welches
-(2556). die Marmelade, -n (D, A)
-(2557). der Kuss, ¨-e
-(2558). der Kursleiter, - die Kursleiter, -nen
-(2559). festsetzen, setzt fest, set- zte fest, hat festgesetzt
-(2560). die Senioren (Pl.)
-(2561). die Arbeitserlaubnis
-(2562). die Taste, -n
-(2563). das Parfüm, -s
-(2564). die Unterlagen (Pl.)
-(2565). der Bub, -en (A, CH) → D: Junge
-(2566). sich anstrengen, strengt sich an, strengte sich an, hat sich angestrengt
-(2567). (sich) rasieren, rasiert, rasierte, hat rasiert
-(2568). grillieren, grilliert, grillierte, hat grilliert (CH) → D, A: grillen
-(2569). der Notausgang, ¨-e
-(2570). die Broschüre, -n
-(2571). die Zutaten (Pl.)
-(2572). der Lehrling, -e
-(2573). das Heimweh
-(2574). nähen, näht, nähte, hat genäht
-(2575). der Notfall, ¨-e
-(2576). der Coiffeur, -e die Coiffeuse, -n (CH) → D, A: Friseur
-(2577). die Entlassung, -en
-(2578). besichtigen, besichtigt, besichtigte, hat besichtigt besitzen, besitzt, besaß, hat besessen
-(2579). zubereiten, bereitet zu, bereitete zu, hat zubereitet
-(2580). schwitzen, schwitzt, schwitzte, hat geschwitzt
-(2581). der Pfleger, - die Pflegerin, -nen
-(2582). der Kiosk, -e
-(2583). ober-
-(2584). als ob
-(2585). genehmigen, genehmigt, genehmigte, hat genehmigt
-(2586). die Tomate, -n → A: Pa- radeiser
-(2587). der Einfall, ¨-e
-(2588). der Pfeffer
-(2589). das Streichholz, ¨-er → Zündholz; A: Zünder
-(2590). die Garage, -n
-(2591). das Schnitzel, -
-(2592). der Krimi, -s
-(2593). der Stock → D, CH: Etage
-(2594). parken, parkt, parkte, hat geparkt (D, A) → CH: parkieren parkieren, parkiert, parkierte, hat parkiert (CH) → D, A: parken
-(2595). die Zinsen (nur Pl.)
-(2596). die Bäckerei, -en
-(2597). die Anrede, -n
-(2598). die Neuigkeit, -en
-(2599). der Hauptbahnhof, ¨-e
-(2600). geboren werden, wird geboren, wurde geboren, ist geboren worden
-(2601). das Formular, -e
-(2602). das Stiegenhaus, ¨-er (A) → D, CH: Treppenhaus
-(2603). der Krankenpfleger, -
-(2604). die Salbe, -n
-(2605). verabredet
-(2606). nachschlagen, schlägt nach, schlug nach, hat nachgeschlagen
-(2607). der Schalter, -
-(2608). die Kantine, -n
-(2609). der Briefträger, →CH:dieBriefträgerin,-nen Pöstler
-(2610). die Fasnacht (CH) → D, A: Fasching; D: Karneval
-(2611). die Cafeteria, -s
-(2612). manch-
-(2613). braten, brät, briet, hat gebraten
-(2614). der Durst
-(2615). der Stift, -e
-(2616). die Schüssel, -n
-(2617). der Feierabend
-(2618). der Schmuck
-(2619). der Löffel, -
-(2620). die Wettervorhersage, -n
-(2621). (sich etwas) kaufen, kauft, kaufte, hat gekauft
-(2622). gleichberechtigt
-(2623). die Fahrkarte, -n → CH: Billet
-(2624). sämtliche
-(2625). einfügen, fügt ein, fügte ein, hat eingefügt
-(2626). der Schirm, -e schlafen, schläft, schlief, hat geschlafen
-(2627). die Scheidung, -en
-(2628). der Tierpark, -s
-(2629). das Brötli, - (CH) → D: Brötchen; A: Semmel
-(2630). die Tankstelle, -n
-(2631). das Abitur (D)→A, CH: Matura
-(2632). die Weiterbildung, -en
-(2633). das Gebirge
-(2634). baden, badet, badete, hat gebadet
-(2635). fernsehen, sieht fern, sah fern, hat ferngesehen
-(2636). das Schwammerl, -n (A) → Pilz schwanger
-(2637). sich ereignen, ereignet sich, ereignete sich, hat sich ereignet
-(2638). der Schnupfen
-(2639). halbtags
-(2640). grillen, grillt, grillte, hat gegrillt (D, A) → CH: grillieren
-(2641). die Garderobe, -n
-(2642). die Banane, -n
-(2643). die Brieftasche, -n → D, CH: Portemonnaie/Port- monee; A: Geldbörse
-(2644). begrenzt
-(2645). sich scheiden lassen, lässt sich scheiden, ließ sich scheiden, hat sich scheiden lassen
-(2646). gewohnt
-(2647). der Rabatt, -e
-(2648). die Büchse, -n (D, CH) → A: Dose
-(2649). der Strafzettel, -
-(2650). der Friede, Frieden, -
-(2651). die Versichertenkarte, -n (D) → A: e-card
-(2652). anschaffen, schafft an, schaffte an, hat angeschafft
-(2653). die Speisekarte, -n
-(2654). die Batterie, -n
-(2655). die Überweisung, - en
-(2656). faulenzen, faulenzt, faulenzte, hat gefaulenzt
-(2657). der Führerschein, -e (D, A) → CH: Führerausweis
-(2658). kaputtgehen
-(2659). die Einzahlung, -en
-(2660). die Ermäßigung, -en
-(2661). Bio-
-(2662). Abgase (Pl.)
-(2663). die Semmel, -n (A) → D: Brötchen; CH: Brötli
-(2664). der Zuschlag, ¨-e
-(2665). der Pöstler, - / die Pöst- lerin, -nen (CH) → Briefträger
-(2666). anklicken, klickt an, klickte an, hat angeklickt
-(2667). abonnieren, abonniert, abonnierte, hat abonniert
-(2668). (sich) siezen, siezt, siezte, hat gesiezt
-(2669). der Dieb, -e
-(2670). das Picknick, -s die Pille, -n
-(2671). der Korridor, -e (D, CH) → Gang; D: Flur
-(2672). sich erkälten, erkältet sich, erkältete sich, hat sich erkältet
-(2673). die See die Nord-/Ostsee
-(2674). die Bohne, -n
-(2675). der Nichtraucher, - die Nichtraucherin, -nen
-(2676). der Stempel, -
-(2677). die Reservierung, -en
-(2678). die Apotheke, -n
-(2679). das Verkehrsmittel, -
-(2680). (hinunter) runterwerfen, wirft runter, warf runter, hat runtergeworfen
-(2681). die Gaststätte, -n (D)
-(2682). möglichst
-(2683). die Schularbeit, -en (A) → D: Klassenarbeit
-(2684). stehen bleiben
-(2685). entweder ... oder
-(2686). überreden, überredet, überredete, hat überredet
-(2687). die Überstunde, -n
-(2688). der Hinweise, -e
-(2689). das Essen, -
-(2690). der Ski/Schi, -er/-
-(2691). der Lift, -e → D, A: Aufzug
-(2692). das Verkehrszeichen, -
-(2693). die Klimaanlage, -n
-(2694). die Gymnastik
-(2695). der Neffe, -n
-(2696). der Braten, -
-(2697). der Führerausweis, -e (CH) → D, A: Führerschein
-(2698). meist(ens)
-(2699). aller-
-(2700). farbig
-(2701). der Betriebsrat, ¨-e die Betriebsrätin, -nen
-(2702). das Wörterbuch, ¨-er
-(2703). die Grippe
-(2704). der Abwart, -e die Abwartin, -nen (CH) → D, A: Hausmeister
-(2705). das Hend(e)l, - (A) → D: Hähnchen/Hühnchen; CH: Poulet
-(2706). gratulieren, gratuliert, gratulierte, hat gratuliert
-(2707). die Vase, -n
-(2708). blitzen, blitzt, blitzte, hat geblitzt
-(2709). wert
-(2710). in Pension gehen/sein (D, A) → D: in Rente gehen/sein; D, CH: pen- sioniert werden/sein
-(2711). spülen, spült, spülte, hat gespült
-(2712). umziehen, zieht um, zog um, ist umgezogen
-(2713). die Stiege, -n (A) → D, CH: Treppe
-(2714). über- übertreiben, übertreibt, übertrieb, hat übertrieben
-(2715). das Gebäck
-(2716). gleichfalls
-(2717). der Umtausch, ¨-e
-(2718). durcheinander
-(2719). der Fleischhauer, - die Fleischhauerin, -nen (A) → Metzger
-(2720). die Krankenschwester, -n
-(2721). die Festplatte, -n
-(2722). mager
-(2723). das Taschengeld, -er
-(2724). der Reifen, -
-(2725). drin, drinnen
-(2726). schädlich
-(2727). die Umleitung, -en
-(2728). verpacken, verpackt, verpackte, hat verpackt
-(2729). die Verabredung, -en
-(2730). die Fahrkarte, -n → CH: Billett
-(2731). die Flöte, -n
-(2732). die Bestätigung, -en
-(2733). die Kanne, -n
-(2734). bewölkt
-(2735). die Nadel, -n
-(2736). selber
-(2737). das Tram, -s → D, A: Straßenbahn
-(2738). reparieren, repariert, reparierte, hat repariert
-(2739). möbliert
-(2740). der Absender, - die Absenderin, -nen
-(2741). der Fußgänger, - die Fußgängerin, -nen
-(2742). stilistisch
-(2743). aufladen, lädt auf, lud auf, hat aufgeladen
-(2744). Volleyball
-(2745). fleißig
-(2746). die Matura (A, CH) → D: Abitur
-(2747). der Lebenslauf, ¨-e
-(2748). das Treppenhaus, ¨-er (D, CH) → A: Stiegenhaus
-(2749). beid-
-(2750). der Stadtplan, ¨-e
-(2751). das Haustier, -e
-(2752). der Donner, -
-(2753). der Lautsprecher, -
-(2754). das Alphabet, -e
-(2755). das Fundbüro, -s
-(2756). der Hausmeister, - die Hausmeisterin, -nen (D, A) → CH: Abwart
-(2757). das Pech
-(2758). zelten, zeltet, zeltete, hat gezeltet
-(2759). sparsam
-(2760). die Creme, -n/-s
-(2761). das Apartment, -s
-(2762). folgend
-(2763). das Girokonto, -en
-(2764). Tee ziehen lassen
-(2765). die Fantasie/Phantasie, -n
-(2766). die Datei, -en
-(2767). windig
-(2768). der Verbrecher, - die Verbrecherin, -nen
-(2769). gratis
-(2770). reinigen, reinigt, reinigte, hat gereinigt
-(2771). die Hausfrau/der Haus- mann
-(2772). der Friseur, -e die Friseurin, -nen (D, A) → CH: Coiffeur
-(2773). die (Schlag-)Sahne (D) → A: (Schlag-)Obers; CH: (Schlag-)Rahm
-(2774). der Bahnsteig, -e (D, A) → CH: Perron
-(2775). der Zirkus, -se
-(2776). die Kenntnisse (Pl.)
-(2777). das Eis (D, A) → CH: Glace/Glacé
-(2778). verliebt
-(2779). das Erdgeschoss/ Ergeschoß, -e
-(2780). vorder-
-(2781). der Essig
-(2782). weder … noch
-(2783). das Einschreiben, -
-(2784). die Fernbedienung, -en
-(2785). die Eile
-(2786). der Blitz, -e
-(2787). die Bewerbung, -en
-(2788). das Müesli/Müsli, -
-(2789). (sich etwas) aussuchen, sucht aus, suchte aus, hat ausgesucht
-(2790). hungrig
-(2791). die Kreditkarte, -n
-(2792). die Aufforderung, -en
-(2793). der Profisportler, - die Profisportlerin, -nen
-(2794). der Familienstand (D, A) → Personenstand; CH: Zivilstand
-(2795). geradeaus
-(2796). das Geschirr
-(2797). die Aprikose, -n (D, CH) → A: Marille
-(2798). der Wohnort, -e
-(2799). so viel/so viel wie
-(2800). das Vertrauen
-(2801). die Krankenkasse, -n
-(2802). die Mobilität, -en
-(2803). der Kalender, -
-(2804). die Vermietung, -en
-(2805). das Leben
-(2806). vorn, vorne
-(2807). möchten, möchte, mochte, hat gemocht
-(2808). das Hallenbad, ¨-er
-(2809). der Herd, -e
-(2810). ein bisschen
-(2811). der Nagel, ¨-
-(2812). der Bleistift, -e
-(2813). frieren, friert, fror, hat gefroren
-(2814). aufwärts
-(2815). fantastisch
-(2816). waagerecht
-(2817). äußerlich
-(2818). der Einbrecher, - die Einbrecherin, -nen
-(2819). die Marille, -n (A) → D, CH: Aprikose
-(2820). die Panne, -n
-(2821). geehrt
-(2822). 3. Auf dem Berg haben wir ein Picknick gemacht.
-(2823). jeder, jedes, jede
-(2824). die Orange, -n
-(2825). Ratschlag, ¨-e
-(2826). abwesend
-(2827). die e-card (A) → D: die Versichertenkarte
-(2828). die Soße/Sauce, -n
-(2829). die Ordination, -en (A) → Praxis
-(2830). das Mineralwasser
-(2831). der Metzger, - → A: Fleis- chhauer
-(2832). untersagt
-(2833). der Terminkalender, -
-(2834). die Socke, -n
-(2835). Haupt- die Hauptstadt, ¨-e
-(2836). der Husten
-(2837). nützen, nützt, nützte, hat genützt
-(2838). die Drogerie, -n
-(2839). die Überschrift, -en
-(2840). das Feuerzeug, -e
-(2841). der Ordner, -
-(2842). der Karneval, -s/-e (D) → D, A: Fasching; CH: Fas- nacht
-(2843). der Kloß, ¨-e (D) → D, A: Knödel
-(2844). der Wecker, -
-(2845). der Ausweis, -e
-(2846). schuld
-(2847). ausgebildet
-(2848). das Waschmittel, -
-(2849). die Ferien (Pl.) (CH) → D, A: Urlaub Ferien-
-(2850). der Personenstand → D, A: Familienstand; CH: Zivilstand
-(2851). (herunter-)fahren, fährt herunter, fuhr herunter, hat heruntergefahren
-(2852). die Wäsche
-(2853). erkältet
-(2854). bio(logisch)
-(2855). die Aussprache
-(2856). der Wetterbericht, -e
-(2857). leihen, leiht, lieh, hat geliehen
-(2858). das Mobiltelefon, -e
-(2859). die Diskothek, -en/Disko, -s
-(2860). das Poulet, -s (CH) → D: Hähnchen/Hühnchen; A: Hend(e)l
-(2861). der Glückwunsch, ¨-e
-(2862). eckig
-(2863). der Bancomat/Bankomat, -en (A, CH) → D: Geldautomat
-(2864). der Strumpf, ¨-e
-(2865). das Spielzeug, -e
-(2866). der Krankenwagen, -
+und
+in
+ein-
+haben, hat, hatte, hat gehabt
+werden, wird, wurde, ist geworden
+von
+nicht
+es
+mit
+auf
+für
+auch
+an
+dass
+zu
+als
+können, kann, konnte, hat gekonnt (hat können als Modalverb)
+dies-
+wie
+so
+bei
+sein, ist, war, ist gewesen
+aber
+man
+noch
+nach
+oder
+all-
+aus
+was
+nur
+sagen, sagt, sagte, hat gesagt
+dann
+wenn
+müssen, muss, musste, hat gemusst (hat müssen als Modalverb)
+um
+ja
+kein-
+über
+da
+geben, gibt, gab, hat gegeben
+vor
+durch
+viel/viele
+wollen, will, wollte, hat gewollt (hat wollen als Modalverb)
+machen, macht, machte, hat gemacht
+sollen, soll, sollte, hat gesollt (hat sollen als Modalverb)
+schon
+kommen, kommt, kam, ist gekommen
+immer
+gehen, geht, ging, ist gegangen
+groß
+hier/hier-
+ganz
+also
+jetzt
+doch
+wieder/wieder-
+gut
+bis
+wissen, weiß, wusste, hat gewusst
+sehen, sieht, sah, hat gesehen
+sehr
+das Mal, -e
+lassen, lässt, ließ, hat gelassen
+neu
+stehen, steht, stand, hat/ist gestanden
+weil
+unter
+unter-
+der Mensch, -en
+denn
+das Beispiel, -e
+die Zeit
+lang
+leben, lebt, lebte, hat gelebt
+die Frau, -en
+etwas
+selbst
+wenig/wenige
+finden, findet, fand, hat gefunden
+gegen
+zwischen
+liegen, liegt, lag, hat/ist gelegen
+wo
+nichts
+klein
+bleiben, bleibt, blieb, ist geblieben
+nun
+sondern
+hoch
+ohne
+der Mann, ¨-er
+tun, tut, tat, hat getan
+einmal
+heißen, heißt, hieß, hat geheißen
+ob
+denken, denkt, dachte, hat gedacht
+dabei
+seit
+einfach
+erst
+erst-
+das Kind, -er
+das Land, ¨-er
+stellen, stellt, stellte, hat gestellt
+zeigen, zeigt, zeigte, hat gezeigt
+natürlich
+alt
+dort
+gleich
+nehmen, nimmt, nahm, hat genommen
+dürfen, darf, durfte, hat gedurft (hat dürfen als Modalverb)
+wichtig
+vielleicht
+hören, hört, hörte, hat gehört
+das Haus, ¨-er
+nein
+wer
+eigentlich
+fragen, fragt, fragte, hat gefragt
+der Herr, -en
+halten, hält, hielt, hat gehalten
+glauben, glaubt, glaubte, hat geglaubt
+die Frage, -n
+gelten, gilt, galt, hat gegolten
+gerade
+folgen, folgt, folgte, ist gefolgt
+sprechen, spricht, sprach, hat gesprochen
+führen, führt, führte, hat geführt
+bringen, bringt, brachte, hat gebracht
+die Welt
+gar
+eigen-
+genau
+mögen, mag, mochte, hat gemocht
+spät
+bereits
+möglich
+während
+dafür
+kurz
+richtig
+stark
+brauchen, braucht, brauchte, hat gebraucht
+die Hand, ¨-e
+etwa
+das Ende
+schreiben, schreibt, schrieb, hat geschrieben
+solch-
+nie
+der Fall, ¨-e
+schön
+wirklich
+nennen, nennt, nannte, hat genannt
+warum
+ziehen, zieht, zog, hat/ist gezogen
+das Wort, ¨-er
+das Wort, -e
+eben
+die Seite, -n
+das Teil, -e
+der Teil, -e
+jung
+fast
+schnell
+die Stadt, ¨-e
+spielen, spielt, spielte, hat gespielt
+zwar
+die Arbeit, -en
+das Problem, -e
+(sich) verstehen, versteht, verstand, hat verstanden
+bekommen, bekommt, bekam, hat bekommen
+meinen, meint, meinte, hat gemeint
+fahren, fährt, fuhr, ist/hat gefahren
+kennen, kennt, kannte, hat gekannt
+die Mutter, ¨-
+der Weg, -e
+weiter/weiter-
+das Auge, -n
+oft/öfter
+die Leute (Pl.)
+allerdings
+sogar
+jedoch
+(sich) setzen, setzt, setzte, hat gesetzt
+deshalb
+weit
+sitzen, sitzt, saß, hat/ist gesessen
+der Vater, ¨-
+arbeiten, arbeitet, arbeitete, hat gearbeitet
+das Geld
+erklären, erklärt, erklärte, hat erklärt
+klar
+der Doktor, -en die Doktorin, -nen
+das Paar, -e
+das Recht, -e
+wegen
+das Wasser
+bestehen, besteht, bestand, hat bestanden
+versuchen, versucht, versuchte, hat versucht
+der Punkt, -e
+der Grund, ¨-e
+der Kopf, ¨-e
+beginnen, beginnt, begann, hat begonnen
+laufen, läuft, lief, ist gelaufen
+das Bild, -er
+verschieden
+der Name, -n
+die Aufgabe, -n
+schwer
+treffen, trifft, traf, hat getroffen
+die Art, -en
+wohl
+die Geschichte, -n
+erzählen, erzählt, erzählte, hat erzählt
+entstehen, entsteht, entstand, ist entstanden
+sicher
+neben
+allein
+die Abbildung, -en
+hinter/hinter-
+besonders
+tragen, trägt, trug, hat getragen
+kaum
+der Freund, -e
+scheinen, scheint, schien, hat geschienen
+die Stunde, -n
+aussehen, sieht aus, sah aus, hat ausgesehen
+gern/gerne
+überhaupt
+bestimmt
+der Professor, -en die Professorin, -nen
+schaffen, schafft, schaffte, hat geschafft
+damals
+erhalten, erhält, erhielt, hat erhalten
+lernen, lernt, lernte, hat gelernt
+frei
+der Wert, -e
+suchen, sucht, suchte, hat gesucht
+gemeinsam
+rund
+die Zahl, -en
+das Thema, Themen
+handeln, handelt, handelte, hat gehandelt
+das Buch, ¨-er
+deutlich
+anders
+politisch
+lesen, liest, las, hat gelesen
+der Blick, -e
+einzeln
+erreichen, erreicht, erreichte, hat erreicht
+leicht
+je
+verlieren, verliert, verlor, hat verloren
+die Lösung, -en
+die Sache, -n
+bekannt
+das Ziel, -e
+steigen, steigt, stieg, ist gestiegen
+eher
+essen, isst, aß, hat gegessen
+der Platz, ¨-e
+schlecht
+das Spiel, -e
+die Familie, -n
+jemand
+fallen, fällt, fiel, ist gefallen
+der Preis, -e
+sonst
+helfen, hilft, half, hat geholfen
+der Bereich, -e
+tatsächlich
+der Ort, -e
+einzig-
+die Stelle, -n
+unterschiedlich
+das Gesicht, -er
+die Entwicklung, -en
+die Uhr, -en
+mehrere
+schließen, schließt, schloss, hat geschlossen
+schließlich
+legen, legt, legte, hat gelegt
+direkt
+daher
+offen
+erkennen, erkennt, erkannte, hat erkannt
+die Person, -en
+der Moment, -e
+die Schule, -n
+das Auto, -s
+niemand
+die Gesellschaft, -en
+warten, wartet, wartete, hat gewartet
+(sich) vorstellen, stellt vor, stellte vor, hat vorgestellt
+früh
+treten, tritt, trat, hat/ist getreten
+reden, redet, redete, hat geredet
+die Gruppe, -n
+das Ding, -e
+gewinnen, gewinnt, gewann, hat gewonnen
+zunächst
+damit
+die Tür, -en
+der Schritt, -e
+entwickeln, entwickelt, entwickelte, hat entwickelt
+die Möglichkeit, -en
+der Sinn
+passieren, passiert, passierte, ist passiert
+manchmal
+der Vergleich, -e
+das System, -e
+die Rolle, -n
+das Ergebnis, -se
+vergleichen, vergleicht, verglich, hat verglichen
+voll
+erwarten, erwartet, erwartete, hat erwartet
+obwohl
+die Straße, -n
+die Angst, “-e
+allgemein
+fühlen, fühlt, fühlte, hat gefühlt
+erinnern, erinnert, erinnerte, hat erinnert
+bedeuten, bedeutet, bedeutete, hat bedeutet
+die Stimme, -n
+die Reaktion, -en
+wirken, wirkt, wirkte, hat gewirkt
+darstellen, stellt dar, stellte dar, hat dargestellt
+der Raum, ¨-e
+die Eltern (Pl.)
+häufig
+früher/früher-
+pro
+entscheiden, entscheidet, entschied, hat entschieden
+die Universität, -en unten
+oben
+die Richtung, -en
+fehlen, fehlt, fehlte, hat gefehlt
+die Sprache, -n
+das Produkt, -e
+die Situation, -en
+außerdem
+nämlich
+international
+der Anfang, ¨-e
+nutzen, nutzt, nutzte, hat genutzt
+sozial
+die Folge, -n
+der Satz, ¨-e
+die Verbindung, -en
+beschreiben, beschreibt, beschrieb, hat beschrieben
+das Licht, -er
+ähnlich
+die Regel, -n
+gegenüber
+der Kollege, -n die Kollegin, -nen
+bisher
+tief
+halb
+lachen, lacht, lachte, hat gelacht
+ebenfalls
+sofort
+die Grenze, -n
+ändern, ändert, änderte, hat geändert
+die Entscheidung, -en
+verlassen, verlässt, verließ, hat verlassen
+die Idee, -n
+verbinden, verbindet, verband, hat verbunden
+endlich
+die Energie, -n
+plötzlich
+danach
+die Kraft, ¨-e
+gehören, gehört, gehörte, hat gehört
+einsetzen, setzt ein, setzte ein, hat eingesetzt
+das Gefühl, -e
+trotzdem
+sich befinden, befindet sich, befand sich, hat sich befunden
+die Information, -en
+dagegen
+die Zukunft
+wachsen, wächst, wuchs, ist gewachsen
+bitte
+der Text, -e
+sterben, stirbt, starb, ist gestorben
+der Markt, ¨-e
+halt
+die Hilfe
+das Kapitel, -
+ausgehen, geht aus, ging aus, ist ausgegangen
+die Bedeutung, -en
+die Luft
+der Körper, -
+stimmen, stimmt, stimmte, hat gestimmt
+bitten, bittet, bat, hat gebeten
+wahrscheinlich
+öffentlich
+insgesamt
+anfangen, fängt an, fing an, hat angefangen
+genug
+(sich) verändern, verändert, veränderte, hat verändert
+die Wohnung, -en
+gelingen, gelingt, gelang, ist gelungen
+bald
+gering
+der Film, -e
+ansehen, sieht an, sah an, hat angesehen
+öffnen, öffnet, öffnete, hat geöffnet
+die Musik
+schauen, schaut, schaute, hat geschaut
+das Stück/-stück, -e
+tot
+der Gott, ¨-er
+völlig
+positiv
+das Gespräch, -e
+der Kunde, -n die Kundin, -nen
+die Menge, -n
+die Antwort, -en
+annehmen, nimmt an, nahm an, hat angenommen
+falsch
+der Zusammenhang, ¨-e
+langsam
+der Arm, -e
+nachdem
+der Tisch, -e
+rufen, ruft, rief, hat gerufen
+bieten, bietet, bot, hat geboten
+das Herz, -en
+zusammen/zusammen-
+inzwischen
+ebenso
+der Boden, ¨-
+bevor
+verwenden, verwendet, verwendete, hat verwen- det
+die Politik
+der Tod
+der Erfolg, -e
+die Bank, ¨-e
+die Bank, -en
+persönlich
+holen, holt, holte, hat geholt
+sogenannt-
+die Polizei
+die Chance, -n
+innerhalb
+die Kunst, ¨-e
+die Lage
+der Schüler, - die Schülerin, -nen
+gesamt-/Gesamt-
+der Druck
+verschwinden, verschwindet, verschwand, ist verschwunden
+wohnen, wohnt, wohnte, hat gewohnt
+bewegen, bewegt, bewegte, hat bewegt
+enthalten, enthält, en- thielt, hat enthalten
+aufnehmen, nimmt auf, nahm auf, hat aufgenommen
+die Kosten (Pl.)
+merken, merkt, merkte, hat gemerkt
+fest
+aktuell
+erleben, erlebt, erlebte, hat erlebt
+relativ
+der Fuß, ¨-e
+der Krieg, -e
+der Gast, ¨-e
+das Gesetz, -e
+planen, plant, plante, hat geplant
+schwierig
+zusätzlich
+vergessen, vergisst, vergaß, hat vergessen
+der Gedanke, -n
+sich freuen, freut sich, freute sich, hat sich gefreut
+hängen, hängt, hing/hängte, hat gehangen/gehängt
+berichten, berichtet, berichtete, hat berichtet
+eng
+die Kultur, -en
+der Prozess, -e
+der Sohn, ¨-e
+der Dank
+trotz
+fordern, fordert, forderte, hat gefordert
+studieren, studiert, studierte, hat studiert
+gefallen, gefällt, gefiel, hat gefallen
+das Mädchen, -
+sich verhalten, verhält sich, verhielt sich, hat sich verhalten
+mindestens
+ziemlich
+das Interesse, -n
+unterscheiden, unter- scheidet, unterschied, hat unterschieden
+jeweils
+reichen, reicht, reichte, hat gereicht
+zumindest
+schlagen, schlägt, schlug, hat geschlagen
+das Tier, -e
+erhöhen, erhöht, erhöhte, hat erhöht
+sorgen, sorgt, sorgte, hat gesorgt
+die Erfahrung, -en
+der Patient, -en die Patientin, -nen
+der Arzt, ¨-e die Ärztin, -nen
+geschehen, geschieht, geschah, ist geschehen
+lösen, löst, löste, hat gelöst
+anbieten, bietet an, bot an, hat angeboten
+vorkommen, kommt vor, kam vor, ist vorgekommen
+(sich) wünschen, wünscht, wünschte, hat gewünscht
+interessieren, interessiert, interessierte, hat interessiert
+der Unterschied, -e
+das Foto, -s
+trinken, trinkt, trank, hat getrunken
+derselbe, dieselbe, dasselbe
+wählen, wählt, wählte, hat gewählt
+gleichzeitig
+knapp
+der Mitarbeiter, - die Mitarbeiterin, -nen
+übernehmen, übernimmt, übernahm, hat übernommen.
+das Glück
+normal
+leider
+die Leistung, -en
+die Beziehung, -en
+zunehmen, nimmt zu, nahm zu, hat zugenommen
+stattfinden, findet statt, fand statt, hat stattgefunden
+ankommen, kommt an, kam an, ist angekommen
+auftreten, tritt auf, trat auf, ist aufgetreten
+technisch
+wann
+los/los-
+das Bett, -en
+die Höhe
+zuletzt
+rein
+das Zimmer, -
+indem
+bauen, baut, baute, hat gebaut
+das Verhältnis, -se
+selten
+die Zeitung, -en
+die Bedingung, -en
+das Fenster, -
+der Zug, ¨-e
+funktionieren, funktion- iert, funktionierte, hat funktioniert
+statt
+das Werk, -e
+der Bürger, - die Bürgerin, -nen
+dienen, dient, diente, hat gedient
+echt
+die Firma, Firmen
+die Wirtschaft
+stecken, steckt, steckte, hat gesteckt
+hoffen, hofft, hoffte, hat gehofft
+erfahren, erfährt, erfuhr, hat erfahren
+das Mittel, -
+leisten, leistet, leistete, hat geleistet
+die Tochter, ¨-
+der Lehrer, - die Lehrerin, -nen
+passen, passt, passte, hat gepasst
+beobachten, beobachtet, beobachtete, hat beobachtet
+die Einführung, -en
+klingen, klingt, klang, hat geklungen
+lieben, liebt, liebte, hat geliebt
+die Dame, -n
+zählen, zählt, zählte, hat gezählt
+meist-, die meisten
+dunkel
+das Modell, -e
+die Bewegung, -en
+die Mitte
+beschäftigen, beschäftigt, beschäftigte, hat beschäftigt
+miteinander
+werfen, wirft, warf, hat geworfen
+das Angebot, -e
+das Projekt, -e
+verkaufen, verkauft, verkaufte, hat verkauft
+reagieren, reagiert, reagierte, hat reagiert
+der Autor, -en die Autorin, -nen
+kriegen, kriegt, kriegte, hat gekriegt
+die Größe, -n
+hart
+offenbar
+der Bruder, ¨-
+sich beteiligen, beteiligt sich, beteiligte sich, hat sich beteiligt
+angeben, gibt an, gab an, hat angegeben
+die Reise, -n
+erfolgreich
+der Zustand, ¨-e
+wahr
+die Reihe, -n
+die Natur
+rechnen, rechnet, rechnete, hat gerechnet
+bloß
+notwendig
+entdecken, entdeckt, entdeckte, hat entdeckt
+dauern, dauert, dauerte, hat gedauert
+privat
+modern
+das Haar, -e
+deswegen
+spüren, spürt, spürte, hat gespürt
+übrigens
+überall
+feststellen, stellt fest, stellte fest, hat festgestellt
+der Stoff, -e
+die Rede, -n
+unterstützen, unterstützt, unterstützte, hat unterstützt
+schlimm
+irgendwann
+das Geschäft, -e
+die Angabe,-n
+außer
+das Hotel, -s
+laut
+das Alter
+die Sicherheit, -en
+niedrig
+ständig
+liefern, liefert, lieferte, hat geliefert
+die Erde
+die Studie, -n
+die Meinung, -en
+drehen, dreht, drehte, hat gedreht
+der Künstler, - die Künstlerin, -nen
+aktiv
+der Versuch, -e
+bezahlen, bezahlt, bezahlte, hat bezahlt
+längst
+die Methode, -n
+die Ordnung
+die Wahl, -en
+erfüllen, erfüllt, erfüllte, hat erfüllt
+die Region, -en
+die Nummer, -n
+lächeln, lächelt, lächelte, hat gelächelt
+genauso
+(sich) überzeugen, überzeugt, überzeugte, hat überzeugt die Überzeugung, -en
+interessant
+menschlich
+die Freiheit
+speziell
+negativ
+zentral
+besuchen, besucht, besuchte, hat besucht
+gestern
+der Spieler, - die Spielerin, -nen
+absolut
+fliegen, fliegt, flog, ist geflogen
+antworten, antwortet, antwortete, hat geant- wortet
+die Wand, ¨-e
+rechts
+zahlen, zahlt, zahlte, hat gezahlt
+das Feld, -er
+verdienen, verdient, verdiente, hat verdient
+der Brief, -e
+das Mitglied, -er
+praktisch
+die Gefahr, -en
+weltweit
+die Liebe
+der Beginn
+breit
+draußen
+die Wirkung, -en
+das Blut
+das Meer, -e
+die Anzahl, -en
+der Mund, ¨-er
+berechnen, berechnet, berechnete, hat berechnet
+fremd
+die Untersuchung, -en
+der Fehler, -
+mittlerweile
+die Sonne
+vorher
+der Kampf, ¨-e
+feiern, feiert, feierte, hat gefeiert
+das Programm, -e
+der Einfluss, ¨-e
+die Temperatur, -en
+leer
+mitteilen, teilt mit, teilte mit, hat mitgeteilt
+danke
+verlangen, verlangt, verlangte, hat verlangt
+zuerst
+das Bein, -e
+untersuchen, untersucht, untersuchte, hat untersucht
+kalt
+die Sorge, -n
+der Himmel
+national/national-
+die Kirche, -n
+links
+messen, misst, maß, hat gemessen
+lieb
+unbedingt
+der Verein, -e
+historisch
+sinken, sinkt, sank, ist gesunken
+kosten, kostet, kostete, hat gekostet
+die Vorstellung, -en
+teilen, teilt, teilte, hat geteilt
+der Typ, -en
+stammen, stammt, stammte, hat gestammt
+wieso
+der Faktor, -en
+die Literatur
+überraschen, überrascht, überraschte, hat überrascht
+bestätigen, bestätigt, bestätigte, hat bestätigt
+der Abschnitt, -e
+die Nähe
+zahlreich
+übrig
+die Produktion
+drücken, drückt, drückte, hat gedrückt
+die Linie, -n
+das Gas
+schicken, schickt, schickte, hat geschickt
+die Hälfte, -n
+der Kontakt, -e
+das Interview, -s
+egal
+reisen, reist, reiste, ist gereist
+der Berg, -e
+(sich) trennen, trennt, trennte, hat getrennt
+benötigen, benötigt, benötigte, hat benötigt
+die Erinnerung, -en
+verhindern, verhindert, verhinderte, hat verhindert
+leiden, leidet, litt, hat gelitten
+der Anspruch, ¨-e
+der Sport
+die Nachfrage, -n
+teuer
+die Medien (Pl.)
+das Institut, -e
+der Plan, ¨-e
+das Tor, -e
+der Betrieb, -e
+das Dorf, ¨-er
+die Klasse, -n
+erlauben, erlaubt, erlaubte, hat erlaubt
+treiben, treibt, trieb, hat getrieben
+weg/weg-
+aufstehen, steht auf, stand auf, ist aufgestanden
+unterwegs
+der Vertrag, ¨-e
+der Ausdruck, ¨-e
+der Ausdruck, -e
+toll
+schweigen, schweigt, schwieg, hat geschwiegen
+die Schwester, -n
+der Chef, -s die Chefin, -nen
+greifen, greift, griff, hat gegriffen
+das Risiko, Risiken
+schwach
+die Tabelle, -n
+der Vorteil, -e
+der Gewinn, -e
+wiederholen, wiederholt, wiederholte, hat wiederholt
+die Ruhe
+die Darstellung, -en
+ruhig
+der Traum, ¨-e
+Traum-
+behandeln, behandelt, behandelte, hat behandelt
+aufhören, hört auf, hörte auf, hat aufgehört
+schützen, schützt, schützte, hat geschützt
+diskutieren, diskutiert, diskutierte, hat diskutiert
+produzieren, produziert, produzierte, hat produziert
+die Kritik, -en
+der Trainer, - die Trainerin, -nen
+melden, meldet, meldete, hat gemeldet
+das Opfer, -
+der Titel, -
+der Eindruck, ¨-e
+der Baum, ¨-e
+die Diskussion, -en
+der Student, -en die Studentin, -nen
+die Bevölkerung
+der Finger, -
+total
+die Schulter, -n
+der Wald, ¨-er
+die Insel, -n
+der Schluss
+kulturell
+der Beruf, -e
+nötig
+der Sieg, -e
+die Küche, -n
+verantwortlich
+der Spaß
+herstellen, stellt her, stellte her, hat hergestellt
+ernst
+der Roman, -e
+kämpfen, kämpft, kämpfte, hat gekämpft
+versprechen, verspricht, versprach, hat versprochen
+heben, hebt, hob, hat gehoben
+der Rücken, -
+singen, singt, sang, hat gesungen
+die Theorie, -n
+der Inhalt, -e
+das Ereignis, -se
+glücklich
+der Rest, -e
+der Wunsch, ¨-e
+beschließen, beschließt, beschloss, hat beschlossen
+dick
+riesig
+heutig-
+hallo
+das Museum, Museen
+die Farbe, -n
+per
+regelmäßig
+her/her-
+wechseln, wechselt, wechselte, hat gewechselt
+einstellen, stellt ein, stellte ein, hat eingestellt
+das Theater, -
+der König, -e
+das Ohr, -en
+fördern, fördert, förderte, hat gefördert
+elektrisch
+der Beitrag, ¨-e
+einfallen, fällt ein, fiel ein, ist eingefallen
+(sich) verletzen, verletzt, verletzte, hat verletzt
+die Kontrolle, -n
+die Mannschaft, -en
+behaupten, behauptet, behauptete, hat behauptet
+die Hoffnung, -en
+die Verantwortung
+schreien, schreit, schrie, hat geschrien
+andererseits
+der Besuch, -e
+typisch
+das Gebiet, -e
+die Behörde, -n
+die Organisation, -en
+die Summe, -n
+ausreichen, reicht aus, re- ichte aus, hat ausgereicht
+benutzen, benutzt, benutzte, hat benutzt
+vertrauen, vertraut, vertraute, hat vertraut
+der Wind, -e
+extrem
+theoretisch
+die Krankheit, -en
+die Voraussetzung, -en
+der Zeitpunkt, - e
+wenigstens
+der Gang, ¨-e
+der Politiker, - die Politikerin, -nen
+die Unterstützung, -en
+brechen, bricht, brach, hat gebrochen
+fassen, fasst, fasste, hat gefasst
+das Zentrum, Zentren
+anrufen, ruft an, rief an, hat angerufen
+entfernen, entfernt, entfernte, hat entfernt
+die Haut
+der Schutz
+die Generation, -en
+das Zeichen, -
+die Wahrheit, -en
+der Haushalt, -e
+der Garten, ¨-
+hinten
+auffallen, fällt auf, fiel auf, ist aufgefallen
+der Gegensatz, ¨-e
+verteilen, verteilt, verteilte, hat verteilt
+das Papier, -e
+leise
+vermutlich
+eindeutig
+heraus-, raus- (heraus-) finden, findet heraus, fand heraus, hat herausgefunden
+falls
+der Partner, - die Partnerin, -nen
+nachdenken, denkt nach, dachte nach, hat nachgedacht
+die Ausbildung, -en
+der Wagen, -
+das Schiff, -e
+die Tat, -en
+der Stein, -e
+sich kümmern, kümmert sich, kümmerte sich, hat sich gekümmert
+die Erklärung, -en
+stören, stört, störte, hat gestört
+die Spur, -en
+die Herausforderung, -en
+starten, startet, startete, ist gestartet
+(sich) verbessern, verbessert, verbesserte, hat verbessert
+heiß
+die Vergangenheit
+abgeben, gibt ab, gab ab, hat abgegeben
+der Bericht, -e
+die Qualität, -en
+der Rand, ¨-er
+gefährlich
+(sich) zwingen, zwingt, zwang, hat gezwungen
+das Bier
+ansprechen, spricht an, sprach an, hat angesprochen
+komplett
+die Forderung, -en
+die Nachricht, -en
+sammeln, sammelt, sammelte, hat gesammelt
+ablehnen, lehnt ab, lehnte ab, hat abgelehnt
+(sich) stoßen, stößt, stieß, hat gestoßen
+umgehen, geht um, ging um, ist umgegangen
+sich verlaufen, verläuft sich, verlief sich, hat sich verlaufen
+böse
+abhängen, hängt ab, hing ab, hat abgehangen (von)
+die Geschwindigkeit, -en
+ideal
+der Augenblick, -e
+reduzieren, reduziert, reduzierte, hat reduziert
+die Maschine, -n
+ausmachen, macht aus, machte aus, hat ausgemacht
+eintreten, tritt ein, trat ein, ist eingetreten
+kritisch
+die Saison, -s
+gründen, gründet, gründete, hat gegründet
+genügen, genügt, genügte, hat genügt
+schieben, schiebt, schob, hat geschoben
+abnehmen, nimmt ab, nahm ab, hat abgenommen
+zeichnen, zeichnet, zeichnete, hat gezeichnet
+frisch
+die Nase, -n
+vertreten, vertritt, vertrat, hat vertreten
+dicht
+bereit
+die Technik, -en
+das Blatt, ¨-er
+gesund
+danken, dankt, dankte, hat gedankt
+der Fußball, ¨-e
+einladen, lädt ein, lud ein, hat eingeladen
+warm
+die Integration, -en
+der Nachbar, -n die Nachbarin, nen
+maximal
+die Figur, -en
+die Freude
+offiziell
+außen
+der Kreis, -e
+digital
+das Gericht, -e
+schätzen, schätzt, schätzte, hat geschätzt
+organisieren, organisiert, organisierte, hat organisiert
+verzichten, verzichtet, verzichtete, hat verzichtet
+bemerken, bemerkt, bemerkte, hat bemerkt
+der Kaffee
+still
+leiten, leitet, leitete, hat geleitet
+der Vertreter, - die Vertreterin, -nen
+die Statistik, -en
+die Heimat
+der Gegenstand, ¨-e
+die Zusammenarbeit
+enden, endet, endete, hat geendet
+sich konzentrieren, konzentriert sich, konzentrierte sich, hat sich konzentriert
+landen, landet, landete, ist gelandet
+der See, -n
+der Tourist, -en die Touristin, -nen
+verbieten, verbietet, verbot, hat verboten
+krank
+die Fähigkeit, -en
+finanziell
+der Jugendliche, -n die Jugendliche, -nen
+das Netz, -e
+die Änderung, -en
+selbstverständlich
+die Ursache, -n
+ursprünglich
+die Forschung, -en
+schießen, schießt, schoss, hat geschossen
+warnen, warnt, warnte, hat gewarnt
+eröffnen, eröffnet, eröffnete, hat eröffnet
+die Ahnung
+ankündigen, kündigt an, kündigte an, hat angekündigt
+individuell
+intensiv
+die Szene, -n
+ausschließen, schließt aus, schloss aus, hat ausgeschlossen
+sinnvoll
+retten, rettet, rettete, hat gerettet
+die Gewalt, -en
+gucken, guckt, guckte, hat geguckt
+beeinflussen, beeinflusst, beeinflusste, hat beeinflusst
+riechen, riecht, roch, hat gerochen
+außerhalb
+begleiten, begleitet, begleitete, hat begleitet
+das Publikum
+aufgeben, gibt auf, gab auf, hat aufgegeben
+stolz
+der Verlust, -e
+begründen, begründet, begründete, hat begründet
+streng
+der Artikel, -
+berühmt
+ersetzen, ersetzt, ersetzte, hat ersetzt
+das Ausland
+diesmal
+das Gebäude, -
+das Material
+verbringen, verbringt, verbrachte, hat verbracht
+der Strom
+das Amt, ¨-er
+kritisieren, kritisiert, kritisierte, hat kritisiert
+die Wirklichkeit
+das Studium, Studien
+festhalten, hält fest, hielt fest, hat festgehalten
+präsentieren
+die Aufnahme, -n
+die Ausnahme, -n
+beenden, beendet, beendete, hat beendet
+die Lust
+prüfen, prüft, prüfte, hat geprüft
+der Zuschauer, - die Zuschauerin, -nen
+hell
+mitten
+der Konflikt, -e
+die Bahn, -en
+das Einkommen, -
+empfehlen, empfiehlt, empfahl, hat empfohlen
+(sich) fürchten, fürchtet, fürchtete, hat gefürchtet
+(sich) vorbereiten, bereitet vor, bereitete vor, hat vorbereitet
+die Aktivität, -en
+der Auftrag, ¨-e
+froh
+zuständig
+springen, springt, sprang, ist gesprungen
+der Hof, ¨-e
+der Polizist, -en die Polizistin, -nen
+die Übung, -en
+(sich) anziehen, zieht an, zog an, hat angezogen
+der Experte, -n
+die Pause, -n
+scharf
+schütteln, schüttelt, schüttelte, hat geschüttelt
+das Fernsehen
+die Bühne, -n
+der Schaden, ¨-
+umgekehrt
+veröffentlichen, veröf- fentlicht, veröffentlichte, hat veröffentlicht
+abhängig
+die Strecke, -n
+die Praxis
+ungefähr
+üblich
+die Wissenschaft, -en
+die Umgebung, -en
+die Öffentlichkeit
+der Spiegel, -
+besetzen, besetzt, besetzte, hat besetzt
+das Gegenteil, -e
+vorbei/vorbei-
+die Karte, -n
+arm
+die Krise, -n
+der Journalist, -en die Journalistin, -nen
+kochen, kocht, kochte, hat gekocht
+der Schmerz, -en
+ausschließlich
+die Runde, -n
+einführen, führt ein, führte ein, hat eingeführt
+der Wettbewerb, -e
+woher
+der Zweifel, -
+tanzen, tanzt, tanzte, hat getanzt
+die Kamera, -s
+der Schatten, -
+begegnen, begegnet, begegnete, ist begegnet
+der Zugang, ¨-e
+doppelt
+festlegen, legt fest, legte fest, hat festgelegt
+sodass
+die Tatsache, -n
+der Alkohol
+informieren, informiert, informierte, hat informiert
+vermuten, vermutet, vermutete, hat vermutet
+zufrieden
+dahin
+solange
+der Wissenschaftler, - die Wissenschaftlerin, -nen
+die Kommunikation
+die Steuer, -n
+günstig
+der Flughafen, ¨-
+das Krankenhaus, ¨-er
+wenden, wendet, wendete, hat gewendet
+der Gegner, -
+der Leser, - die Leserin, -nen
+der Handel
+sichtbar
+die Schwierigkeit, -en
+hinweisen, weist hin, wies hin, hat hingewiesen
+kontrollieren, kontrolliert, kontrollierte, hat kontrolliert
+sowieso
+der Bauer, -n
+der Service
+der Fahrer, -
+traditionell
+weinen, weint, weinte, hat geweint
+genießen, genießt, genoss, hat genossen
+der Dienst
+das Lager, -
+der Bus, -se
+nett
+freundlich
+perfekt
+reich
+das Instrument, -e
+die Gegend, -en
+(sich) verstecken, versteckt, versteckte, hat versteckt
+das Feuer
+sich bemühen, bemüht, bemühte, hat bemüht
+das Verständnis
+tauchen, taucht, tauchte, ist/hat getaucht
+die Schuld
+die Mehrheit, -en
+anhaben, hat an, hatte an, hat angehabt
+vermeiden, vermeidet, vermied, hat vermieden
+ehrlich
+beachten, beachtet, beachtete, hat beachtet
+statistisch
+der Hals, ¨-e
+das Telefon, -e der Teller, -
+die Ausstellung, -en
+der Bau, Bauten
+der Keller, -
+entlang
+die Flasche, -n
+wunderbar
+der Zweck, -e
+die Fläche, -n
+behalten, behält, behielt, hat behalten
+beweisen, beweist, bewies, hat bewiesen
+überprüfen, überprüft, überprüfte, hat überprüft
+schenken, schenkt, schenkte, hat geschenkt
+der Vorschlag, ¨-e
+der Leiter, - die Leiterin, -nen
+die Leiter, -n
+stürzen, stürzt, stürzte, ist gestürzt
+zerstören, zerstört, zerstörte, hat zerstört
+zuhören, hört zu, hörte zu, hat zugehört
+ausfallen, fällt aus, fiel aus, ist ausgefallen
+einerseits
+der Fortschritt, -e
+das Bad, ¨-er
+packen, packt, packte, hat gepackt
+vorsichtig
+anwenden, wendet an, wandte an, hat ange- wandt/angewendet
+wild
+das Gerät, -e
+die Tradition, -en
+brennen, brennt, brannte, hat gebrannt
+freiwillig
+umso
+der Antrag, ¨-e
+bestellen, bestellt, bestellte, hat bestellt
+die Gelegenheit, -en
+die Mauer, -n
+der Stuhl, ¨-e
+das Büro, -s
+die Umwelt
+rauchen, raucht, rauchte, hat geraucht
+die Beschreibung, -en
+die Pflanze, -n
+die Tätigkeit, -en
+die Landschaft, -en
+der Arbeitsplatz, ¨-e
+der Laden, ¨-
+der Stern, -e
+der Schuh, -e
+das Knie, -
+unglaublich
+zurück/zurück-
+die Realität, -en
+sobald
+der Fluss, ¨-e
+die Alternative, -n
+begrüßen, begrüßt, begrüßte, hat begrüßt
+die Führung, -en
+das Handy, -s
+der Verlag, -e (A: ¨-e)
+beschränken
+der Schauspieler, - die Schauspielerin, -nen
+vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen
+beinahe
+die Botschaft, -en
+der Alltag
+teilnehmen, nimmt teil, nahm teil, hat teilgenommen
+das Fahrzeug, -e
+fließen, fließt, floss, ist geflossen
+der Vorwurf, ¨-e
+erforderlich
+der Schriftsteller, - die Schriftstellerin, -nen
+die Stimmung, -en
+zufällig
+das Fach, ¨-er
+das Lied, -er
+der Wein, -e
+billig
+dünn
+achten, achtet, achtete, hat geachtet (auf)
+der Anbieter, -
+die Industrie, -n
+ab
+ausgeben, gibt aus, gab aus, hat ausgegeben
+der Meister, -
+(sich) umdrehen, dreht um, drehte um, hat umgedreht
+traurig
+die Stufe, -n
+das Urteil, -e
+der Schnee
+übersetzen, übersetzt, übersetzte, hat übersetzt
+dringend
+verursachen, verursacht, verursachte, hat verursacht
+die Konkurrenz
+der Muskel, -n
+der Test, -s
+super
+die Erzählung, -en
+das Flugzeug, -e
+die Flüssigkeit, -en
+der Geburtstag, -e
+das Kleid, -er
+der Ball, ¨-e
+die Brust
+elektronisch
+(sich) verabschieden, verabschiedet, verabschiedete, hat verabschiedet
+das Detail, -s
+das Fleisch
+körperlich
+die Liste, -n
+träumen, träumt, träumte, hat geträumt
+akzeptieren, akzeptiert, akzeptierte, hat akzeptiert
+endgültig
+ewig
+das Restaurant, -s
+wandern, wandert, wanderte, ist gewandert
+die Tasche, -n
+der Beamte, -n die Beamtin, -nen
+schmal
+der Streit
+spannend
+wohin
+das Dach, ¨-er
+die Karriere, -n
+regeln, regelt, regelte, hat geregelt
+die Zigarette, -n
+bunt
+weshalb
+der Unterricht
+die Tante, -n
+die Prüfung, -en
+seltsam
+der Onkel, -
+die Störung, -en
+die Aktion, -en
+künstlich
+pflegen, pflegt, pflegte, hat gepflegt
+die Ausgabe, -n
+die Anlage, -n
+die Gesundheit
+aufführen, führt auf, führte auf, hat aufgeführt
+der Kandidat, -en
+die Rechnung, -en
+zusammenfassen, fasst zusammen, fasste zusammen, hat zusammengefasst
+einnehmen, nimmt ein, nahm ein, hat eingenommen
+das Loch, ¨-er
+schwimmen, schwimmt, schwamm, ist geschwommen
+beantworten, beant- wortet, beantwortete, hat beantwortet
+der Beweis, -e
+kompliziert
+der Zahn, ¨-e
+aussprechen, spricht aus, sprach aus, hat ausgesprochen
+beliebt
+komisch
+die Länge
+das Wetter
+ergänzen, ergänzt, ergänzte, hat ergänzt
+voneinander
+auswählen, wählt aus, wählte aus, hat ausgewählt
+der Anwalt, ¨-e die Anwältin, -nen
+das Gedicht, -e
+(sich) unterhalten, unter- hält, unterhielt, hat unterhalten
+erschrecken, erschrickt, erschrak, ist erschrocken/ jdn. erschrecken, erschreckt, erschreckte, hat erschreckt
+parallel
+das Schloss, ¨-er
+das Wunder, -
+der Abschluss, ¨-e
+korrekt
+verraten, verrät, verriet, hat verraten
+automatisch
+der Teilnehmer, - die Teilnehmerin, -nen
+die Veranstaltung, -en
+vorhaben, hat vor, hatte vor, hat vorgehabt
+malen, malt, malte, hat gemalt
+die Post
+üben
+der Knochen, -
+die Brücke, -n
+daneben
+das Gewicht, -e
+beruhigen, beruhigt, beruhigte, hat beruhigt
+verrückt
+der Start, -s
+weiblich
+seitdem
+die Decke, -n
+heiraten, heiratet, heiratete, hat geheiratet
+der Unfall, ¨-e
+der Regen
+entschuldigen, entschuldigt, entschuldigte, hat entschuldigt
+die Medizin
+das Video, -s
+zugehen, geht zu, ging zu, ist zugegangen
+durchschnittlich
+der Strand, ¨-e
+lustig
+die Religion, -en
+die Ware, -n
+beruflich
+auflösen, löst auf, löste auf, hat aufgelöst
+aufregen, regt auf, regte auf, hat aufgeregt
+die Einrichtung, -en
+vereinbaren, vereinbart, vereinbarte, hat vereinbart
+verschieben, verschiebt, verschob, hat verschoben
+erleichtern, erleichtert, erleichterte, hat erleichtert
+rechtlich
+das Ei, -er
+müde
+sparen, spart, sparte, hat gespart
+die Flucht
+regional
+fortsetzen, setzt fort, set- zte fort, hat fortgesetzt
+die Übersetzung, -en
+das Kino, -s
+die Dauer
+klappen, klappt, klappte, hat geklappt
+klären, klärt, klärte, hat geklärt
+sauber
+der Bahnhof, ¨-e
+die Lippe, -n
+die Lehre
+aufpassen, passt auf, passte auf, hat aufgepasst
+die Verletzung, -en
+der Direktor, -en die Direktorin, -nen
+enttäuschen, enttäuscht, enttäuschte, hat ent- täuscht
+fangen, fängt, fing, hat gefangen
+die Träne, -n transportieren, trans- portiert, transportierte, hat transportiert
+die Pflicht, -en
+realisieren, realisiert, realisierte, hat realisiert
+einrichten, richtet ein, richtete ein, hat eingerichtet
+der Käufer, - die Käuferin, -nen
+der Täter, - die Täterin, -nen
+ordnen, ordnet, ordnete, hat geordnet
+der Hersteller, -
+normalerweise
+die Auswahl, -en
+markieren, markiert, markierte, hat markiert
+rennen, rennt, rannte, ist gerannt
+die Schrift, -en
+die Kurve, -n
+der Auftritt, -e
+integrieren, integriert, in- tegrierte, hat integriert
+anmelden, meldet an, meldete an, hat angemeldet
+gerecht
+die Erhöhung, -en
+ungewöhnlich
+das Fest, -e
+männlich
+das Training, -s
+die Arbeitslosigkeit
+das Brot, -e
+die Geburt, -en
+der Hunger
+sich lohnen, lohnt sich, lohnte sich, hat sich gelohnt
+die Mühe
+unterbrechen, unterbricht, unterbrach, hat unterbrochen
+das Boot, -e
+klopfen, klopft, klopfte, hat geklopft
+die Wolke, -n
+die Jugend
+sich wundern, wundert sich, wunderte sich, hat sich gewundert
+aufheben, hebt auf, hob auf, hat aufgehoben
+erfinden, erfindet, erfand, hat erfunden
+erfordern, erfordert, erforderte, hat erfordert
+der Verkehr
+aufhalten, hält auf, hielt auf, hat aufgehalten
+(sich) schneiden, schneidet, schnitt, hat geschnitten
+der Kauf
+das Öl, -e
+der Betrag, ¨-e
+der Park, -s
+schmecken, schmeckt, schmeckte, hat geschmeckt
+der Bauch, ¨-e
+die Vorbereitung, -en
+ausrichten, richtet aus, richtete aus, hat ausgerichtet
+die Hose, -n
+lügen, lügt, log, hat gelogen
+mischen, mischt, mischte, hat gemischt
+innen
+das Metall, -e
+das Netzwerk, -e
+die Technologie, -n
+die Trennung, -en
+die Oma, -s
+die Umfrage, -n
+die Operation, -en
+bedienen, bedient, bediente, hat bedient
+der Mut
+die Marke, -n
+finanzieren, finanziert, finanzierte, hat finanziert
+der Schlüssel, -
+glatt
+schrecklich
+weich
+die Klinik, -en
+besprechen, bespricht, besprach, hat besprochen
+der Zufall, ¨-e
+kräftig
+der Nerv, -en
+der Termin, -e
+angenehm
+der Konsum
+die Vorschrift, -en
+der Flug, ¨-e
+das Holz
+die Förderung, -en
+die Planung, -en
+der Verdacht
+der Witz, -e
+aufmerksam
+der Mangel, ¨-
+die Halle, -n
+der Lohn, ¨-e
+die Verwaltung, -en
+ordentlich
+stoppen, stoppt, stoppte, hat gestoppt
+der Rat
+der Bewohner, - die Bewohnerin, -nen
+gewöhnlich
+trainieren, trainiert, trainierte, hat trainiert
+das Medikament, -e
+der Ring, -e
+verurteilen, verurteilt, verurteilte, hat verurteilt
+dumm
+atmen, atmet, atmete, hat geatmet
+die Milch
+unternehmen, untern- immt, unternahm, hat unternommen
+die Reform, -en
+der Richter, - die Richterin, -nen
+(sich) streiten, streitet, stritt, hat gestritten
+hinterlassen, hinterlässt, hinterließ, hat hinterlassen
+analysieren, analysiert, analysierte, hat analysiert
+der Nachteil, -e
+sportlich
+die Wärme
+eventuell
+die Gemeinschaft, -en
+kennenlernen, lernt kennen, lernte kennen, hat kennengelernt
+der Unternehmer, - die Unternehmerin, -nen
+schriftlich
+der Einwohner, - die Einwohnerin, -nen
+testen, testet, testete, hat getestet
+(sich) waschen, wäscht, wusch, hat gewaschen
+die Lebensmittel (Pl.)
+die Zeile, -n
+die Ehe, -n
+der Passagier, -e die Passagierin, -nen
+die Kindheit
+die Entschuldigung, -en
+zukünftig
+erledigen, erledigt, erledigte, hat erledigt
+der Sitz, -e
+die Serie, -n
+die Entfernung, -en
+der Schlaf
+die Kette, -n
+die Strafe, -n
+das Konzert, -e
+der Transport, -e
+das Kreuz, -e
+der Motor, -en
+die Sendung, -en
+höchstens
+trocken
+die Bibliothek, -en
+hoffentlich
+der Erwachsene, -n
+der Verkäufer, - die Verkäuferin, -nen
+vernünftig
+abholen, holt ab, holte ab, hat abgeholt
+wahnsinnig
+der Koffer, -
+erstellen, erstellt, erstellte, hat erstellt
+das Rad, ¨-er
+anzeigen, zeigt an, zeigte an, hat angezeigt
+der Arbeiter, - die Arbeiterin, -nen
+kürzlich
+raten, rät, riet, hat geraten
+wertvoll
+das Gold
+der Stil, -e
+die Beschäftigung
+ausziehen, zieht aus, zog aus, hat/ist ausgezogen
+die Gewerkschaft, -en
+der Tourismus
+flach
+sauer
+vermissen, vermisst, vermisste, hat vermisst
+das Geschlecht, -er
+die Aussicht, -en
+der Held, -en die Heldin, -nen
+das Geheimnis, -se
+spätestens
+sich entschließen, entschließt sich, entschloss sich, hat sich entschlossen
+gewöhnen, gewöhnt, gewöhnte, hat gewöhnt/ist gewöhnt
+der Dialog, -e
+das Seminar, -e
+die Werbung, -en
+die Blume, -n
+sich verlieben, verliebt sich, verliebte sich, hat sich verliebt
+winken, winkt, winkte, hat gewinkt
+fliehen, flieht, floh, ist geflohen
+anerkennen, erkennt an, erkannte an, hat anerkannt
+illegal
+der Sand
+einsam
+die Landwirtschaft
+die Therapie, -n
+der Angehörige, -n die Angehörige, -n
+das Café, -s
+garantieren, garantiert, garantierte, hat garantiert
+der Respekt
+der Eingang, ¨-e
+zustimmen, stimmt zu, stimmte zu, hat zugestimmt
+der Kanal, ¨-e
+willkommen
+das Gefängnis, -se
+die Überraschung,-en
+klug
+das Personal
+selbstständig
+der Pass, ¨-e
+der Bedarf
+ernsthaft
+der Kredit, -e
+das Wohnzimmer, -
+die Leitung, -en
+der Zucker
+die Station, -en
+der Sportler, - die Sportlerin, -nen
+das Symbol, -e
+das Radio, -s
+der Musiker, - die Musikerin, nen
+wecken, weckt, weckte, hat geweckt
+die Rückkehr
+die Bar, -s
+der Star, -s
+wütend
+nochmals
+die Freizeit
+das Geschenk, -e
+hübsch
+dorthin
+das Frühstück
+klettern, klettert, kletterte, ist geklettert
+der Magen, ¨-
+das Salz, -e
+versichern, versichert, versicherte, hat versichert
+klingeln, klingelt, klingelte, hat geklingelt
+speichern, speichert, speicherte, hat gespeichert
+der Tee
+der Zeuge, -n die Zeugin, -nen
+das Tal, ¨-er
+empfangen, empfängt, empfing, hat empfangen
+die Ernährung
+die Küste, -n
+anschließen, schließt an, schloss an, hat angeschlossen
+anstellen, stellt an, stellte an, hat angestellt
+der Protest, -e
+küssen, küsst, küsste, hat geküsst
+der Angestellte, -n die Angestellte, -n
+dankbar
+das Hemd, -en
+die Begründung, -en
+kreativ
+einziehen, zieht ein, zog ein, ist eingezogen das Eis
+(sich) verbrennen, verbrennt, verbrannte, hat verbrannt
+der Atem
+die Distanz, -en
+der Händler, - die Händlerin, -nen
+hassen, hasst, hasste, hat gehasst
+blind
+der Ärger
+das Vitamin, -e
+der Abschied, -e
+der Hafen, ¨-
+das Messer, -
+die Herkunft
+die Katastrophe, -n
+beraten, berät, beriet, hat beraten
+das Erlebnis, -se
+nachher
+quer
+der Ausländer, - die Ausländerin, -nen ausländisch
+sich nähern, nähert sich, näherte sich, hat sich genähert
+das Ufer, -
+der Virus, Viren
+hierher
+kühl
+der Maler, - die Malerin, -nen
+der Saal, Säle
+loben, lobt, lobte, hat gelobt
+die Zustimmung, -en
+die Absicht, -en
+die Adresse, -n
+verlängern, verlängert, verlängerte, hat verlängert
+der Stress
+steil
+interkulturell
+der Bildschirm, -e
+unheimlich
+der Hut, ¨-e
+die Abteilung, -en
+alternativ
+jemals
+der Opa, -s
+arbeitslos
+das Gras
+klagen, klagt, klagte, hat geklagt
+schade
+die Scheibe, -n
+nervös
+süß
+entlassen, entlässt, entließ, hat entlassen
+die Presse
+abstimmen, stimmt ab, stimmte ab, hat abgestimmt
+fair
+die Party, -s
+die Kleidung
+der Fernseher, -
+einsteigen, steigt ein, stieg ein, ist eingestiegen
+widersprechen, widerspricht, widersprach, hat widersprochen
+(sich) ärgern, ärgert, ärgerte, hat geärgert
+der Verwandte, -n die Verwandte, -n
+aufwachen, wacht auf, wachte auf, ist aufgewacht
+die Kasse, -n
+die Schulden (Pl.)
+das Zuhause
+einheitlich
+die Einladung, -en
+die Einnahme, -n
+einkaufen, kauft ein, kaufte ein, hat eingekauft
+eintragen, trägt ein, trug ein, hat eingetragen
+der Vortrag, ¨-e
+das Zelt, -e
+sich bedanken, bedankt, bedankte, hat bedankt
+die Brille, -n
+die Intelligenz
+senkrecht
+der Migrant, -en die Migrantin, -nen
+probieren, probiert, probierte, hat probiert
+flexibel
+mobil/mobil-
+der Übersetzer, - die Übersetzerin, -nen
+zusagen, sagt zu, sagte zu, hat zugesagt
+der Buchstabe, -n
+verständlich
+der Sturm, ¨-e
+das Gehalt, ¨-er
+der Sender, -
+das Talent, -e
+extra
+der Fleck, -en
+fressen, frisst, fraß, hat gefressen
+anfangs
+die Beratung
+merkwürdig
+drüben
+peinlich
+kaputt
+die Note, -n
+die Wiese, -n
+die Autobahn, -en
+der Anschluss, ¨-e
+sich einigen, einigt sich, einigte sich, hat sich geeinigt
+die Freundschaft, -en
+die Hütte, -n
+der Mantel, ¨-
+locker
+bitter
+der Geschmack
+vorhin
+der Mond, -e
+das Semester, -
+zugänglich
+zurzeit
+zurzeit
+langweilig
+schief
+korrigieren, korrigiert, ko- rrigierte, hat korrigiert
+der Sänger, - die Sängerin, -nen
+einig-
+mündlich
+neugierig
+das Fett
+kleben, klebt, klebte, hat geklebt
+virtuell
+der Vorname, -n
+die Zeitschrift, -en
+das Zeug/-zeug
+verheiratet
+erwachsen
+der Tipp, -s
+auffordern, fordert auf, forderte auf, hat aufgefordert
+der Hügel, -
+das Tempo
+wunderschön
+grüßen, grüßt, grüßte, hat gegrüßt
+geheim
+rechtzeitig
+anwesend
+nass
+der Turm, ¨-e
+das Gewissen
+intelligent
+stehlen, stiehlt, stahl, hat gestohlen
+betreuen, betreut, betreute, hat betreut
+der Export, -e
+die Phantasie/Fantasie, -n
+das Stadion, Stadien
+der Durchschnitt, -e
+das Klima
+vergrößern, vergrößert, vergrößerte, hat vergrößert
+die Grafik, -en
+wach
+telefonieren, telefoniert, telefonierte, hat telefoniert
+das Grundstück, -e
+jederzeit
+feucht
+furchtbar
+der Architekt, -en die Architektin, -nen
+das Regal, -e
+der Rucksack, ¨-e
+unterrichten, unterrichtet, unterrichtete, hat unterrichtet
+das Datum, die Daten
+fröhlich
+heimlich
+der Supermarkt, ¨-e
+der Ausgang, ¨-e
+das Dokument, -e
+zuschauen
+zuschauen, schaut zu, schaute zu, hat zugeschaut
+senden, sendet, sendete/sandte, hat gesendet/gesandt
+der Bescheid, -e
+wiegen, wiegt, wog, hat gewogen
+die Rose, -n
+schaden, schadet, schadete, hat geschadet
+stumm
+der Empfänger, -
+die Hochzeit, -en
+der Zettel, -
+die Jacke, -n
+die Droge, -n
+fett
+verbrauchen, verbraucht, verbrauchte, hat verbraucht
+die Reihenfolge, -n
+die Zahlung, -en
+beißen, beißt, biss, hat gebissen
+die Kneipe, -n (D)
+absagen, sagt ab, sagte ab, hat abgesagt
+die Frucht, ¨-e
+einschalten, schaltet ein, schaltete ein, hat eingeschaltet
+buchen, bucht, buchte, hat gebucht
+kündigen, kündigt, kündigte, hat gekündigt
+die Anzeige, -n
+realistisch
+tödlich
+unterschreiben, unter- schreibt, unterschrieb, hat unterschrieben
+verhaften, verhaftet, verhaftete, hat verhaftet
+die Hitze
+notieren
+das Konto, Konten
+der Lärm
+der Rechner, -
+das Schild, -er
+bequem
+der Kindergarten, ¨-
+das Rätsel, -
+soviel
+der Anzug, ¨-e
+nützlich
+der Schein, -e
+das Verbot, -e
+gespannt
+die Vermittlung, -en
+inklusive
+der Humor
+treu
+die Erziehung
+die Meldung, -en
+die Zeichnung, -en
+löschen, löscht, löschte, hat gelöscht
+die Mahlzeit, -en
+die Wiederholung, -en
+das Praktikum, Praktika
+die Vorsicht
+die Auskunft, ¨-e
+der Bogen, -/¨-
+die Messe, -n
+herunter-, runter- (herunter-)laden, lädt herunter, lud herunter, hat heruntergeladen
+hinterher
+kostenlos
+reiten, reitet, ritt, ist geritten
+die Werkstatt, ¨-en
+die Kälte
+die Laune, -n
+die Toilette, -n
+das Unglück, -e
+die Eröffnung, -en
+die Miete, -n
+der Apfel, ¨-
+blond
+anstrengend
+der Anruf, -e
+feststehen, steht fest, stand fest, ist festgestanden
+der Sieger, - die Siegerin, -nen
+die Unterkunft, ¨-e
+der Kompromiss, -e
+die Tasse, -n
+der Profi, -s
+der Nebel, -
+hässlich
+der Rock, ¨-e
+regnen, es regnet, es regnete, es hat geregnet
+musikalisch
+das Sofa, -s
+die Ankunft
+das Paket, -e
+putzen, putzt, putzte, hat geputzt
+die Frist, -en
+die Qualifikation, -en
+die Schlange, -n
+das Hobby, -s
+das Möbel, -
+die Zone, -n
+die Biologie
+vorläufig
+das Abenteuer, -
+der Teppich, -e
+tauschen, tauscht, tauschte, hat getauscht
+das Gemüse
+gültig
+blühen, blüht, blühte, hat geblüht
+der Aufenthalt, -e
+vergeblich
+der Hörer, -; die Hörerin, -nen der Zuhörer
+schuldig
+nebenbei
+das Werkzeug, -e
+bremsen, bremst, bremste, hat gebremst
+das Getränk, -e
+vorlesen, liest vor, las vor, hat vorgelesen
+die Lüge, -n
+städtisch
+der Wirt, -e die Wirtin, -nen
+die Geduld
+siegen, siegt, siegte, hat gesiegt
+trocknen, trocknet, trocknete, hat/ist getrocknet
+dauernd
+elegant
+die Wunde, -n
+der Reporter, - die Reporterin, -nen
+aufschreiben
+der Ersatz
+passiv
+stinken, stinkt, stank, hat gestunken
+die Fremdsprache, -n
+das Gepäck
+sich bewerben, bewirbt sich, bewarb sich, hat sich beworben
+die Feuerwehr, -en
+das Heim, -e
+der Koch, ¨-e die Köchin, -nen
+gründlich
+nirgendwo
+umarmen, umarmt, umarmte, hat umarmt
+der Kühlschrank, ¨-e
+der Empfang, ¨-e
+minimal
+die Unterschrift, -en
+beantragen, beantragt, beantragte, hat beantragt
+bestrafen, bestraft, bestrafte, hat bestraft
+die Fabrik, -en
+mutig
+sympathisch
+die Tafel, -n
+die Uniform, -en
+sich weigern, weigert sich, weigerte sich, hat sich geweigert
+fotografieren, fotografiert, fotografierte, hat fotografiert
+das Heft, -e
+die Mode, -n
+schmutzig
+gemütlich
+blass
+die Teilnahme, -n
+zumachen, macht zu, machte zu, hat zugemacht
+ausstellen, stellt aus, stellte aus, hat ausgestellt
+die Münze, -n
+die Oper, -n
+satt
+die Kerze, -n
+die Konferenz, -en
+die Versicherung, -en
+die Wurst, ¨-e
+die Geschwister (Pl.)
+der Staub
+der Tanz, ¨-e
+tippen, tippt, tippte, hat getippt
+das Rathaus, ¨-er
+sich erholen, erholt sich, erholte sich, hat sich erholt
+das Lokal, -e
+verwandt
+die Erfindung, -en
+der Ingenieur, -e
+der Ausflug, ¨-e
+die Baustelle, -n
+schimpfen, schimpft, schimpfte, hat geschimpft
+worum
+der Balkon, -e
+bar
+das Tuch, ¨-er
+der Ozean, -e
+umsonst
+verdächtig
+zuverlässig
+abheben, hebt ab, hob ab, hat abgehoben
+alltäglich
+die Fortsetzung, -en
+die Infektion, -en
+der Käse
+protestieren, protestiert, protestierte, hat protestiert
+der Eintritt
+neulich
+das Orchester, -
+einschließlich
+die Migration
+die Bitte, -n
+die Enttäuschung, -en
+ernähren, ernährt, ernährte, hat ernährt
+die Lampe, -n
+zweifeln, zweifelt, zweifelte, hat gezweifelt
+einverstanden
+das Märchen, -
+die Unterhaltung, -en
+besorgen, besorgt, besorgte, hat besorgt
+das Kraftwerk, -e
+das Rezept, -e
+der Sack, ¨-e
+sinnlos
+drucken, druckt, druckte, hat gedruckt
+populär
+das Plakat, -e
+die Terrasse, -n
+die Tropfen (Pl.)
+die Burg, -en
+das Magazin, -e
+der Zuhörer, - die Zuhörerin, -nen
+sich beschweren, beschwert sich, beschwerte sich, hat sich beschwert
+entgegenkommen
+mild
+die Minderheit, -en
+das Bargeld
+sich erkundigen, erkundigt sich, erkundigte sich, hat sich erkundigt
+das Original, -e
+sich irren, irrt sich, irrte sich, hat sich geirrt
+die Breite, -n
+die Lieferung, -en
+schlank
+der Dreck
+eilen, eilt, eilte, hat/ist geeilt
+die Fotografie, -n
+die Galerie, -n
+die Präsentation, -en
+das Klavier, -e
+unterstreichen, unterstre- icht, unterstrich, hat unterstrichen
+das Gift, -e
+der Knopf, ¨-e
+voraussichtlich
+der Abfall, ¨-e
+überlegen, überlegt, überlegte, hat überlegt
+ausfüllen, füllt aus, füllte aus, hat ausgefüllt
+die Betreuung
+der Kuchen, -
+der Nachwuchs
+der Halt
+die Sportart, -en
+die Abfahrt, -en
+die Wanderung, -en
+das Zeugnis, -se
+losfahren, fährt los, fuhr los, ist losgefahren
+schalten, schaltet, schaltete, hat geschaltet
+beleidigen, beleidigt, beleidigte, hat beleidigt
+reif
+überholen, überholt, überholte, hat überholt
+die Schwangerschaft, -en
+der Müll
+das Vergnügen, -
+fließend
+konsumieren, konsumiert, konsumierte, hat konsumiert
+die Notiz, -en
+der Rasen, -
+die Kabine, -n
+die Schokolade
+der Sekretär, -e die Sekretärin, -nen
+übernachten, übernachtet, übernachtete, hat übernachtet
+überqueren, überquert, überquerte, hat überquert
+operieren, operiert, operierte, hat operiert
+stechen, sticht, stach, hat gestochen
+verwechseln, verwechselt, verwechselte, hat verwechselt
+beschädigen, beschädigt, beschädigte, hat beschädigt
+giftig
+nebenan
+die Dusche, -n
+der Fotograf, -en
+nirgends
+(sich) verabreden, verabredet, verabredete, hat verabredet
+füttern, füttert, fütterte, hat gefüttert
+das Studio, -s
+die Pension, -en
+die Rücksicht, -en
+der Enkel, - die Enkelin, -nen
+die Recherche, -n
+backen, bäckt/backt, backte, hat gebacken
+das Ehepaar, -e
+das Motorrad, ¨-er
+pünktlich
+der Dialekt, -e
+der Beleg, -e
+die Rezeption/Reception, - en
+das Tennis
+die Puppe, -n
+der Spaziergang, ¨-e
+optimistisch
+der Rekord, -e
+der Einbruch, ¨-e
+worüber
+der Gruß, ¨-e
+die Ehefrau, -en/der Ehemann, ¨-er
+höflich
+das Forum, Foren (Internetforum)
+der Spezialist, -en die Spezialistin, -nen
+der Apparat, -e
+spitz
+das Ticket, -s
+das Fieber
+gießen, gießt, goss, gegossen
+das Denkmal, ¨-er
+die Einzelheit, -en
+der Import, -e
+der Cousin, -s die Cousine, -n
+das Asyl
+faul
+verzeihen, verzeiht, verzieh, hat verziehen
+der Einkauf, ¨-e
+das Nahrungsmittel, -
+behindern, behindert, behinderte, hat behindert behindert
+die Metropole, -n
+ausgezeichnet
+das Kissen, -
+die Kündigung, -en
+sich langweilen, langweilt, langweilte, hat gelangweilt
+das Stockwerk, -e
+die Jeans (Pl.)
+die Kopie, -n
+der Umzug, ¨-e
+die Butter
+die Kreuzung, -en
+die Tablette, -n

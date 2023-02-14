@@ -18,7 +18,8 @@ def extract_word_list(filename):
                     if 65 < block[1] < 790 and not re.findall(r'^[A-Z]$', block[-3]):
                         blocks.append(re.sub(r'\s+', ' ', block[-3]).strip())
                 for i in range(len(blocks) // 2):
-                    word_list.append(blocks[i])
+                    if u'\u2192' not in blocks[i]:
+                        word_list.append(blocks[i])
     return word_list
 
 def get_pronunciation(word):
@@ -54,8 +55,6 @@ if __name__ == '__main__':
     print('Frequency Coverage: %0.2f %%' % (len(word_freq) / len(word_list) * 100))
 
     word_freq.sort(key=lambda x: x[1])
-    word_freq.extend(remainder)
     with open('wortliste.txt', 'w') as outfile:
-        for i, (entry, freq) in enumerate(word_freq):
-            position = f'{i + 1}' if freq else f'({i + 1})'
-            outfile.write(f'{position}. {entry}\n')
+        for i, (entry, _) in enumerate(word_freq):
+            outfile.write(f'{entry}\n')
