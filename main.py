@@ -3,7 +3,7 @@ import requests, urllib, random, fitz, os, re
 
 WORD_LIST_URL = 'https://www.goethe.de/pro/relaunch/prf/en/Goethe-Zertifikat_B1_Wortliste.pdf'
 FREQ_DICT_URL = 'https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/A_Frequency_Dictionary_of_German'
-RE_PATTERN = r'(der|die|das)\s|\([^\)]+\)\s||\(herunter-\)|sich\s|^\-|\-$|\s\(Sg.\)|\s\(Pl.\)'
+RE_PATTERN = r'(der|die|das)\s|\([^\)]+\)\s|\(herunter-\)|sich\s|^\-|\-$|\s\(Sg.\)|\s\(Pl.\)'
 
 def download_file(filename, url):
     os.system(f'wget -q -O {filename} {url}')
