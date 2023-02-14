@@ -3,6 +3,7 @@ import requests, urllib, random, fitz, os, re
 
 WORD_LIST_URL = 'https://www.goethe.de/pro/relaunch/prf/en/Goethe-Zertifikat_B1_Wortliste.pdf'
 FREQ_DICT_URL = 'https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/A_Frequency_Dictionary_of_German'
+RE_PATTERN = r'(der|die|das)\s|\([^\)]+\)\s||\(herunter-\)|sich\s|^\-|\-$|\s\(Sg.\)|\s\(Pl.\)'
 
 def download_file(filename, url):
     os.system(f'wget -q -O {filename} {url}')
@@ -33,28 +34,31 @@ def get_pronunciation(word):
     return ''
 
 if __name__ == '__main__':
-    download_file('wortliste.pdf', WORD_LIST_URL)
-    word_list = extract_word_list('wortliste.pdf')
+    # download_file('wortliste.pdf', WORD_LIST_URL)
+    # word_list = extract_word_list('wortliste.pdf')
+    word_list = []
+    with open('unsorted.txt') as infile:
+        for entry in infile.readlines():
+            word_list.append(entry.strip())
  
     page = requests.get(FREQ_DICT_URL)
     soup = BeautifulSoup(page.content, 'html.parser')
     text = soup.find_all('ol')[0].get_text().split('\n')
     freq_list = {word: i for i, word in enumerate(text, start=1)}
 
-    pattern = r'(der|die|das)\s|\(sich\)\s|sich\s|\-$|\s\(Pl.\)'
-
     word_freq, remainder = [], []
     for entry in word_list:
-        word = re.sub(pattern, '', re.split(r'[,/]', entry)[0])
-        if word in freq_list:
-            word_freq.append((entry, freq_list[word]))
+        base_word = re.sub(RE_PATTERN, '', re.split(r'[,/]', entry.strip())[0])
+        if base_word in freq_list:
+            word_freq.append((entry, freq_list[base_word]))
         else:
+            print(base_word)
             remainder.append((entry, None))
     random.shuffle(remainder)
 
     print('Frequency Coverage: %0.2f %%' % (len(word_freq) / len(word_list) * 100))
 
     word_freq.sort(key=lambda x: x[1])
-    with open('wortliste.txt', 'w') as outfile:
+    with open('sorted.txt', 'w') as outfile:
         for i, (entry, _) in enumerate(word_freq):
             outfile.write(f'{entry}\n')
