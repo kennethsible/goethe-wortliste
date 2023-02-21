@@ -71,7 +71,7 @@ anerkennen, erkennt an, erkannte an, hat anerkannt
 der Anfang, -̈e
 anfangen, fängt an, fing an, hat angefangen
 anfangs
-die Angabe,-n
+die Angabe, -n
 angeben, gibt an, gab an, hat angegeben
 das Angebot, -e
 der Angehörige, -n die Angehörige, -n
@@ -106,9 +106,9 @@ sich anstrengen, strengt sich an, strengte sich an, hat sich angestrengt
 anstrengend
 der Antrag, -̈e
 die Antwort, -en
-antworten, antwortet, antwortete, hat geant- wortet
+antworten, antwortet, antwortete, hat geantwortet
 der Anwalt, -̈e die Anwältin, -nen
-anwenden, wendet an, wandte an, hat ange- wandt/angewendet
+anwenden, wendet an, wandte an, hat angewandt/angewendet
 anwesend
 die Anzahl, -en
 die Anzeige, -n
@@ -187,11 +187,11 @@ ausgezeichnet
 die Aushilfe, -n
 die Auskunft, -̈e
 das Ausland
-der Ausländer, - die Ausländerin, -nen ausländisch
+der Ausländer, - die Ausländerin, -nen
 ausländisch
 ausmachen, macht aus, machte aus, hat ausgemacht
 die Ausnahme, -n
-ausreichen, reicht aus, re- ichte aus, hat ausgereicht
+ausreichen, reicht aus, reichte aus, hat ausgereicht
 ausreichend
 ausrichten, richtet aus, richtete aus, hat ausgerichtet
 (sich) ausruhen, ruht aus, ruhte aus, hat ausgeruht
@@ -249,7 +249,7 @@ die Baustelle, -n
 beachten, beachtet, beachtete, hat beachtet
 der Beamte, -n die Beamtin, -nen
 beantragen, beantragt, beantragte, hat beantragt
-beantworten, beant- wortet, beantwortete, hat beantwortet
+beantworten, beantwortet, beantwortete, hat beantwortet
 sich bedanken, bedankt, bedankte, hat bedankt
 der Bedarf
 bedeuten, bedeutet, bedeutete, hat bedeutet
@@ -426,7 +426,7 @@ das Buch, -̈er
 buchen, bucht, buchte, hat gebucht
 die Buchhandlung, -en
 der Buchstabe, -n
-buchstabieren, buchsta- biert, buchstabierte, hat buchstabiert
+buchstabieren, buchstabiert, buchstabierte, hat buchstabiert
 das Buffet, -s
 bunt
 die Burg, -en
@@ -469,7 +469,6 @@ darstellen, stellt dar, stellte dar, hat dargestellt
 die Darstellung, -en
 dass
 die Datei, -en
-die Daten (Plural)
 das Datum, die Daten
 die Dauer
 dauern, dauert, dauerte, hat gedauert
@@ -635,7 +634,7 @@ entdecken, entdeckt, entdeckte, hat entdeckt
 entfernen, entfernt, entfernte, hat entfernt
 die Entfernung, -en
 entgegenkommen
-enthalten, enthält, en- thielt, hat enthalten
+enthalten, enthält, enthielt, hat enthalten
 entlang
 entlassen, entlässt, entließ, hat entlassen
 die Entlassung, -en
@@ -648,13 +647,13 @@ die Entschuldigung, -en
 entsorgen, entsorgt, entsorgte, hat entsorgt
 entspannend
 entstehen, entsteht, entstand, ist entstanden
-enttäuschen, enttäuscht, enttäuschte, hat ent- täuscht
+enttäuschen, enttäuscht, enttäuschte, hat enttäuscht
 die Enttäuschung, -en
-entweder ... oder
+entweder … oder
 entwickeln, entwickelt, entwickelte, hat entwickelt
 die Entwicklung, -en
 die Erde
-das Erdgeschoss/ Ergeschoß, -e
+das Erdgeschoss/Ergeschoß, -e
 sich ereignen, ereignet sich, ereignete sich, hat sich ereignet
 das Ereignis, -se
 erfahren, erfährt, erfuhr, hat erfahren
@@ -696,7 +695,7 @@ ernähren, ernährt, ernährte, hat ernährt
 die Ernährung
 erreichen, erreicht, erreichte, hat erreicht
 der Ersatz
-erschrecken, erschrickt, erschrak, ist erschrocken/ jdn. erschrecken, erschreckt, erschreckte, hat erschreckt
+erschrecken, erschrickt, erschrak, ist erschrocken/jdn. erschrecken, erschreckt, erschreckte, hat erschreckt
 erschöpft
 ersetzen, ersetzt, ersetzte, hat ersetzt
 erst
@@ -774,7 +773,7 @@ festhalten, hält fest, hielt fest, hat festgehalten
 festlegen, legt fest, legte fest, hat festgelegt
 festnehmen, nimmt fest, nahm fest, hat festgenommen
 die Festplatte, -n
-festsetzen, setzt fest, set- zte fest, hat festgesetzt
+festsetzen, setzt fest, setzte fest, hat festgesetzt
 feststehen, steht fest, stand fest, ist festgestanden
 feststellen, stellt fest, stellte fest, hat festgestellt
 das Fett
@@ -822,7 +821,7 @@ das Formular, -e
 die Forschung, -en
 die Fortbildung, -en
 der Fortschritt, -e
-fortsetzen, setzt fort, set- zte fort, hat fortgesetzt
+fortsetzen, setzt fort, setzte fort, hat fortgesetzt
 die Fortsetzung, -en
 das Forum, Foren (Internetforum)
 das Foto, -s
@@ -860,7 +859,7 @@ früher/früher-
 das Frühstück
 frühstücken, frühstückt, frühstückte, hat gefrühstückt
 das Fundbüro, -s
-funktionieren, funktion- iert, funktionierte, hat funktioniert
+funktionieren, funktioniert, funktionierte, hat funktioniert
 furchtbar
 der Fuß, -̈e
 der Fußball, -̈e
@@ -890,8 +889,8 @@ die Garderobe, -n
 der Garten, -̈
 das Gas
 der Gast, -̈e
-das Gasthaus, -̈er (A)
-die Gaststätte, -n (D)
+das Gasthaus, -̈er
+die Gaststätte, -n
 geben, gibt, gab, hat gegeben
 das Gebiet, -e
 das Gebirge
@@ -959,7 +958,7 @@ das Geschirr
 das Geschlecht, -er
 der Geschmack
 die Geschwindigkeit, -en
-die Geschwindigkeits- beschränkung, -en
+die Geschwindigkeitsbeschränkung, -en
 die Geschwister (Pl.)
 das Geschäft, -e
 die Gesellschaft, -en
@@ -981,7 +980,7 @@ das Gewissen
 das Gewitter, -
 die Gewohnheit, -en
 gewohnt
-gewöhnen, gewöhnt, gewöhnte, hat gewöhnt/ist gewöhnt
+gewöhnen, gewöhnt, gewöhnte, hat/ist gewöhnt
 gewöhnlich
 das Gewürz, -e
 gießen, gießt, goss, gegossen
@@ -1055,12 +1054,12 @@ der Handwerker, - die Handwerkerin, -nen
 das Handy, -s
 hart
 hassen, hasst, hasste, hat gehasst
-Haupt- die Hauptstadt, -̈e
+die Hauptstadt, -̈e
 der Hauptbahnhof, -̈e
 die Hauptstadt, -̈e
 das Haus, -̈er
 die Hausaufgabe, -n
-die Hausfrau/der Haus- mann
+die Hausfrau/der Hausmann
 der Haushalt, -e
 der Hausmeister, -
 das Haustier, -e
@@ -1138,7 +1137,7 @@ höchstens
 höflich
 die Höhe
 hören, hört, hörte, hat gehört
-der Hörer, -; die Hörerin, -nen der Zuhörer
+der Hörer, -; die Hörerin, -nen
 hübsch
 der Hügel, -
 das Hühnchen, -
@@ -1169,7 +1168,7 @@ installieren, installiert, installierte, hat installiert
 das Institut, -e
 das Instrument, -e
 die Integration, -en
-integrieren, integriert, in- tegrierte, hat integriert
+integrieren, integriert, integrierte, hat integriert
 intelligent
 die Intelligenz
 intensiv
@@ -1182,7 +1181,7 @@ interkulturell
 international
 das Interview, -s
 inzwischen
-irgend- irgendein
+irgendein
 irgendwann
 sich irren, irrt sich, irrte sich, hat sich geirrt
 ja
@@ -1207,7 +1206,7 @@ der Junge, -n
 das Kabel, -
 die Kabine, -n
 der Kaffee
-das Kaffeehaus, -̈er (A)
+das Kaffeehaus, -̈er
 der Kakao, -s
 der Kalender, -
 kalt
@@ -1261,7 +1260,7 @@ das Kleid, -er
 die Kleidung
 klein
 klettern, klettert, kletterte, ist geklettert
-der Klick, - s
+der Klick, -s
 klicken, klickt, klickte, hat geklickt
 das Klima
 die Klimaanlage, -n
@@ -1274,7 +1273,7 @@ der Kloß, -̈e
 klug
 klären, klärt, klärte, hat geklärt
 knapp
-die Kneipe, -n (D)
+die Kneipe, -n
 das Knie, -
 der Knochen, -
 der Knopf, -̈e
@@ -1289,7 +1288,7 @@ komplett
 kompliziert
 der Kompromiss, -e
 die Konferenz, -en
-die Konfitüre, -n (CH)
+die Konfitüre, -n
 der Konflikt, -e
 die Konkurrenz
 das Konsulat, -e
@@ -1306,7 +1305,7 @@ die Kopie, -n
 kopieren
 der Kopierer, -
 korrekt
-korrigieren, korrigiert, ko- rrigierte, hat korrigiert
+korrigieren, korrigiert, korrigierte, hat korrigiert
 kosten, kostet, kostete, hat gekostet
 die Kosten (Pl.)
 kostenlos
@@ -1331,7 +1330,7 @@ die Kreuzung, -en
 der Krieg, -e
 kriegen, kriegt, kriegte, hat gekriegt
 der Krimi, -s
-Kriminal- die Kriminalpolizei
+die Kriminalpolizei
 die Krise, -n
 die Kritik, -en
 kritisch
@@ -1639,7 +1638,7 @@ nirgendwo
 noch
 nochmal
 nochmals
-der Norden/Nord/Nord (Sg.)
+der Norden
 normal
 normalerweise
 die Notaufnahme, -en
@@ -1696,7 +1695,7 @@ organisieren, organisiert, organisierte, hat organisiert
 das Original, -e
 original
 der Ort, -e
-der Osten/Ost/Ost (Sg.)
+der Osten
 der Ozean, -e
 (ein) paar
 das Paar, -e
@@ -1877,7 +1876,7 @@ der Rest, -e
 das Restaurant, -s
 retten, rettet, rettete, hat gerettet
 das Rezept, -e
-die Rezeption/Reception, - en
+die Rezeption/Reception, -en
 der Richter, - die Richterin, -nen
 richtig
 die Richtung, -en
@@ -1902,7 +1901,7 @@ die Runde, -n
 die Rundfahrt, -en
 (hinunter) runterwerfen, wirft runter, warf runter, hat runtergeworfen
 das Rätsel, -
-rück- die Rückfahrt, -en
+die Rückfahrt, -en
 der Rücken, -
 die Rückfahrt, -en
 die Rückkehr
@@ -2024,7 +2023,7 @@ die Schüssel, -n
 schütteln, schüttelt, schüttelte, hat geschüttelt
 schützen, schützt, schützte, hat geschützt
 der See, -n
-die See die Nord-/Ostsee
+die See
 sehen, sieht, sah, hat gesehen
 die Sehenswürdigkeit, -en
 sehr
@@ -2082,7 +2081,7 @@ der Sohn, -̈e
 solange
 solch-
 sollen, soll, sollte, hat gesollt (hat sollen als Modalverb)
-Sonder- das Sonderangebot, -e
+das Sonderangebot, -e
 sondern
 die Sonne
 sonnig
@@ -2105,7 +2104,8 @@ der Spaß
 speichern, speichert, speicherte, hat gespeichert
 Speise-/-speise, -n
 die Speisekarte, -n
-der Speisewagen, - Spezial-
+der Speisewagen, -
+Spezial-
 der Spezialist, -en die Spezialistin, -nen
 speziell
 der Spiegel, -
@@ -2227,7 +2227,7 @@ die Szene, -n
 sämtliche
 der Sänger, - die Sängerin, -nen
 süchtig
-der Süden/Süd/Süd (Sg.)
+der Süden
 südlich
 süß
 die Tabelle, -n
@@ -2332,7 +2332,7 @@ trocknen, trocknet, trocknete, hat/ist getrocknet
 die Tropfen (Pl.)
 trotz
 trotzdem
-die Träne, -n transportieren, trans- portiert, transportierte, hat transportiert
+die Träne, -n
 träumen, träumt, träumte, hat geträumt
 das Tuch, -̈er
 tun, tut, tat, hat getan
@@ -2364,7 +2364,7 @@ der Umtausch, -̈e
 umtauschen, tauscht um, tauschte um, hat umgetauscht
 die Umwelt
 der Umweltschutz
-die Umweltver- schmutzung, -en
+die Umweltverschmutzung, -en
 umziehen, zieht um, zog um, ist umgezogen
 sich umziehen, zieht sich um, zog sich um, hat sich umgezogen
 der Umzug, -̈e
@@ -2384,22 +2384,22 @@ unten
 unter
 unter-
 unterbrechen, unterbricht, unterbrach, hat unterbrochen
-(sich) unterhalten, unter- hält, unterhielt, hat unterhalten
+(sich) unterhalten, unterhält, unterhielt, hat unterhalten
 die Unterhaltung, -en
 die Unterkunft, -̈e
 die Unterlagen (Pl.)
 unterlassen, unterlässt, unterließ, hat unterlassen
-unternehmen, untern- immt, unternahm, hat unternommen
+unternehmen, unternimmt, unternahm, hat unternommen
 der Unternehmer, - die Unternehmerin, -nen
 der Unterricht
 unterrichten, unterrichtet, unterrichtete, hat unterrichtet
 untersagt
-unterscheiden, unter- scheidet, unterschied, hat unterschieden
+unterscheiden, unterscheidet, unterschied, hat unterschieden
 der Unterschied, -e
 unterschiedlich
-unterschreiben, unter- schreibt, unterschrieb, hat unterschrieben
+unterschreiben, unterschreibt, unterschrieb, hat unterschrieben
 die Unterschrift, -en
-unterstreichen, unterstre- icht, unterstrich, hat unterstrichen
+unterstreichen, unterstreicht, unterstrich, hat unterstrichen
 unterstützen, unterstützt, unterstützte, hat unterstützt
 die Unterstützung, -en
 untersuchen, untersucht, untersuchte, hat untersucht
@@ -2468,7 +2468,7 @@ der Verlierer, - die Verliererin, -nen
 der Verlust, -e
 verlängern, verlängert, verlängerte, hat verlängert
 vermeiden, vermeidet, vermied, hat vermieden
-vermieten, vermietet, ver- mietete, hat vermietet
+vermieten, vermietet, vermietete, hat vermietet
 der Vermieter, - die Vermieterin, -nen
 die Vermietung, -en
 vermissen, vermisst, vermisste, hat vermisst
@@ -2514,12 +2514,12 @@ die Verwaltung, -en
 verwandt
 der Verwandte, -n die Verwandte, -n
 verwechseln, verwechselt, verwechselte, hat verwechselt
-verwenden, verwendet, verwendete, hat verwen- det
+verwenden, verwendet, verwendete, hat verwendet
 verzeihen, verzeiht, verzieh, hat verziehen
 Verzeihung
 verzichten, verzichtet, verzichtete, hat verzichtet
 (sich) verändern, verändert, veränderte, hat verändert
-veröffentlichen, veröf- fentlicht, veröffentlichte, hat veröffentlicht
+veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht
 das Video, -s
 viel/viele
 vielleicht
@@ -2593,7 +2593,7 @@ was für ein-
 (sich) waschen, wäscht, wusch, hat gewaschen
 das Waschmittel, -
 das Wasser
-weder ... noch
+weder … noch
 wechseln, wechselt, wechselte, hat gewechselt
 wecken, weckt, weckte, hat geweckt
 der Wecker, -
@@ -2631,7 +2631,7 @@ der Wert, -e
 wertlos
 wertvoll
 weshalb
-der Westen, West, West- (Sg.)
+der Westen
 westlich
 der Wettbewerb, -e
 wetten, wettet, wettete, hat gewettet
@@ -2710,7 +2710,7 @@ die Zeichnung, -en
 zeigen, zeigt, zeigte, hat gezeigt
 die Zeile, -n
 die Zeit
-der Zeitpunkt, - e
+der Zeitpunkt, -e
 die Zeitschrift, -en
 die Zeitung, -en
 das Zelt, -e
@@ -2728,7 +2728,7 @@ das Ziel, -e
 ziemlich
 die Zigarette, -n
 das Zimmer, -
-die Zinsen (nur Pl.)
+die Zinsen (Pl.)
 der Zirkus, -se
 die Zitrone, -n
 der Zoll, -̈e
@@ -2796,12 +2796,12 @@ der Ärger
 öffentlich
 die Öffentlichkeit
 öffnen, öffnet, öffnete, hat geöffnet
-Öko- (ökologisch)
+Öko-
 das Öl, -e
-örtlich
+östlich
 üben
 über
-über- übertreiben, übertreibt, übertrieb, hat übertrieben
+übertreiben, übertreibt, übertrieb, hat übertrieben
 überall
 überfahren, überfährt, überfuhr, hat überfahren
 überhaupt
@@ -2824,7 +2824,7 @@ die Überstunde, -n
 übertragen, überträgt, übertrug, hat übertragen
 übertreiben, übertreibt, übertrieb, hat übertrieben
 überweisen, überweist, überwies, hat überwiesen
-die Überweisung, - en
+die Überweisung, -en
 (sich) überzeugen, überzeugt, überzeugte, hat überzeugt die Überzeugung, -en
 die Überzeugung, -en
 üblich
