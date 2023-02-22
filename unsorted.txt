@@ -442,7 +442,7 @@ die Cafeteria, -s
 das Café, -s
 die Chance, -n
 der Chef, -s die Chefin, -nen
-die Chemie (Sg.)
+die Chemie
 chic/schick
 die Chipkarte, -n
 die Couch, -s
@@ -611,7 +611,7 @@ die Einzelheit, -en
 einzeln
 einziehen, zieht ein, zog ein, ist eingezogen das Eis
 einzig-
-das Eis (Sg.)
+das Eis
 die Eisenbahn, -en
 elegant
 elektrisch
@@ -729,7 +729,7 @@ die Fachleute (Pl.)
 der Fachmann die Fachfrau, -en
 die Fahrbahn, -en
 fahren, fährt, fuhr, ist/hat gefahren
-(herunter-)fahren, fährt herunter, fuhr herunter, hat heruntergefahren
+herunterfahren, fährt herunter, fuhr herunter, hat heruntergefahren
 der Fahrer, -
 die Fahrkarte, -n
 der Fahrplan, -̈e
@@ -1031,7 +1031,7 @@ gültig
 günstig
 das Haar, -e
 haben, hat, hatte, hat gehabt
-das Hackfleisch (Sg.)
+das Hackfleisch
 der Hafen, -̈
 hageln, hagelt, hagelte, hat gehagelt
 halb
@@ -1081,7 +1081,7 @@ helfen, hilft, half, hat geholfen
 hell
 das Hemd, -en
 her/her-
-heraus-, raus- (heraus-) finden, findet heraus, fand heraus, hat herausgefunden
+herausfinden, findet heraus, fand heraus, hat herausgefunden
 die Herausforderung, -en
 der Herd, -e
 herein-, rein-
@@ -1089,7 +1089,7 @@ die Herkunft
 der Herr, -en
 herstellen, stellt her, stellte her, hat hergestellt
 der Hersteller, -
-herunter-, runter- (herunter-)laden, lädt herunter, lud herunter, hat heruntergeladen
+herunterladen, lädt herunter, lud herunter, hat heruntergeladen
 das Herz, -en
 herzlich
 heute
@@ -1486,7 +1486,7 @@ der Markt, -̈e
 die Marmelade, -n (D, A)
 die Maschine, -n
 das Material
-die Mathematik (Sg.)
+die Mathematik
 die Mauer, -n
 die Maus, -̈e
 maximal
@@ -1667,7 +1667,7 @@ oder
 ob
 oben
 ober-
-das Obst (Sg.)
+das Obst
 obwohl
 der Ofen, -̈
 offen
@@ -1738,7 +1738,7 @@ der Pfleger, - die Pflegerin, -nen
 die Pflicht, -en
 die Phantasie/Fantasie, -n
 die Philosophie, -n
-die Physik (Sg.)
+die Physik
 das Picknick, -s die Pille, -n
 die Pille, -n
 der Pilz, -e
@@ -1913,7 +1913,7 @@ die Sache, -n
 der Sack, -̈e
 der Saft, -̈e
 sagen, sagt, sagte, hat gesagt
-die Sahne (Sg.)
+die Sahne
 die Saison, -s
 der Salat, -e
 die Salbe, -n
@@ -2825,7 +2825,7 @@ die Überstunde, -n
 übertreiben, übertreibt, übertrieb, hat übertrieben
 überweisen, überweist, überwies, hat überwiesen
 die Überweisung, -en
-(sich) überzeugen, überzeugt, überzeugte, hat überzeugt die Überzeugung, -en
+(sich) überzeugen, überzeugt, überzeugte, hat überzeugt
 die Überzeugung, -en
 üblich
 übrig

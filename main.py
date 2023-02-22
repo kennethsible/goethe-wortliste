@@ -3,7 +3,7 @@ import requests, urllib, random, fitz, os, re
 
 WORD_LIST_URL = 'https://www.goethe.de/pro/relaunch/prf/en/Goethe-Zertifikat_B1_Wortliste.pdf'
 FREQ_DICT_URL = 'https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/A_Frequency_Dictionary_of_German'
-RE_PATTERN = r'(der|die|das)\s|\([^\)]+\)\s|\(herunter-\)|sich\s|^\-|\-$|\s\(Sg.\)|\s\(Pl.\)'
+RE_PATTERN = r'^(der|die|das)\s|^\([^\)]+\)\s|^sich(\setwas)?\s|^-|-$|\s\(Pl.\)$'
 
 def download_file(filename, url):
     os.system(f'wget -q -O {filename} {url}')
@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
     word_freq, remainder = [], []
     for entry in word_list:
-        base_word = re.sub(RE_PATTERN, '', re.split(r'[,/]', entry.strip())[0])
+        base_word = re.sub(RE_PATTERN, '', re.split(r'[,/…]', entry.strip())[0])
         if base_word in freq_list:
             word_freq.append((entry, freq_list[base_word]))
         else:
@@ -59,6 +59,7 @@ if __name__ == '__main__':
     print('Frequency Coverage: %0.2f %%' % (len(word_freq) / len(word_list) * 100))
 
     word_freq.sort(key=lambda x: x[1])
+    word_freq.extend(remainder)
     with open('sorted.txt', 'w') as outfile:
         for i, (entry, _) in enumerate(word_freq):
             outfile.write(f'{entry}\n')
